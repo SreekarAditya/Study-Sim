@@ -1,4 +1,4 @@
-# Demo-Sim
+# Study-Sim
 
 An end-to-end **synthetic** demonstration of structural sensing, environmental
 normalisation, joint state estimation, two-tier durability state, performance
