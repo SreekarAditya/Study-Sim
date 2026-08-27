@@ -1,0 +1,11 @@
+member_id,member,period,action,source
+0,M00,2,cover,illustrative
+1,M01,1,combined,illustrative
+2,M02,5,combined,illustrative
+3,M03,3,combined,illustrative
+5,M05,3,cover,illustrative
+6,M06,4,cover,illustrative
+12,M12,5,cover,illustrative
+14,M14,2,jacket,illustrative
+15,M15,4,cover,illustrative
+18,M18,1,cover,illustrative

@@ -1,0 +1,22 @@
+member_id,member,tier,M_mean,M_sd,M_p05,M_p95,true_M_hidden_until_final_comparison,functional_form,source
+0,M00,reduced_alpha_only,2.9151723660231594,1.9941362594771335,1.0,6.643187376275676,1.0034540547315363,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+1,M01,reduced_alpha_only,2.3699235698054255,1.4566767343375429,1.0,5.595350196772168,2.372688545543245,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+2,M02,full_alpha_w_theta,1.7808530645697551,0.29335769355651703,1.3707933774251462,2.304965743799133,2.213833379054848,"M_full(alpha,w,theta); source=illustrative",illustrative
+3,M03,reduced_alpha_only,2.78510528662023,1.7132727954844944,1.0,6.1279263400765585,1.0472158581719753,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+4,M04,reduced_alpha_only,1.4204747464308534,0.6383161935799614,1.0,2.6922324310790056,1.7973892278354158,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+5,M05,reduced_alpha_only,2.6363031497616176,1.7344430089971634,1.0,5.727917483059387,1.0860526361224594,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+6,M06,reduced_alpha_only,2.6401591695189346,1.5614124764642083,1.0,5.781907610943013,2.2525596694307835,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+7,M07,full_alpha_w_theta,1.793184277545602,0.21926776881058624,1.4658991780185198,2.1577502834768434,2.055707701157563,"M_full(alpha,w,theta); source=illustrative",illustrative
+8,M08,full_alpha_w_theta,1.0794875752178685,0.10674701106632102,1.0,1.3197886870762987,1.000019901520069,"M_full(alpha,w,theta); source=illustrative",illustrative
+9,M09,full_alpha_w_theta,2.041101486626295,0.3342509485686895,1.5289334508529258,2.6550147114318507,2.157456229847046,"M_full(alpha,w,theta); source=illustrative",illustrative
+10,M10,reduced_alpha_only,2.5167837308566265,1.5402970594196406,1.0,5.746570052048303,1.4868877796895046,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+11,M11,reduced_alpha_only,1.3522764323028567,0.5084736514126975,1.0,2.3206153634784523,2.008636249434306,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+12,M12,full_alpha_w_theta,1.280980121279029,0.14602066387490908,1.0698018790579487,1.5358697174832865,1.4806905875135854,"M_full(alpha,w,theta); source=illustrative",illustrative
+13,M13,reduced_alpha_only,1.332642265631159,0.5345800241035269,1.0,2.545572212519275,2.9627680846635176,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+14,M14,reduced_alpha_only,1.386554072086791,0.5185818316743191,1.0,2.3987347761718687,1.452835174531901,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+15,M15,full_alpha_w_theta,1.3760328420166295,0.1978609243721467,1.0818896585158069,1.7479687166012994,1.9694673678085386,"M_full(alpha,w,theta); source=illustrative",illustrative
+16,M16,reduced_alpha_only,1.3443220342543591,0.5215004476933014,1.0,2.2412764757563073,1.4218108237624936,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+17,M17,reduced_alpha_only,1.3648459134452635,0.5002450661092379,1.0,2.334105403984877,1.9521176302588685,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+18,M18,full_alpha_w_theta,1.2644879960195952,0.13928521373401653,1.0553420908327442,1.528068641297295,1.0675319663306007,"M_full(alpha,w,theta); source=illustrative",illustrative
+19,M19,reduced_alpha_only,1.3149870865227435,0.5166518498549432,1.0,2.2834269622619288,3.3787532009646974,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative
+20,M20,reduced_alpha_only,1.2911905501435257,0.4354074921718398,1.0,2.1636724898340076,2.0221322062683296,M_reduced(alpha) with inflated log uncertainty; source=illustrative,illustrative

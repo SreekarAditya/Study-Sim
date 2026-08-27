@@ -1,0 +1,31 @@
+{
+  "definition": "same catalogue, horizon and budgets, but action moments computed from hidden true alpha,w,theta with zero epistemic variance",
+  "matched_member_action_pairs": 2,
+  "inferred_member_action_pairs": 11,
+  "oracle_member_action_pairs": 11,
+  "jaccard_similarity": 0.1,
+  "inferred_only": [
+    "M00:cover",
+    "M01:combined",
+    "M02:jacket",
+    "M03:combined",
+    "M05:cover",
+    "M05:jacket",
+    "M06:jacket",
+    "M12:cover",
+    "M14:cover"
+  ],
+  "oracle_only": [
+    "M01:cover",
+    "M02:cover",
+    "M04:cover",
+    "M10:jacket",
+    "M12:combined",
+    "M13:cover",
+    "M14:jacket",
+    "M17:cover",
+    "M20:cover"
+  ],
+  "oracle_feasible": true,
+  "source": "illustrative"
+}

@@ -1,0 +1,21 @@
+{
+  "definition": "exact MILP plans under inferred state and hidden true state; same catalogue, horizon and hard constraints",
+  "matched_member_action_pairs": 6,
+  "inferred_member_action_pairs": 10,
+  "oracle_member_action_pairs": 10,
+  "jaccard_similarity": 0.42857142857142855,
+  "inferred_only": [
+    "M00:cover",
+    "M02:jacket",
+    "M03:combined",
+    "M05:combined"
+  ],
+  "oracle_only": [
+    "M09:cover",
+    "M13:combined",
+    "M16:cover",
+    "M17:combined"
+  ],
+  "both_plans_proven_optimal": true,
+  "source": "illustrative"
+}

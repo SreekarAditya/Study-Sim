@@ -1,0 +1,7 @@
+stage,state_quantity,centre,uncertainty,uncertainty_definition,classification_or_note,member,source
+raw sensing (frequency only),alpha,0.9,0.16858054971921846,linearised posterior SD; environment still present,member state not directly observed,M03,illustrative
+environment-normalised frequency,alpha,0.9,0.16768058794047885,linearised frequency-only posterior SD,residual contamination retained in frequency SD,M03,illustrative
+joint modal state estimation,alpha,0.6545194968415654,0.20069369372489232,joint Laplace posterior SD with full covariance,trades_off,M03,illustrative
+two-tier admissibility,alpha,0.6545194968415654,0.33114459464607227,tier-adjusted alpha SD,reduced_alpha_only,M03,illustrative
+transport propagation,M transport ratio,2.78510528662023,1.7132727954844944,Monte Carlo SD including alpha and geometry tier,M_reduced(alpha) with inflated log uncertainty; source=illustrative,M03,illustrative
+performance classification,utilisation,1.598798407840817,0.24474788429777034,Monte Carlo SD; conformal interval reported separately,Fail; conformal set Fail,M03,illustrative

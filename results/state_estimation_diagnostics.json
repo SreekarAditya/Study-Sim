@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "hierarchical Laplace empirical-Bayes IRLS converged",
+  "cost": 7.4459451557601675,
+  "n_function_evaluations": 564,
+  "sparse_iterations": 11,
+  "hyperprior": "tau ~ Gamma(shape, rate), equivalently Laplace scale b=1/tau ~ inverse-Gamma; source=illustrative",
+  "inferred_laplace_precision_tau": 7.022430131933628,
+  "inferred_laplace_scale": 0.14240084717292156,
+  "joint_covariance_includes_hyperparameter": true,
+  "reference_formulation": "hierarchical Laplace prior following Huang-Beck-Li and Chen-Zhang-Zheng-Sun (2020); implementation constants illustrative",
+  "prior": "hierarchical_laplace_sparse",
+  "information_condition_number": 62.46519996172231,
+  "separability_rule": "alpha_sd <= 0.17 AND max_abs_parameter_correlation <= 0.82",
+  "separable_members": 19,
+  "tradeoff_members": 2,
+  "source": "illustrative"
+}

@@ -1,0 +1,3 @@
+prior,milp_plan_jaccard_vs_milp_oracle,milp_prior_objective,milp_oracle_objective,source
+flat_prior,0.25,-37.210741046052945,-101.74677913535223,illustrative
+sparse_prior,0.42857142857142855,-24.298092155497123,-101.74677913535223,illustrative

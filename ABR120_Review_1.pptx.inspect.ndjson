@@ -1,0 +1,532 @@
+{"kind":"deck","id":"pr/4lliyl","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"Department of Civil Engineering","textShapes":11}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Rectangle 1","bbox":[72,246,1136,2]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"Rectangle 2","text":"Department of Civil Engineering","textPreview":"Department of Civil Engineering","textChars":31,"textLines":1,"bbox":[120,266,1040,44]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"Rectangle 3","text":"A Vibration-Driven Structural Digital Twin for\nUncertainty-Aware Retrofit Decision Making","textPreview":"A Vibration-Driven Structural Digital Twin for | Uncertainty-Aware Retrofit Decision Making","textChars":89,"textLines":2,"bbox":[108,320,1064,104]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"Rectangle 4","text":"Batch: ABR120","textPreview":"Batch: ABR120","textChars":13,"textLines":1,"bbox":[440,471,400,34]}
+{"kind":"shape","id":"sh/ts7md4r2","slide":1,"name":"Rectangle 5","bbox":[132,474.88,1040,28]}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"Rectangle 6","bbox":[250,518,780,1]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"Rectangle 7","text":"P. Sahasra Reddy","textPreview":"P. Sahasra Reddy","textChars":16,"textLines":1,"bbox":[278,526,400,28]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"Rectangle 8","text":"160123732015","textPreview":"160123732015","textChars":12,"textLines":1,"bbox":[714,526,288,28]}
+{"kind":"shape","id":"sh/wn6dc7eh","slide":1,"name":"Rectangle 9","bbox":[250,560,780,1]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"name":"Rectangle 10","text":"M. Bhagirath Reddy","textPreview":"M. Bhagirath Reddy","textChars":18,"textLines":1,"bbox":[278,568,400,28]}
+{"kind":"textbox","id":"sh/ul4vaxgb","slide":1,"name":"Rectangle 11","text":"160123732046","textPreview":"160123732046","textChars":12,"textLines":1,"bbox":[714,568,288,28]}
+{"kind":"shape","id":"sh/vmdcj2xw","slide":1,"name":"Rectangle 12","bbox":[250,602,780,1]}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"name":"Rectangle 13","text":"P. Sreekar Aditya Reddy","textPreview":"P. Sreekar Aditya Reddy","textChars":23,"textLines":1,"bbox":[278,610,400,28]}
+{"kind":"textbox","id":"sh/5sfepcfe","slide":1,"name":"Rectangle 14","text":"160123732048","textPreview":"160123732048","textChars":12,"textLines":1,"bbox":[714,610,288,28]}
+{"kind":"shape","id":"sh/ipovexwn","slide":1,"name":"Rectangle 15","bbox":[250,644,780,1]}
+{"kind":"textbox","id":"sh/3qxwn2x8","slide":1,"name":"Rectangle 16","text":"Project Guide: Dr. A. Balaji Rao, Associate Professor","textPreview":"Project Guide: Dr. A. Balaji Rao, Associate Professor","textChars":53,"textLines":1,"bbox":[220,660,840,28]}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"TextBox 19","text":"Major Project Review 1","textPreview":"Major Project Review 1","textChars":22,"textLines":1,"bbox":[478,420.59,347.23,48.47]}
+{"kind":"image","id":"im/rudgbyx4","slide":1,"name":"Picture 17","bbox":[0,0,1280,237]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources]\n- /Users/sreekaraditya/Downloads/Project_Summary_ABR120.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Contents","textShapes":30}
+{"kind":"shape","id":"sh/v2lc36dw","slide":2,"name":"Rectangle 47","bbox":[64,34,500,22]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"Rectangle 1","text":"Contents","textPreview":"Contents","textChars":8,"textLines":1,"bbox":[64,72,520,58]}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"name":"Rectangle 2","bbox":[64,140,1152,2]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"Rectangle 3","bbox":[640,180,1,440]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"Rectangle 4","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[82,180,48,34]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"Rectangle 5","text":"Introduction","textPreview":"Introduction","textChars":12,"textLines":1,"bbox":[138,180,486,38]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Rectangle 6","bbox":[138,227,472,1]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"Rectangle 7","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[82,244,48,34]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"Rectangle 8","text":"Literature Review","textPreview":"Literature Review","textChars":17,"textLines":1,"bbox":[138,244,486,38]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"Rectangle 9","bbox":[138,291,472,1]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"Rectangle 10","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[82,308,48,34]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"Rectangle 11","text":"Literature Review(Continued)","textPreview":"Literature Review(Continued)","textChars":28,"textLines":1,"bbox":[138,308,486,38]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"Rectangle 12","bbox":[138,355,472,1]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"Rectangle 13","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[82,372,48,34]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"Rectangle 14","text":"Research Gap Identification","textPreview":"Research Gap Identification","textChars":27,"textLines":1,"bbox":[138,372,486,38]}
+{"kind":"shape","id":"sh/ahwrqhgj","slide":2,"name":"Rectangle 15","bbox":[138,419,472,1]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"name":"Rectangle 16","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[82,436,48,34]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"Rectangle 17","text":"Aim and Objectives","textPreview":"Aim and Objectives","textChars":18,"textLines":1,"bbox":[138,436,486,38]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"Rectangle 18","bbox":[138,483,472,1]}
+{"kind":"textbox","id":"sh/t8byxkn2","slide":2,"name":"Rectangle 19","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[82,500,48,34]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"Rectangle 20","text":"Architecture — Chain","textPreview":"Architecture — Chain","textChars":20,"textLines":1,"bbox":[138,500,486,38]}
+{"kind":"shape","id":"sh/76twva5c","slide":2,"name":"Rectangle 21","bbox":[138,547,472,1]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"Rectangle 22","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[82,564,48,34]}
+{"kind":"textbox","id":"sh/hcvy14ne","slide":2,"name":"Rectangle 23","text":"Two-Tier State","textPreview":"Two-Tier State","textChars":14,"textLines":1,"bbox":[138,564,486,38]}
+{"kind":"shape","id":"sh/gbmxszmt","slide":2,"name":"Rectangle 24","bbox":[138,611,472,1]}
+{"kind":"textbox","id":"sh/fadgzu58","slide":2,"name":"Rectangle 25","text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[678,180,48,34]}
+{"kind":"textbox","id":"sh/u94fqp4n","slide":2,"name":"Rectangle 26","text":"Decision Layer","textPreview":"Decision Layer","textChars":14,"textLines":1,"bbox":[734,180,486,38]}
+{"kind":"shape","id":"sh/p0vy54na","slide":2,"name":"Rectangle 27","bbox":[734,227,472,1]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"Rectangle 28","text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[678,244,48,34]}
+{"kind":"textbox","id":"sh/mlgvq147","slide":2,"name":"Rectangle 29","text":"Experimental Campaign","textPreview":"Experimental Campaign","textChars":21,"textLines":1,"bbox":[734,244,486,38]}
+{"kind":"shape","id":"sh/nmpcj6ls","slide":2,"name":"Rectangle 30","bbox":[734,291,472,1]}
+{"kind":"textbox","id":"sh/onydsbmd","slide":2,"name":"Rectangle 31","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[669,309.32,65,34]}
+{"kind":"textbox","id":"sh/9o7ulg3y","slide":2,"name":"Rectangle 32","text":"Summary of Findings","textPreview":"Summary of Findings","textChars":19,"textLines":1,"bbox":[734,308,486,38]}
+{"kind":"shape","id":"sh/a9gvulkj","slide":2,"name":"Rectangle 33","bbox":[734,355,472,1]}
+{"kind":"textbox","id":"sh/ba9cn6l4","slide":2,"name":"Rectangle 34","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[669,372,57,34]}
+{"kind":"textbox","id":"sh/wbidwb29","slide":2,"name":"Rectangle 35","text":"Work Done","textPreview":"Work Done","textChars":9,"textLines":1,"bbox":[734,372,486,38]}
+{"kind":"shape","id":"sh/xcrupg3u","slide":2,"name":"Rectangle 36","bbox":[734,419,472,1]}
+{"kind":"textbox","id":"sh/id0vylkf","slide":2,"name":"Rectangle 37","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[669,436,57,34]}
+{"kind":"textbox","id":"sh/je9crql0","slide":2,"name":"Rectangle 38","text":"Work Remaining","textPreview":"Work Remaining","textChars":14,"textLines":1,"bbox":[734,436,486,38]}
+{"kind":"shape","id":"sh/ru5cbqd4","slide":2,"name":"Rectangle 39","bbox":[734,483,472,1]}
+{"kind":"textbox","id":"sh/69wbilcj","slide":2,"name":"Rectangle 40","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[669,500,57,34]}
+{"kind":"textbox","id":"sh/tw7ud0va","slide":2,"name":"Rectangle 41","text":"Roadmap & Timeline","textPreview":"Roadmap & Timeline","textChars":18,"textLines":1,"bbox":[734,500,486,38]}
+{"kind":"shape","id":"sh/svedkvup","slide":2,"name":"Rectangle 42","bbox":[734,547,472,1]}
+{"kind":"textbox","id":"sh/fypcfqdg","slide":2,"name":"Rectangle 43","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[669,564,57,34]}
+{"kind":"textbox","id":"sh/exgvmlcv","slide":2,"name":"Rectangle 44","text":"References","textPreview":"References","textChars":10,"textLines":1,"bbox":[734,564,486,38]}
+{"kind":"shape","id":"sh/107uh0v6","slide":2,"name":"Rectangle 45","bbox":[734,611,472,1]}
+{"kind":"textbox","id":"sh/gzydovul","slide":2,"name":"Rectangle 46","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1148.49,657,67.51,35]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources]\n- User-provided slide structure and the current presentation sequence\n[/Sources]"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Introduction","textShapes":12}
+{"kind":"textbox","id":"sh/ja54na9g","slide":3,"name":"Rectangle 17","text":"Introduction","textPreview":"Introduction","textChars":12,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"Rectangle 2","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"Rectangle 3","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[72,146,42,34]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"Rectangle 4","text":"Reinforced-concrete structures deteriorate through changes in load-bearing stiffness and in the condition of the concrete cover.","textPreview":"Reinforced-concrete structures deteriorate through changes in load-bearing stiffness and in the condition of the concrete cover.","textChars":128,"textLines":1,"bbox":[124,144,1068,62]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"Rectangle 5","bbox":[124,216,1068,1]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"Rectangle 6","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[72,242,42,34]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"Rectangle 7","text":"Vibration measurements provide non-destructive information about structural response and member-level mechanical condition.","textPreview":"Vibration measurements provide non-destructive information about structural response and member-level mechanical condition.","textChars":123,"textLines":1,"bbox":[124,240,1068,62]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"Rectangle 8","bbox":[124,312,1068,1]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"Rectangle 9","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[72,338,42,34]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"Rectangle 10","text":"Crack width, crack orientation and water sorptivity provide complementary information about durability-related transport through concrete.","textPreview":"Crack width, crack orientation and water sorptivity provide complementary information about durability-related transport through concrete.","textChars":138,"textLines":1,"bbox":[124,336,1068,62]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"Rectangle 11","bbox":[124,408,1068,1]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"name":"Rectangle 12","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[72,434,42,34]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"Rectangle 13","text":"Mechanical deterioration and cover deterioration may require different interventions, such as strengthening or cover repair.","textPreview":"Mechanical deterioration and cover deterioration may require different interventions, such as strengthening or cover repair.","textChars":124,"textLines":1,"bbox":[124,432,1068,62]}
+{"kind":"shape","id":"sh/a5c3ql8z","slide":3,"name":"Rectangle 14","bbox":[124,504,1068,1]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"Rectangle 15","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[72,530,42,34]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"name":"Rectangle 16","text":"The project therefore integrates sensing, uncertainty-aware state estimation, experimental calibration and constrained retrofit planning in one workflow.","textPreview":"The project therefore integrates sensing, uncertainty-aware state estimation, experimental calibration and constrained retrofit planning ...","textChars":153,"textLines":1,"bbox":[124,528,1068,62]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\n- /Users/sreekaraditya/Downloads/Project_Summary_ABR120.docx\n- User-provided team briefing document, Sections 2 and 4\n[/Sources]"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Literature review","textShapes":32}
+{"kind":"textbox","id":"sh/0bipc3el","slide":4,"name":"Rectangle 64","text":"Literature review","textPreview":"Literature review","textChars":17,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"Rectangle 2","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"Rectangle 3","bbox":[44,130,1160,28]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"Rectangle 4","bbox":[44,157.96,265,63.04]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"Rectangle 5","text":"Title","textPreview":"Title","textChars":5,"textLines":1,"bbox":[52,157.6,249,33.37]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"Rectangle 6","bbox":[309,148.7,112,51.17]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"Rectangle 7","text":"Author","textPreview":"Author","textChars":6,"textLines":1,"bbox":[317,157.6,96,33.37]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"Rectangle 8","bbox":[421,148.7,82,51.17]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"Rectangle 9","text":"Year","textPreview":"Year","textChars":4,"textLines":1,"bbox":[429,157.6,66,33.37]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"Rectangle 10","bbox":[493,148.7,165,51.17]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"Rectangle 11","text":"Journal · publisher","textPreview":"Journal · publisher","textChars":19,"textLines":1,"bbox":[501,157.6,149,33.37]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"Rectangle 12","bbox":[658,148.7,285,51.17]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"Rectangle 13","text":"Methodology · inputs → outputs","textPreview":"Methodology · inputs → outputs","textChars":30,"textLines":1,"bbox":[666,157.6,269,33.37]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"name":"Rectangle 14","bbox":[943,148.7,293,51.17]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"Rectangle 15","text":"Key finding","textPreview":"Key finding","textChars":11,"textLines":1,"bbox":[951,157.6,277,33.37]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"Rectangle 16","bbox":[44,199.87,265,116.8]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"Rectangle 17","text":"Damage detection under environmental and operational variability using cointegration","textPreview":"Damage detection under environmental and operational variability using cointegration","textChars":84,"textLines":1,"bbox":[52,208.77,249,101.23]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"Rectangle 18","bbox":[309,199.87,112,116.8]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"name":"Rectangle 19","text":"Pirrò et al.","textPreview":"Pirrò et al.","textChars":12,"textLines":1,"bbox":[317,208.77,96,101.23]}
+{"kind":"shape","id":"sh/oz29krqh","slide":4,"name":"Rectangle 20","bbox":[421,199.87,82,116.8]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"Rectangle 21","text":"2025","textPreview":"2025","textChars":4,"textLines":1,"bbox":[429,208.77,66,101.23]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"Rectangle 22","bbox":[493,199.87,165,116.8]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"Rectangle 23","text":"Engineering Structures\nElsevier","textPreview":"Engineering Structures | Elsevier","textChars":31,"textLines":2,"bbox":[501,208.77,149,101.23]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"Rectangle 24","bbox":[658,199.87,285,116.8]}
+{"kind":"textbox","id":"sh/fu9sn2p0","slide":4,"name":"Rectangle 25","text":"31,326 vibration datasets + temperature/water level + FE damage → EOV-normalised novelty indicators","textPreview":"31,326 vibration datasets + temperature/water level + FE damage → EOV-normalised novelty indicators","textChars":99,"textLines":1,"bbox":[666,208.77,269,101.23]}
+{"kind":"shape","id":"sh/et0reh8f","slide":4,"name":"Rectangle 26","bbox":[943,199.87,293,116.8]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"Rectangle 27","text":"Cointegration separated environmental variation using about 6 months of training; PCA required about 12 months.","textPreview":"Cointegration separated environmental variation using about 6 months of training; PCA required about 12 months.","textChars":111,"textLines":1,"bbox":[951,208.77,277,101.23]}
+{"kind":"shape","id":"sh/sri9s7q9","slide":4,"name":"Rectangle 28","bbox":[44,316.67,265,116.8]}
+{"kind":"textbox","id":"sh/ilwf69kv","slide":4,"name":"Rectangle 29","text":"Autoencoders for unsupervised real-time bridge health assessment","textPreview":"Autoencoders for unsupervised real-time bridge health assessment","textChars":64,"textLines":1,"bbox":[52,325.57,249,101.23]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"name":"Rectangle 30","bbox":[309,316.67,112,116.8]}
+{"kind":"textbox","id":"sh/knex8j21","slide":4,"name":"Rectangle 31","text":"Giglioni et al.","textPreview":"Giglioni et al.","textChars":15,"textLines":1,"bbox":[317,325.57,96,101.23]}
+{"kind":"shape","id":"sh/5ony1oj6","slide":4,"name":"Rectangle 32","bbox":[421,316.67,82,116.8]}
+{"kind":"textbox","id":"sh/axcf29kj","slide":4,"name":"Rectangle 33","text":"2023","textPreview":"2023","textChars":4,"textLines":1,"bbox":[429,325.57,66,101.23]}
+{"kind":"shape","id":"sh/vy5gbe14","slide":4,"name":"Rectangle 34","bbox":[493,316.67,165,116.8]}
+{"kind":"textbox","id":"sh/wzex4z2p","slide":4,"name":"Rectangle 35","text":"Computer-Aided Civil and Infrastructure Engineering\nWiley","textPreview":"Computer-Aided Civil and Infrastructure Engineering | Wiley","textChars":57,"textLines":2,"bbox":[501,325.57,149,101.23]}
+{"kind":"shape","id":"sh/xknyx4ja","slide":4,"name":"Rectangle 36","bbox":[658,316.67,285,116.8]}
+{"kind":"textbox","id":"sh/mtcfypkn","slide":4,"name":"Rectangle 37","text":"Healthy raw acceleration sequences → autoencoder reconstruction-loss damage indicators","textPreview":"Healthy raw acceleration sequences → autoencoder reconstruction-loss damage indicators","textChars":86,"textLines":1,"bbox":[666,325.57,269,101.23]}
+{"kind":"shape","id":"sh/nulw7u18","slide":4,"name":"Rectangle 38","bbox":[943,316.67,293,116.8]}
+{"kind":"textbox","id":"sh/fm5c3q54","slide":4,"name":"Rectangle 39","text":"Reported up to 96% accuracy and AUC 0.99; 10 s sequences processed in under 1 s.","textPreview":"Reported up to 96% accuracy and AUC 0.99; 10 s sequences processed in under 1 s.","textChars":80,"textLines":1,"bbox":[951,325.57,277,101.23]}
+{"kind":"shape","id":"sh/elwba54j","slide":4,"name":"Rectangle 40","bbox":[44,433.47,265,116.8]}
+{"kind":"textbox","id":"sh/18nu50nu","slide":4,"name":"Rectangle 41","text":"SHM under varying environmental conditions: model order reduction and deep learning","textPreview":"SHM under varying environmental conditions: model order reduction and deep learning","textChars":83,"textLines":1,"bbox":[52,442.37,249,101.23]}
+{"kind":"shape","id":"sh/0netcvm9","slide":4,"name":"Rectangle 42","bbox":[309,433.47,112,116.8]}
+{"kind":"textbox","id":"sh/rilczq5s","slide":4,"name":"Rectangle 43","text":"Torzoni et al.","textPreview":"Torzoni et al.","textChars":14,"textLines":1,"bbox":[317,442.37,96,101.23]}
+{"kind":"shape","id":"sh/qhcb6l47","slide":4,"name":"Rectangle 44","bbox":[421,433.47,82,116.8]}
+{"kind":"textbox","id":"sh/dknu10ny","slide":4,"name":"Rectangle 45","text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[429,442.37,66,101.23]}
+{"kind":"shape","id":"sh/sjut8vmd","slide":4,"name":"Rectangle 46","bbox":[493,433.47,165,116.8]}
+{"kind":"textbox","id":"sh/3elcv65w","slide":4,"name":"Rectangle 47","text":"Computers & Structures\nElsevier","textPreview":"Computers & Structures | Elsevier","textChars":31,"textLines":2,"bbox":[501,442.37,149,101.23]}
+{"kind":"shape","id":"sh/idcb2lob","slide":4,"name":"Rectangle 48","bbox":[658,433.47,285,116.8]}
+{"kind":"textbox","id":"sh/8jq9c72t","slide":4,"name":"Rectangle 49","text":"Simulated vibration + temperature/load + stiffness loss → damage class/location","textPreview":"Simulated vibration + temperature/load + stiffness loss → damage class/location","textChars":79,"textLines":1,"bbox":[666,442.37,269,101.23]}
+{"kind":"shape","id":"sh/tkjq5c3e","slide":4,"name":"Rectangle 50","bbox":[943,433.47,293,116.8]}
+{"kind":"textbox","id":"sh/6x8rahk3","slide":4,"name":"Rectangle 51","text":"Physics-generated training data separated temperature effects from damage and located small stiffness reductions.","textPreview":"Physics-generated training data separated temperature effects from damage and located small stiffness reductions.","textChars":113,"textLines":1,"bbox":[951,442.37,277,101.23]}
+{"kind":"shape","id":"sh/7ih83mlo","slide":4,"name":"Rectangle 52","bbox":[44,550.27,265,116.8]}
+{"kind":"textbox","id":"sh/gna9gr25","slide":4,"name":"Rectangle 53","text":"Multi-fidelity surrogate model for SHM using model reduction and neural networks","textPreview":"Multi-fidelity surrogate model for SHM using model reduction and neural networks","textChars":80,"textLines":1,"bbox":[52,559.17,249,101.23]}
+{"kind":"shape","id":"sh/hoja9w3q","slide":4,"name":"Rectangle 54","bbox":[309,550.27,112,116.8]}
+{"kind":"textbox","id":"sh/ulsrehkz","slide":4,"name":"Rectangle 55","text":"Torzoni et al.","textPreview":"Torzoni et al.","textChars":14,"textLines":1,"bbox":[317,559.17,96,101.23]}
+{"kind":"shape","id":"sh/vm1s7mlk","slide":4,"name":"Rectangle 56","bbox":[421,550.27,82,116.8]}
+{"kind":"textbox","id":"sh/wr694nm1","slide":4,"name":"Rectangle 57","text":"2023","textPreview":"2023","textChars":4,"textLines":1,"bbox":[429,559.17,66,101.23]}
+{"kind":"shape","id":"sh/xsfqxs36","slide":4,"name":"Rectangle 58","bbox":[493,550.27,165,116.8]}
+{"kind":"textbox","id":"sh/do761ova","slide":4,"name":"Rectangle 59","text":"Mechanical Systems and Signal Processing\nElsevier","textPreview":"Mechanical Systems and Signal Processing | Elsevier","textChars":49,"textLines":2,"bbox":[501,559.17,149,101.23]}
+{"kind":"shape","id":"sh/cnyp8jep","slide":4,"name":"Rectangle 60","bbox":[658,550.27,285,116.8]}
+{"kind":"textbox","id":"sh/bmpozed4","slide":4,"name":"Rectangle 61","text":"High-fidelity FE + low-fidelity ROM + operational noise → sensor histories and Bayesian state","textPreview":"High-fidelity FE + low-fidelity ROM + operational noise → sensor histories and Bayesian state","textChars":93,"textLines":1,"bbox":[666,559.17,269,101.23]}
+{"kind":"shape","id":"sh/qlg769wj","slide":4,"name":"Rectangle 62","bbox":[943,550.27,293,116.8]}
+{"kind":"textbox","id":"sh/lcr658v6","slide":4,"name":"Rectangle 63","text":"Multi-fidelity learning improved surrogate accuracy while reducing the cost of Bayesian updating.","textPreview":"Multi-fidelity learning improved surrogate accuracy while reducing the cost of Bayesian updating.","textChars":97,"textLines":1,"bbox":[951,559.17,277,101.23]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\n- https://doi.org/10.1016/j.engstruct.2025.119700\n- https://doi.org/10.1111/mice.12943\n- https://doi.org/10.1016/j.compstruc.2022.106790\n- https://doi.org/10.1016/j.ymssp.2023.110376\n[/Sources]"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Literature review(Continued)","textShapes":32}
+{"kind":"textbox","id":"sh/43u587uh","slide":5,"name":"Rectangle 64","text":"Literature review(Continued)","textPreview":"Literature review(Continued)","textChars":28,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"Rectangle 2","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"Rectangle 3","bbox":[44,130,1160,28]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"Rectangle 4","bbox":[44,157.96,265,63.04]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"Rectangle 5","text":"Title","textPreview":"Title","textChars":5,"textLines":1,"bbox":[52,157.6,249,33.37]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Rectangle 6","bbox":[309,148.7,112,51.17]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"Rectangle 7","text":"Author","textPreview":"Author","textChars":6,"textLines":1,"bbox":[317,157.6,96,33.37]}
+{"kind":"shape","id":"sh/m5kbi1oj","slide":5,"name":"Rectangle 8","bbox":[429,148.7,74,51.17]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"Rectangle 9","text":"Year","textPreview":"Year","textChars":4,"textLines":1,"bbox":[429,157.6,66,33.37]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"Rectangle 10","bbox":[493,148.7,165,51.17]}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"Rectangle 11","text":"Journal · publisher","textPreview":"Journal · publisher","textChars":19,"textLines":1,"bbox":[501,157.6,149,33.37]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"Rectangle 12","bbox":[658,148.7,285,51.17]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"Rectangle 13","text":"Methodology · inputs → outputs","textPreview":"Methodology · inputs → outputs","textChars":30,"textLines":1,"bbox":[666,157.6,269,33.37]}
+{"kind":"shape","id":"sh/58vehgvy","slide":5,"name":"Rectangle 14","bbox":[943,148.7,293,51.17]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"Rectangle 15","text":"Key finding","textPreview":"Key finding","textChars":11,"textLines":1,"bbox":[951,157.6,277,33.37]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"Rectangle 16","bbox":[44,199.87,265,116.8]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"Rectangle 17","text":"Structural health monitoring of civil structures powered by deep metric learning","textPreview":"Structural health monitoring of civil structures powered by deep metric learning","textChars":80,"textLines":1,"bbox":[52,208.77,249,101.23]}
+{"kind":"shape","id":"sh/tcfel0vu","slide":5,"name":"Rectangle 18","bbox":[309,199.87,112,116.8]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"Rectangle 19","text":"Torzoni, Manzoni et al.","textPreview":"Torzoni, Manzoni et al.","textChars":23,"textLines":1,"bbox":[317,208.77,96,101.23]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"Rectangle 20","bbox":[421,199.87,82,116.8]}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"Rectangle 21","text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[429,208.77,66,101.23]}
+{"kind":"shape","id":"sh/ud0ne10b","slide":5,"name":"Rectangle 22","bbox":[493,199.87,165,116.8]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"Rectangle 23","text":"Computers & Structures\nElsevier","textPreview":"Computers & Structures | Elsevier","textChars":31,"textLines":2,"bbox":[501,208.77,149,101.23]}
+{"kind":"shape","id":"sh/4ji5kbid","slide":5,"name":"Rectangle 24","bbox":[658,199.87,285,116.8]}
+{"kind":"textbox","id":"sh/3i94r61s","slide":5,"name":"Rectangle 25","text":"Physics-generated vibration under varied damage positions → low-dimensional metric features","textPreview":"Physics-generated vibration under varied damage positions → low-dimensional metric features","textChars":91,"textLines":1,"bbox":[666,208.77,269,101.23]}
+{"kind":"shape","id":"sh/2h0ni107","slide":5,"name":"Rectangle 26","bbox":[943,199.87,293,116.8]}
+{"kind":"textbox","id":"sh/5o7mhcju","slide":5,"name":"Rectangle 27","text":"Damage localisation remained robust to operational variation, measurement noise and model inaccuracies.","textPreview":"Damage localisation remained robust to operational variation, measurement noise and model inaccuracies.","textChars":103,"textLines":1,"bbox":[951,208.77,277,101.23]}
+{"kind":"shape","id":"sh/kny587i9","slide":5,"name":"Rectangle 28","bbox":[44,316.67,265,116.8]}
+{"kind":"textbox","id":"sh/atcjidg7","slide":5,"name":"Rectangle 29","text":"Value of information from vibration-based SHM via Bayesian model updating","textPreview":"Value of information from vibration-based SHM via Bayesian model updating","textChars":73,"textLines":1,"bbox":[52,325.57,249,101.23]}
+{"kind":"shape","id":"sh/vu5kbihc","slide":5,"name":"Rectangle 30","bbox":[309,316.67,112,116.8]}
+{"kind":"textbox","id":"sh/wve1knyx","slide":5,"name":"Rectangle 31","text":"Kamariotis et al.","textPreview":"Kamariotis et al.","textChars":17,"textLines":1,"bbox":[317,325.57,96,101.23]}
+{"kind":"shape","id":"sh/xwn2dszi","slide":5,"name":"Rectangle 32","bbox":[421,316.67,82,116.8]}
+{"kind":"textbox","id":"sh/ihw3mxg3","slide":5,"name":"Rectangle 33","text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[429,325.57,66,101.23]}
+{"kind":"shape","id":"sh/ji5kf2ho","slide":5,"name":"Rectangle 34","bbox":[493,316.67,165,116.8]}
+{"kind":"textbox","id":"sh/kjelony9","slide":5,"name":"Rectangle 35","text":"Mechanical Systems and Signal Processing\nElsevier","textPreview":"Mechanical Systems and Signal Processing | Elsevier","textChars":49,"textLines":2,"bbox":[501,325.57,149,101.23]}
+{"kind":"shape","id":"sh/5kn2hszu","slide":5,"name":"Rectangle 36","bbox":[658,316.67,285,116.8]}
+{"kind":"textbox","id":"sh/e1sjatgz","slide":5,"name":"Rectangle 37","text":"Accelerations + OMA modal data + deterioration/cost models → reliability, lifecycle cost and VoI","textPreview":"Accelerations + OMA modal data + deterioration/cost models → reliability, lifecycle cost and VoI","textChars":96,"textLines":1,"bbox":[666,325.57,269,101.23]}
+{"kind":"shape","id":"sh/zmlk3yhk","slide":5,"name":"Rectangle 38","bbox":[943,316.67,293,116.8]}
+{"kind":"textbox","id":"sh/fid07u98","slide":5,"name":"Rectangle 39","text":"Shows how monitoring information can be valued by the maintenance decisions it changes.","textPreview":"Shows how monitoring information can be valued by the maintenance decisions it changes.","textChars":87,"textLines":1,"bbox":[951,325.57,277,101.23]}
+{"kind":"shape","id":"sh/ehkzepsn","slide":5,"name":"Rectangle 40","bbox":[44,433.47,265,116.8]}
+{"kind":"textbox","id":"sh/1kvi94re","slide":5,"name":"Rectangle 41","text":"Bridging POMDPs and Bayesian decision making for robust maintenance planning","textPreview":"Bridging POMDPs and Bayesian decision making for robust maintenance planning","textChars":76,"textLines":1,"bbox":[52,442.37,249,101.23]}
+{"kind":"shape","id":"sh/gjmhgzqt","slide":5,"name":"Rectangle 42","bbox":[309,433.47,112,116.8]}
+{"kind":"textbox","id":"sh/3md0bu94","slide":5,"name":"Rectangle 43","text":"Arcieri et al.","textPreview":"Arcieri et al.","textChars":14,"textLines":1,"bbox":[317,442.37,96,101.23]}
+{"kind":"shape","id":"sh/2l4zip8j","slide":5,"name":"Rectangle 44","bbox":[421,433.47,82,116.8]}
+{"kind":"textbox","id":"sh/povid4ra","slide":5,"name":"Rectangle 45","text":"2023","textPreview":"2023","textChars":4,"textLines":1,"bbox":[429,442.37,66,101.23]}
+{"kind":"shape","id":"sh/onmhkzqp","slide":5,"name":"Rectangle 46","bbox":[493,433.47,165,116.8]}
+{"kind":"textbox","id":"sh/bqx0fe9g","slide":5,"name":"Rectangle 47","text":"Reliability Engineering & System Safety\nElsevier","textPreview":"Reliability Engineering & System Safety | Elsevier","textChars":48,"textLines":2,"bbox":[501,442.37,149,101.23]}
+{"kind":"shape","id":"sh/qp4jm98v","slide":5,"name":"Rectangle 48","bbox":[658,433.47,285,116.8]}
+{"kind":"textbox","id":"sh/8f6hcj6t","slide":5,"name":"Rectangle 49","text":"Railway indicators + model uncertainty + actions → robust maintenance policy","textPreview":"Railway indicators + model uncertainty + actions → robust maintenance policy","textChars":76,"textLines":1,"bbox":[666,442.37,269,101.23]}
+{"kind":"shape","id":"sh/9gfy5o7e","slide":5,"name":"Rectangle 50","bbox":[943,433.47,293,116.8]}
+{"kind":"textbox","id":"sh/mdoza9o3","slide":5,"name":"Rectangle 51","text":"Explicit model uncertainty prevents overconfident maintenance policies and supports sequential decisions.","textPreview":"Explicit model uncertainty prevents overconfident maintenance policies and supports sequential decisions.","textChars":105,"textLines":1,"bbox":[951,442.37,277,101.23]}
+{"kind":"shape","id":"sh/nexg3epo","slide":5,"name":"Rectangle 52","bbox":[44,550.27,265,116.8]}
+{"kind":"textbox","id":"sh/0r6h8z6x","slide":5,"name":"Rectangle 53","text":"Water transport through cracked concrete structures","textPreview":"Water transport through cracked concrete structures","textChars":51,"textLines":1,"bbox":[52,559.17,249,101.23]}
+{"kind":"shape","id":"sh/lcfy147i","slide":5,"name":"Rectangle 54","bbox":[309,550.27,112,116.8]}
+{"kind":"textbox","id":"sh/yp4z69or","slide":5,"name":"Rectangle 55","text":"Mengel, Krauss et al.","textPreview":"Mengel, Krauss et al.","textChars":21,"textLines":1,"bbox":[317,559.17,96,101.23]}
+{"kind":"shape","id":"sh/zqxgzupc","slide":5,"name":"Rectangle 56","bbox":[421,550.27,82,116.8]}
+{"kind":"textbox","id":"sh/cnmh4z61","slide":5,"name":"Rectangle 57","text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[429,559.17,66,101.23]}
+{"kind":"shape","id":"sh/dovyx476","slide":5,"name":"Rectangle 58","bbox":[493,550.27,165,116.8]}
+{"kind":"textbox","id":"sh/t8n6lwvy","slide":5,"name":"Rectangle 59","text":"Materials\nMDPI","textPreview":"Materials | MDPI","textChars":14,"textLines":2,"bbox":[501,559.17,149,101.23]}
+{"kind":"shape","id":"sh/s7u5crud","slide":5,"name":"Rectangle 60","bbox":[658,550.27,285,116.8]}
+{"kind":"textbox","id":"sh/r6lojmds","slide":5,"name":"Rectangle 61","text":"Mixture proportion + µCT crack geometry → tortuosity, internal width and water flow","textPreview":"Mixture proportion + µCT crack geometry → tortuosity, internal width and water flow","textChars":83,"textLines":1,"bbox":[666,559.17,269,101.23]}
+{"kind":"shape","id":"sh/65cnahc7","slide":5,"name":"Rectangle 62","bbox":[943,550.27,293,116.8]}
+{"kind":"textbox","id":"sh/5436hcv2","slide":5,"name":"Rectangle 63","text":"Mixture-controlled crack geometry changes water transport; larger aggregate increased tortuosity and reduced flow.","textPreview":"Mixture-controlled crack geometry changes water transport; larger aggregate increased tortuosity and reduced flow.","textChars":114,"textLines":1,"bbox":[951,559.17,277,101.23]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\n- https://doi.org/10.1016/j.compstruc.2022.106858\n- https://doi.org/10.1016/j.ymssp.2021.108465\n- https://doi.org/10.1016/j.ress.2023.109496\n- https://doi.org/10.3390/ma15175807\n[/Sources]"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Research Gap Identification","textShapes":17}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"Rectangle 23","text":"Research Gap Identification","textPreview":"Research Gap Identification","textChars":27,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"Rectangle 2","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Rectangle 3","bbox":[72,138,1100,30]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"Rectangle 4","text":"1.","textPreview":"1.","textChars":2,"textLines":1,"bbox":[76,188,42,30]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"Rectangle 5","text":"Structural health monitoring","textPreview":"Structural health monitoring","textChars":28,"textLines":1,"bbox":[132,188,300,30]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"Rectangle 6","text":"Many studies identify a damage indicator, but do not propagate its uncertainty to a member-level state.","textPreview":"Many studies identify a damage indicator, but do not propagate its uncertainty to a member-level state.","textChars":103,"textLines":1,"bbox":[454,186,744,42]}
+{"kind":"shape","id":"sh/oryp8fah","slide":6,"name":"Rectangle 7","bbox":[132,244,1066,1]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"Rectangle 8","text":"2.","textPreview":"2.","textChars":2,"textLines":1,"bbox":[76,270,42,30]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"Rectangle 9","text":"Digital-twin updating","textPreview":"Digital-twin updating","textChars":21,"textLines":1,"bbox":[132,270,300,30]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"Rectangle 10","text":"Model updating is often reported without retaining the full posterior covariance needed for later decisions.","textPreview":"Model updating is often reported without retaining the full posterior covariance needed for later decisions.","textChars":108,"textLines":1,"bbox":[454,268,744,42]}
+{"kind":"shape","id":"sh/v2tcn650","slide":6,"name":"Rectangle 11","bbox":[132,326,1066,1]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"Rectangle 12","text":"3.","textPreview":"3.","textChars":2,"textLines":1,"bbox":[76,352,42,30]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"Rectangle 13","text":"Durability evidence","textPreview":"Durability evidence","textChars":19,"textLines":1,"bbox":[132,352,300,30]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"Rectangle 14","text":"Crack–water transport studies are rarely linked to vibration-inferred structural states.","textPreview":"Crack–water transport studies are rarely linked to vibration-inferred structural states.","textChars":88,"textLines":1,"bbox":[454,350,744,42]}
+{"kind":"shape","id":"sh/j6dcr65c","slide":6,"name":"Rectangle 15","bbox":[132,408,1066,1]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"Rectangle 16","text":"4.","textPreview":"4.","textChars":2,"textLines":1,"bbox":[76,434,42,30]}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"name":"Rectangle 17","text":"Maintenance planning","textPreview":"Maintenance planning","textChars":20,"textLines":1,"bbox":[132,434,300,30]}
+{"kind":"textbox","id":"sh/svmt4v6t","slide":6,"name":"Rectangle 18","text":"Maintenance optimisation is commonly separated from experimentally measured structural and cover condition.","textPreview":"Maintenance optimisation is commonly separated from experimentally measured structural and cover condition.","textChars":107,"textLines":1,"bbox":[454,432,744,42]}
+{"kind":"shape","id":"sh/cbe5g3ih","slide":6,"name":"Rectangle 19","bbox":[132,490,1066,1]}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"name":"Rectangle 20","text":"5.","textPreview":"5.","textChars":2,"textLines":1,"bbox":[76,516,42,30]}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"Rectangle 21","text":"Research gap","textPreview":"Research gap","textChars":12,"textLines":1,"bbox":[132,516,300,30]}
+{"kind":"textbox","id":"sh/bq547yhw","slide":6,"name":"Rectangle 22","text":"An experimentally anchored workflow is needed to connect vibration, uncertain state estimation, water transport and retrofit sequencing.","textPreview":"An experimentally anchored workflow is needed to connect vibration, uncertain state estimation, water transport and retrofit sequencing.","textChars":136,"textLines":1,"bbox":[454,514,744,42]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"Present the gap as a synthesis of the reviewed limitations; avoid claiming that any individual component is new.\n[Sources]\n- Eight-paper review on slides 4–5\n- User-provided team briefing document, Sections 2, 5 and 7\n[/Sources]"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"Aim and Objectives","textShapes":15}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"Rectangle 21","text":"Aim and Objectives","textPreview":"Aim and Objectives","textChars":18,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"Rectangle 2","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"Rectangle 3","text":"Aim","textPreview":"Aim","textChars":3,"textLines":1,"bbox":[72,140,180,30]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"Rectangle 4","text":"Develop and experimentally calibrate a vibration-driven structural digital twin for retrofit and inspection decisions under uncertainty.","textPreview":"Develop and experimentally calibrate a vibration-driven structural digital twin for retrofit and inspection decisions under uncertainty.","textChars":136,"textLines":1,"bbox":[72,176,1120,42]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"Rectangle 5","bbox":[72,244,1120,2]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"Rectangle 6","text":"Objectives","textPreview":"Objectives","textChars":10,"textLines":1,"bbox":[72,266,220,30]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"Rectangle 7","text":"1.","textPreview":"1.","textChars":2,"textLines":1,"bbox":[84,314,38,28]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"Rectangle 8","text":"Extract modal parameters while correcting environmental and operational variability.","textPreview":"Extract modal parameters while correcting environmental and operational variability.","textChars":84,"textLines":1,"bbox":[134,312,1058,38]}
+{"kind":"shape","id":"sh/baxkjqlk","slide":7,"name":"Rectangle 9","bbox":[134,358,1058,1]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"Rectangle 10","text":"2.","textPreview":"2.","textChars":2,"textLines":1,"bbox":[84,372,38,28]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"Rectangle 11","text":"Estimate per-member stiffness ratio α together with its posterior covariance.","textPreview":"Estimate per-member stiffness ratio α together with its posterior covariance.","textChars":77,"textLines":1,"bbox":[134,370,1058,38]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"Rectangle 12","bbox":[134,416,1058,1]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"Rectangle 13","text":"3.","textPreview":"3.","textChars":2,"textLines":1,"bbox":[84,430,38,28]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"Rectangle 14","text":"Relate α, crack width and orientation to ASTM C1585 water sorptivity.","textPreview":"Relate α, crack width and orientation to ASTM C1585 water sorptivity.","textChars":69,"textLines":1,"bbox":[134,428,1058,38]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"Rectangle 15","bbox":[134,474,1058,1]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"Rectangle 16","text":"4.","textPreview":"4.","textChars":2,"textLines":1,"bbox":[84,488,38,28]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"Rectangle 17","text":"Map the estimated state to component performance and acceptance levels.","textPreview":"Map the estimated state to component performance and acceptance levels.","textChars":71,"textLines":1,"bbox":[134,486,1058,38]}
+{"kind":"shape","id":"sh/eh4jil4r","slide":7,"name":"Rectangle 18","bbox":[134,532,1058,1]}
+{"kind":"textbox","id":"sh/id4ju1oz","slide":7,"name":"Rectangle 19","text":"5.","textPreview":"5.","textChars":2,"textLines":1,"bbox":[84,546,38,28]}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"Rectangle 20","text":"Select inspection, repair, sequencing and scheduling actions subject to hard constraints.","textPreview":"Select inspection, repair, sequencing and scheduling actions subject to hard constraints.","textChars":89,"textLines":1,"bbox":[134,544,1058,38]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"State each objective as an input-output commitment; avoid calling unmeasured coefficients results.\n[Sources]\n- /Users/sreekaraditya/Downloads/Project_Summary_ABR120.docx\n- User-provided team briefing document, Sections 5, 7 and 9\n[/Sources]"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Architecture · the chain from sensing to retrofit","textShapes":3}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"Rectangle 7","text":"Architecture · the chain from sensing to retrofit","textPreview":"Architecture · the chain from sensing to retrofit","textChars":49,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"Rectangle 2","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"Rounded Rectangle 3","bbox":[44,132,446,30]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"Rectangle 4","text":"DEFINED ARCHITECTURE · EXPERIMENTAL COEFFICIENTS PENDING","textPreview":"DEFINED ARCHITECTURE · EXPERIMENTAL COEFFICIENTS PENDING","textChars":56,"textLines":1,"bbox":[52,137,430,20]}
+{"kind":"shape","id":"sh/tkby9kzm","slide":8,"name":"Rounded Rectangle 5","bbox":[44,174,1192,474]}
+{"kind":"image","id":"im/jyl0fqxw","slide":8,"name":"Picture 13","bbox":[238.22,184,803.56,452]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"Walk left to right: sensing, identification, environmental correction, inference, two-tier transport, classification, decision.\n[Sources]\n- /Users/sreekaraditya/Downloads/arch_light.svg (user-provided architecture asset)\n- User-provided team briefing document, Section 5\n[/Sources]"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Two-Tier State","textShapes":14}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"name":"Rectangle 19","text":"Two-Tier State","textPreview":"Two-Tier State","textChars":14,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"Rectangle 2","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"Rectangle 3","bbox":[72,138,1120,30]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"Rectangle 4","text":"1.","textPreview":"1.","textChars":2,"textLines":1,"bbox":[76,198,42,30]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"Rectangle 5","text":"Continuous tier","textPreview":"Continuous tier","textChars":15,"textLines":1,"bbox":[132,198,260,30]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"Rectangle 6","text":"Use vibration response and environmental variables to estimate α, with posterior covariance.","textPreview":"Use vibration response and environmental variables to estimate α, with posterior covariance.","textChars":92,"textLines":1,"bbox":[424,196,770,48]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"Rectangle 7","bbox":[132,260,1062,1]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"Rectangle 8","text":"2.","textPreview":"2.","textChars":2,"textLines":1,"bbox":[76,292,42,30]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"Rectangle 9","text":"Reduced model","textPreview":"Reduced model","textChars":13,"textLines":1,"bbox":[132,292,260,30]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"Rectangle 10","text":"When crack geometry is unavailable, use M(α) and retain deliberately wider uncertainty.","textPreview":"When crack geometry is unavailable, use M(α) and retain deliberately wider uncertainty.","textChars":87,"textLines":1,"bbox":[424,290,770,48]}
+{"kind":"shape","id":"sh/2xsjepgb","slide":9,"name":"Rectangle 11","bbox":[132,354,1062,1]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"Rectangle 12","text":"3.","textPreview":"3.","textChars":2,"textLines":1,"bbox":[76,386,42,30]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"Rectangle 13","text":"Inspection tier","textPreview":"Inspection tier","textChars":15,"textLines":1,"bbox":[132,386,260,30]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"Rectangle 14","text":"After a directed crack survey, augment the state to (α, w, θ) and use the full transport model.","textPreview":"After a directed crack survey, augment the state to (α, w, θ) and use the full transport model.","textChars":95,"textLines":1,"bbox":[424,384,770,48]}
+{"kind":"shape","id":"sh/qlcjipgn","slide":9,"name":"Rectangle 15","bbox":[132,448,1062,1]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"Rectangle 16","text":"4.","textPreview":"4.","textChars":2,"textLines":1,"bbox":[76,480,42,30]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"Rectangle 17","text":"Acquisition rule","textPreview":"Acquisition rule","textChars":16,"textLines":1,"bbox":[132,480,260,30]}
+{"kind":"textbox","id":"sh/lsn2h4fa","slide":9,"name":"Rectangle 18","text":"Geometry remains valid for k periods or until a new damage event; a new survey is therefore a timed decision.","textPreview":"Geometry remains valid for k periods or until a new damage event; a new survey is therefore a timed decision.","textChars":109,"textLines":1,"bbox":[424,478,770,48]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"Emphasise that the full transport model is never used when crack geometry has not been measured.\n[Sources]\n- User-provided team briefing document, Section 6\n- User-provided session summary, Section 3\n[/Sources]"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"Decision Layer","textShapes":19}
+{"kind":"textbox","id":"sh/kjytkvup","slide":10,"name":"Rectangle 24","text":"Decision Layer","textPreview":"Decision Layer","textChars":14,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"Rectangle 2","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"Rectangle 3","text":"Decision variables are evaluated against uncertainty, cost and constructability constraints","textPreview":"Decision variables are evaluated against uncertainty, cost and constructability constraints","textChars":91,"textLines":1,"bbox":[72,138,1120,30]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"Rectangle 4","text":"1.","textPreview":"1.","textChars":2,"textLines":1,"bbox":[76,190,42,30]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"Rectangle 5","text":"Inputs","textPreview":"Inputs","textChars":6,"textLines":1,"bbox":[132,190,220,30]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"Rectangle 6","text":"Member stiffness estimates α with covariance, together with cover-condition information.","textPreview":"Member stiffness estimates α with covariance, together with cover-condition information.","textChars":88,"textLines":1,"bbox":[382,188,812,44]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"Rectangle 7","bbox":[132,246,1062,1]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"Rectangle 8","text":"2.","textPreview":"2.","textChars":2,"textLines":1,"bbox":[76,272,42,30]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"Rectangle 9","text":"Candidate actions","textPreview":"Candidate actions","textChars":17,"textLines":1,"bbox":[132,272,220,30]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"Rectangle 10","text":"Inspection, injection, coating, jacketing and monitoring are represented as selectable actions.","textPreview":"Inspection, injection, coating, jacketing and monitoring are represented as selectable actions.","textChars":95,"textLines":1,"bbox":[382,270,812,44]}
+{"kind":"shape","id":"sh/q5gb21kb","slide":10,"name":"Rectangle 11","bbox":[132,328,1062,1]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"Rectangle 12","text":"3.","textPreview":"3.","textChars":2,"textLines":1,"bbox":[76,354,42,30]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"Rectangle 13","text":"Objective","textPreview":"Objective","textChars":9,"textLines":1,"bbox":[132,354,220,30]}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"Rectangle 14","text":"Compare expected benefit against uncertainty penalty and intervention cost: benefit − λ variance − cost.","textPreview":"Compare expected benefit against uncertainty penalty and intervention cost: benefit − λ variance − cost.","textChars":104,"textLines":1,"bbox":[382,352,812,44]}
+{"kind":"shape","id":"sh/e9gb61k7","slide":10,"name":"Rectangle 15","bbox":[132,410,1062,1]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"Rectangle 16","text":"4.","textPreview":"4.","textChars":2,"textLines":1,"bbox":[76,436,42,30]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"Rectangle 17","text":"Constraints","textPreview":"Constraints","textChars":11,"textLines":1,"bbox":[132,436,220,30]}
+{"kind":"textbox","id":"sh/p0ru503u","slide":10,"name":"Rectangle 18","text":"Enforce separate budgets, repair precedence, one-period information delay and limits on members out of service.","textPreview":"Enforce separate budgets, repair precedence, one-period information delay and limits on members out of service.","textChars":111,"textLines":1,"bbox":[382,434,812,44]}
+{"kind":"shape","id":"sh/xwnupgvy","slide":10,"name":"Rectangle 19","bbox":[132,492,1062,1]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"Rectangle 20","text":"5.","textPreview":"5.","textChars":2,"textLines":1,"bbox":[76,518,42,30]}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"Rectangle 21","text":"Output","textPreview":"Output","textChars":6,"textLines":1,"bbox":[132,518,220,30]}
+{"kind":"textbox","id":"sh/atwbelcn","slide":10,"name":"Rectangle 22","text":"Return a feasible intervention schedule identifying who, what action and in which period.","textPreview":"Return a feasible intervention schedule identifying who, what action and in which period.","textChars":89,"textLines":1,"bbox":[382,516,812,44]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"Rectangle 23","text":"The exact MILP solution is retained as the classical benchmark for the decision formulation.","textPreview":"The exact MILP solution is retained as the classical benchmark for the decision formulation.","textChars":92,"textLines":1,"bbox":[72,606,1120,28]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"Do not claim quantum speedup. The contribution is the decision formulation and its exact classical benchmark.\n[Sources]\n- User-provided team briefing document, Sections 9 and 12\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/milp_solver_summary.csv\n[/Sources]"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Experimental campaign · cast, damage, measure, calibrate","textShapes":22}
+{"kind":"textbox","id":"sh/03qxg7mx","slide":11,"name":"Rectangle 35","text":"Experimental campaign · cast, damage, measure, calibrate","textPreview":"Experimental campaign · cast, damage, measure, calibrate","textChars":56,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":11,"name":"Rectangle 2","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/n69grmpw","slide":11,"name":"Rounded Rectangle 3","bbox":[44,136,274,30]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"Rectangle 4","text":"PLANNED · REVIEW 2 METHODOLOGY","textPreview":"PLANNED · REVIEW 2 METHODOLOGY","textChars":30,"textLines":1,"bbox":[52,141,258,20]}
+{"kind":"shape","id":"sh/98rytw72","slide":11,"name":"Oval 5","bbox":[114,198,72,72]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"Rectangle 6","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[114,218,72,28]}
+{"kind":"shape","id":"sh/72t03qp0","slide":11,"name":"Rectangle 7","bbox":[186,233,96,3]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"Rectangle 8","text":"Cast","textPreview":"Cast","textChars":4,"textLines":1,"bbox":[54,294,192,34]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"Rectangle 9","text":"RC members with controlled geometry and sensor locations","textPreview":"RC members with controlled geometry and sensor locations","textChars":56,"textLines":1,"bbox":[46,340,208,112]}
+{"kind":"shape","id":"sh/9gza9sze","slide":11,"name":"Oval 10","bbox":[352,198,72,72]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"Rectangle 11","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[352,218,72,28]}
+{"kind":"shape","id":"sh/nehs7iho","slide":11,"name":"Rectangle 12","bbox":[424,233,96,3]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"Rectangle 13","text":"Baseline","textPreview":"Baseline","textChars":8,"textLines":1,"bbox":[292,294,192,34]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"Rectangle 14","text":"Modal response + environment + intact reference","textPreview":"Modal response + environment + intact reference","textChars":47,"textLines":1,"bbox":[284,340,208,112]}
+{"kind":"shape","id":"sh/epobatgr","slide":11,"name":"Oval 15","bbox":[590,198,72,72]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"Rectangle 16","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[590,218,72,28]}
+{"kind":"shape","id":"sh/cn6t83y1","slide":11,"name":"Rectangle 17","bbox":[662,233,96,3]}
+{"kind":"textbox","id":"sh/dofa18z6","slide":11,"name":"Rectangle 18","text":"Grade damage","textPreview":"Grade damage","textChars":12,"textLines":1,"bbox":[530,294,192,34]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"Rectangle 19","text":"UTM displacement control in fixed shallow increments","textPreview":"UTM displacement control in fixed shallow increments","textChars":52,"textLines":1,"bbox":[522,340,208,112]}
+{"kind":"shape","id":"sh/87ehgv6d","slide":11,"name":"Oval 20","bbox":[828,198,72,72]}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"Rectangle 21","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[828,218,72,28]}
+{"kind":"shape","id":"sh/65wzelo7","slide":11,"name":"Rectangle 22","bbox":[900,233,96,3]}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"name":"Rectangle 23","text":"Survey","textPreview":"Survey","textChars":6,"textLines":1,"bbox":[768,294,192,34]}
+{"kind":"textbox","id":"sh/k3uhcb6h","slide":11,"name":"Rectangle 24","text":"Crack width w and orientation θ with calibrated imaging","textPreview":"Crack width w and orientation θ with calibrated imaging","textChars":55,"textLines":1,"bbox":[760,340,208,112]}
+{"kind":"shape","id":"sh/j2lgjq5w","slide":11,"name":"Oval 25","bbox":[1066,198,72,72]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"Rectangle 26","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1066,218,72,28]}
+{"kind":"textbox","id":"sh/p07ixkn6","slide":11,"name":"Rectangle 27","text":"Transport","textPreview":"Transport","textChars":9,"textLines":1,"bbox":[1006,294,192,34]}
+{"kind":"textbox","id":"sh/4zyhofml","slide":11,"name":"Rectangle 28","text":"Cut specimens and measure ASTM C1585 sorptivity","textPreview":"Cut specimens and measure ASTM C1585 sorptivity","textChars":47,"textLines":1,"bbox":[998,340,208,112]}
+{"kind":"shape","id":"sh/m58fih43","slide":11,"name":"Rounded Rectangle 29","bbox":[44,500,566,112]}
+{"kind":"textbox","id":"sh/n61wbmlo","slide":11,"name":"Rectangle 30","text":"Primary loading route","textPreview":"Primary loading route","textChars":21,"textLines":1,"bbox":[66,518,220,24]}
+{"kind":"textbox","id":"sh/o7axk7m9","slide":11,"name":"Rectangle 31","text":"UTM displacement control; shake-table loading remains an optional extension.","textPreview":"UTM displacement control; shake-table loading remains an optional extension.","textChars":76,"textLines":1,"bbox":[66,550,520,44]}
+{"kind":"shape","id":"sh/98jedc3u","slide":11,"name":"Rounded Rectangle 32","bbox":[630,500,606,112]}
+{"kind":"textbox","id":"sh/eh8fex47","slide":11,"name":"Rectangle 33","text":"Primary response","textPreview":"Primary response","textChars":16,"textLines":1,"bbox":[652,518,220,24]}
+{"kind":"textbox","id":"sh/z2hw72lc","slide":11,"name":"Rectangle 34","text":"Water sorptivity—not chloride ingress—paired with α, w and θ for held-out model comparison.","textPreview":"Water sorptivity—not chloride ingress—paired with α, w and θ for held-out model comparison.","textChars":91,"textLines":1,"bbox":[652,550,560,44]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"Methodology is included to demonstrate project readiness; no physical calibration result is claimed yet.\n[Sources]\n- User-provided team briefing document, Sections 7–8\n- ASTM C1585/C1585M, Standard Test Method for Measurement of Rate of Absorption of Water by Hydraulic-Cement Concretes\n[/Sources]"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"What we have learned computationally","textShapes":13}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"Rectangle 21","text":"What we have learned computationally","textPreview":"What we have learned computationally","textChars":36,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"name":"Rectangle 2","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/ra943il8","slide":12,"name":"Rounded Rectangle 3","bbox":[44,164,372,320]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"Rectangle 4","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[68,194,324,88]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"Rectangle 5","text":"SENSORS","textPreview":"SENSORS","textChars":7,"textLines":1,"bbox":[68,286,324,28]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"Rectangle 6","bbox":[96,330,268,2]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"Rectangle 7","text":"Mode shapes break the left/right symmetry; extra channels gave little precision gain in the 3-parameter portal study.","textPreview":"Mode shapes break the left/right symmetry; extra channels gave little precision gain in the 3-parameter portal study.","textChars":117,"textLines":1,"bbox":[78,354,304,104]}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"Rounded Rectangle 8","bbox":[441,164,372,320]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"Rectangle 9","text":"19 / 21","textPreview":"19 / 21","textChars":7,"textLines":1,"bbox":[465,194,324,88]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"Rectangle 10","text":"MEMBERS SEPARABLE","textPreview":"MEMBERS SEPARABLE","textChars":17,"textLines":1,"bbox":[465,286,324,28]}
+{"kind":"shape","id":"sh/atc7epon","slide":12,"name":"Rectangle 11","bbox":[493,330,268,2]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"Rectangle 12","text":"A sparse prior reduced mean posterior SD from 0.164 to 0.096 in the illustrative 21-member case.","textPreview":"A sparse prior reduced mean posterior SD from 0.164 to 0.096 in the illustrative 21-member case.","textChars":96,"textLines":1,"bbox":[475,354,304,104]}
+{"kind":"shape","id":"sh/orapcf6h","slide":12,"name":"Rounded Rectangle 13","bbox":[838,164,372,320]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"Rectangle 14","text":"50","textPreview":"50","textChars":2,"textLines":1,"bbox":[862,194,324,88]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"Rectangle 15","text":"INDEPENDENT SEEDS","textPreview":"INDEPENDENT SEEDS","textChars":17,"textLines":1,"bbox":[862,286,324,28]}
+{"kind":"shape","id":"sh/nq1o3a5w","slide":12,"name":"Rectangle 16","bbox":[890,330,268,2]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"Rectangle 17","text":"Flat, sparse and oracle planning distributions were tested rather than judged from one annealing run.","textPreview":"Flat, sparse and oracle planning distributions were tested rather than judged from one annealing run.","textChars":101,"textLines":1,"bbox":[872,354,304,104]}
+{"kind":"shape","id":"sh/1oj61kn6","slide":12,"name":"Rounded Rectangle 18","bbox":[92,530,1096,92]}
+{"kind":"textbox","id":"sh/hkbm5wzu","slide":12,"name":"Rectangle 19","text":"Design consequence","textPreview":"Design consequence","textChars":18,"textLines":1,"bbox":[116,548,190,24]}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"Rectangle 20","text":"Measure better, parameterise by physical member, retain covariance, and report solver distributions—not a single favourable run.","textPreview":"Measure better, parameterise by physical member, retain covariance, and report solver distributions—not a single favourable run.","textChars":128,"textLines":1,"bbox":[304,545,856,48]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"All numbers on this slide are computational evidence, not physical validation.\n[Sources]\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/REPORT.md\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/prior_comparison_summary.csv\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/prior_plan_solver_50_seed_summary.csv\n[/Sources]"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Work done · executable evidence already produced","textShapes":17}
+{"kind":"textbox","id":"sh/ipcjmtw7","slide":13,"name":"Rectangle 30","text":"Work done · executable evidence already produced","textPreview":"Work done · executable evidence already produced","textChars":48,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/q50nydsj","slide":13,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/bq9orito","slide":13,"name":"Rectangle 2","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/o3i5w3ad","slide":13,"name":"Rounded Rectangle 3","bbox":[44,154,474,466]}
+{"kind":"shape","id":"sh/p4r6p8by","slide":13,"name":"Oval 4","bbox":[66,180,26,26]}
+{"kind":"textbox","id":"sh/21gnuts7","slide":13,"name":"Rectangle 5","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,182,26,18]}
+{"kind":"textbox","id":"sh/32ponyts","slide":13,"name":"Rectangle 6","text":"Portal-frame FE model and modal benchmark","textPreview":"Portal-frame FE model and modal benchmark","textChars":41,"textLines":1,"bbox":[106,178,382,34]}
+{"kind":"shape","id":"sh/gzy5s3a1","slide":13,"name":"Oval 7","bbox":[66,238,26,26]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"Rectangle 8","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,240,26,18]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"Rectangle 9","text":"Fisher-information sensor and parameterisation study","textPreview":"Fisher-information sensor and parameterisation study","textChars":52,"textLines":1,"bbox":[106,236,382,34]}
+{"kind":"shape","id":"sh/gb6x0zm9","slide":13,"name":"Oval 10","bbox":[66,296,26,26]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":13,"name":"Rectangle 11","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,298,26,18]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"Rectangle 12","text":"Sparse Bayesian member-state estimation with covariance","textPreview":"Sparse Bayesian member-state estimation with covariance","textChars":55,"textLines":1,"bbox":[106,294,382,34]}
+{"kind":"shape","id":"sh/t8fy5k3i","slide":13,"name":"Oval 13","bbox":[66,354,26,26]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"Rectangle 14","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,356,26,18]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"Rectangle 15","text":"21-member, 6-period decision instance: 504 primary / 678 total bits","textPreview":"21-member, 6-period decision instance: 504 primary / 678 total bits","textChars":67,"textLines":1,"bbox":[106,352,382,34]}
+{"kind":"shape","id":"sh/6l4fu547","slide":13,"name":"Oval 16","bbox":[66,412,26,26]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"Rectangle 17","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,414,26,18]}
+{"kind":"textbox","id":"sh/kjmxsfm1","slide":13,"name":"Rectangle 18","text":"Independent feasibility checker and penalty negative control","textPreview":"Independent feasibility checker and penalty negative control","textChars":60,"textLines":1,"bbox":[106,410,382,34]}
+{"kind":"shape","id":"sh/cnqh8fux","slide":13,"name":"Oval 19","bbox":[66,470,26,26]}
+{"kind":"textbox","id":"sh/xozyhkbi","slide":13,"name":"Rectangle 20","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,472,26,18]}
+{"kind":"textbox","id":"sh/q18f65cr","slide":13,"name":"Rectangle 21","text":"Exact MILP benchmark + exact enumeration ladder","textPreview":"Exact MILP benchmark + exact enumeration ladder","textChars":47,"textLines":1,"bbox":[106,468,382,34]}
+{"kind":"shape","id":"sh/bmhgfatc","slide":13,"name":"Oval 22","bbox":[66,528,26,26]}
+{"kind":"textbox","id":"sh/oz6x4vul","slide":13,"name":"Rectangle 23","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,530,26,18]}
+{"kind":"textbox","id":"sh/p0zyd0b6","slide":13,"name":"Rectangle 24","text":"50-seed prior/oracle planning diagnosis","textPreview":"50-seed prior/oracle planning diagnosis","textChars":39,"textLines":1,"bbox":[106,526,382,34]}
+{"kind":"shape","id":"sh/2xof2lcv","slide":13,"name":"Rounded Rectangle 25","bbox":[544,154,692,228]}
+{"kind":"shape","id":"sh/8vahgzu5","slide":13,"name":"Rounded Rectangle 27","bbox":[544,400,692,220]}
+{"kind":"textbox","id":"sh/jqlkfyds","slide":13,"name":"Rectangle 29","text":"Verification evidence: exact optimum is known only on reduced ladders; full-scale QUBO optimality is benchmarked against exact MILP.","textPreview":"Verification evidence: exact optimum is known only on reduced ladders; full-scale QUBO optimality is benchmarked against exact MILP.","textChars":132,"textLines":1,"bbox":[560,594,650,24]}
+{"kind":"image","id":"im/a9w3ap4j","slide":13,"name":"Picture 56","bbox":[689.2,166,401.6,204]}
+{"kind":"image","id":"im/ba543ul4","slide":13,"name":"Picture 58","bbox":[714.54,412,350.92,190]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"Say simulation has been run over 50 independent seeds for the prior/oracle diagnosis; separately, the general reliability protocol uses 20 seeds per configuration.\n[Sources]\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/prior_plan_jaccard_50_seeds.csv\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/solver_reliability_seeds.csv\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/milp_solver_summary.csv\n[/Sources]"}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"Work to be done · experimental evidence","textShapes":33}
+{"kind":"textbox","id":"sh/0rq18zad","slide":14,"name":"Rectangle 53","text":"Work to be done · experimental evidence","textPreview":"Work to be done · experimental evidence","textChars":39,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/xc7eds76","slide":14,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/wbydknq1","slide":14,"name":"Rectangle 2","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/jepwf2pc","slide":14,"name":"Rounded Rectangle 3","bbox":[44,158,372,436]}
+{"kind":"shape","id":"sh/idgvmx8r","slide":14,"name":"Rounded Rectangle 4","bbox":[64,180,206,30]}
+{"kind":"textbox","id":"sh/5grehs7i","slide":14,"name":"Rectangle 5","text":"NOW → OCT 2026","textPreview":"NOW → OCT 2026","textChars":14,"textLines":1,"bbox":[72,185,190,20]}
+{"kind":"textbox","id":"sh/kfidonqx","slide":14,"name":"Rectangle 6","text":"Freeze experiment","textPreview":"Freeze experiment","textChars":17,"textLines":1,"bbox":[64,238,332,44]}
+{"kind":"shape","id":"sh/zi5c3y98","slide":14,"name":"Oval 7","bbox":[66,313,20,20]}
+{"kind":"textbox","id":"sh/ehwvat8n","slide":14,"name":"Rectangle 8","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[66,315,20,14]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"name":"Rectangle 9","text":"Specimen and damage-grade design","textPreview":"Specimen and damage-grade design","textChars":32,"textLines":1,"bbox":[100,310,286,34]}
+{"kind":"shape","id":"sh/x4ni9ofy","slide":14,"name":"Oval 10","bbox":[66,375,20,20]}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":14,"name":"Rectangle 11","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[66,377,20,14]}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"name":"Rectangle 12","text":"Sensor clock and OMA protocol","textPreview":"Sensor clock and OMA protocol","textChars":29,"textLines":1,"bbox":[100,372,286,34]}
+{"kind":"shape","id":"sh/kre1k3y9","slide":14,"name":"Oval 13","bbox":[66,437,20,20]}
+{"kind":"textbox","id":"sh/ls7idofu","slide":14,"name":"Rectangle 14","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[66,439,20,14]}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"name":"Rectangle 15","text":"Imaging calibration + uncertainty","textPreview":"Imaging calibration + uncertainty","textChars":33,"textLines":1,"bbox":[100,434,286,34]}
+{"kind":"shape","id":"sh/z650byxo","slide":14,"name":"Oval 16","bbox":[66,499,20,20]}
+{"kind":"textbox","id":"sh/0buh8zy5","slide":14,"name":"Rectangle 17","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[66,501,20,14]}
+{"kind":"textbox","id":"sh/1w3i14fq","slide":14,"name":"Rectangle 18","text":"Pre-register nested M models","textPreview":"Pre-register nested M models","textChars":28,"textLines":1,"bbox":[100,496,286,34]}
+{"kind":"shape","id":"sh/hsvy50re","slide":14,"name":"Rounded Rectangle 19","bbox":[441,158,372,436]}
+{"kind":"shape","id":"sh/grmxwvqt","slide":14,"name":"Rounded Rectangle 20","bbox":[461,180,206,30]}
+{"kind":"textbox","id":"sh/fqdg3q98","slide":14,"name":"Rectangle 21","text":"NOV 2026 → JAN 2027","textPreview":"NOV 2026 → JAN 2027","textChars":19,"textLines":1,"bbox":[469,185,190,20]}
+{"kind":"textbox","id":"sh/up4fal83","slide":14,"name":"Rectangle 22","text":"Run campaign","textPreview":"Run campaign","textChars":12,"textLines":1,"bbox":[461,238,332,44]}
+{"kind":"shape","id":"sh/pwvy90rq","slide":14,"name":"Oval 23","bbox":[463,313,20,20]}
+{"kind":"textbox","id":"sh/4vmh0vq5","slide":14,"name":"Rectangle 24","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[463,315,20,14]}
+{"kind":"textbox","id":"sh/3udg7q9k","slide":14,"name":"Rectangle 25","text":"Cast and cure specimens","textPreview":"Cast and cure specimens","textChars":23,"textLines":1,"bbox":[497,310,286,34]}
+{"kind":"shape","id":"sh/2t4fyl8z","slide":14,"name":"Oval 26","bbox":[463,375,20,20]}
+{"kind":"textbox","id":"sh/d0fydk7m","slide":14,"name":"Rectangle 27","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[463,377,20,14]}
+{"kind":"textbox","id":"sh/cz6h4fq1","slide":14,"name":"Rectangle 28","text":"Baseline modal characterisation","textPreview":"Baseline modal characterisation","textChars":31,"textLines":1,"bbox":[497,372,286,34]}
+{"kind":"shape","id":"sh/atg3idk7","slide":14,"name":"Oval 29","bbox":[463,437,20,20]}
+{"kind":"textbox","id":"sh/bup4rils","slide":14,"name":"Rectangle 30","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[463,439,20,14]}
+{"kind":"textbox","id":"sh/cvylkn2d","slide":14,"name":"Rectangle 31","text":"Controlled graded damage","textPreview":"Controlled graded damage","textChars":24,"textLines":1,"bbox":[497,434,286,34]}
+{"kind":"shape","id":"sh/xw7mts3y","slide":14,"name":"Oval 32","bbox":[463,499,20,20]}
+{"kind":"textbox","id":"sh/yxgnmxkj","slide":14,"name":"Rectangle 33","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[463,501,20,14]}
+{"kind":"textbox","id":"sh/jyp4fil4","slide":14,"name":"Rectangle 34","text":"Crack survey and sorptivity tests","textPreview":"Crack survey and sorptivity tests","textChars":33,"textLines":1,"bbox":[497,496,286,34]}
+{"kind":"shape","id":"sh/kzy5on2p","slide":14,"name":"Rounded Rectangle 35","bbox":[838,158,372,436]}
+{"kind":"shape","id":"sh/lkrmhsju","slide":14,"name":"Rounded Rectangle 36","bbox":[858,180,206,30]}
+{"kind":"textbox","id":"sh/6l0nqxkf","slide":14,"name":"Rectangle 37","text":"FEB → APR 2027","textPreview":"FEB → APR 2027","textChars":14,"textLines":1,"bbox":[866,185,190,20]}
+{"kind":"textbox","id":"sh/7m94j210","slide":14,"name":"Rectangle 38","text":"Validate and integrate","textPreview":"Validate and integrate","textChars":22,"textLines":1,"bbox":[858,238,332,44]}
+{"kind":"shape","id":"sh/fi5432t4","slide":14,"name":"Oval 39","bbox":[860,313,20,20]}
+{"kind":"textbox","id":"sh/uhw3axcj","slide":14,"name":"Rectangle 40","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[860,315,20,14]}
+{"kind":"textbox","id":"sh/h4nm5sba","slide":14,"name":"Rectangle 41","text":"Held-out comparison of M models","textPreview":"Held-out comparison of M models","textChars":31,"textLines":1,"bbox":[894,310,286,34]}
+{"kind":"shape","id":"sh/gjelc7up","slide":14,"name":"Oval 42","bbox":[860,375,20,20]}
+{"kind":"textbox","id":"sh/365472tg","slide":14,"name":"Rectangle 43","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[860,377,20,14]}
+{"kind":"textbox","id":"sh/25w3excv","slide":14,"name":"Rectangle 44","text":"Physical calibration of N","textPreview":"Physical calibration of N","textChars":25,"textLines":1,"bbox":[894,372,286,34]}
+{"kind":"shape","id":"sh/p87m9cb6","slide":14,"name":"Oval 45","bbox":[860,437,20,20]}
+{"kind":"textbox","id":"sh/47y5g7u1","slide":14,"name":"Rectangle 46","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[860,439,20,14]}
+{"kind":"textbox","id":"sh/jal4vidw","slide":14,"name":"Rectangle 47","text":"End-to-end decision case","textPreview":"End-to-end decision case","textChars":24,"textLines":1,"bbox":[894,434,286,34]}
+{"kind":"shape","id":"sh/i9c32dcr","slide":14,"name":"Oval 48","bbox":[860,499,20,20]}
+{"kind":"textbox","id":"sh/ofq1cja9","slide":14,"name":"Rectangle 49","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[860,501,20,14]}
+{"kind":"textbox","id":"sh/9gji5oru","slide":14,"name":"Rectangle 50","text":"Final report, code and defence","textPreview":"Final report, code and defence","textChars":30,"textLines":1,"bbox":[894,496,286,34]}
+{"kind":"shape","id":"sh/mt8ja9sj","slide":14,"name":"Rounded Rectangle 51","bbox":[156,622,924,44]}
+{"kind":"textbox","id":"sh/neh03eto","slide":14,"name":"Rectangle 52","text":"Review 2 endpoint: methodology frozen and pilot measurements demonstrated—not a forced claim of full physical validation.","textPreview":"Review 2 endpoint: methodology frozen and pilot measurements demonstrated—not a forced claim of full physical validation.","textChars":121,"textLines":1,"bbox":[176,632,884,22]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"This separates current computational readiness from the physical evidence still to be earned.\n[Sources]\n- User-provided team briefing document, Sections 8, 13 and 14\n- User-provided milestones: Review 2 by end-October 2026; submission April 2027\n[/Sources]"}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"Roadmap · Review 1 to April 2027 submission","textShapes":18}
+{"kind":"textbox","id":"sh/4n6d8z21","slide":15,"name":"Rectangle 35","text":"Roadmap · Review 1 to April 2027 submission","textPreview":"Roadmap · Review 1 to April 2027 submission","textChars":43,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/547mhg3m","slide":15,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/k3y5ov21","slide":15,"name":"Rectangle 2","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/76p4jqls","slide":15,"name":"Rectangle 3","bbox":[104,344,1072,6]}
+{"kind":"shape","id":"sh/65gnqlk7","slide":15,"name":"Oval 4","bbox":[114,312,70,70]}
+{"kind":"shape","id":"sh/t87ml0ji","slide":15,"name":"Oval 5","bbox":[134,332,30,30]}
+{"kind":"shape","id":"sh/s7y5sv2x","slide":15,"name":"Rounded Rectangle 6","bbox":[64,156,170,30]}
+{"kind":"textbox","id":"sh/na5476l8","slide":15,"name":"Rectangle 7","text":"AUG 2026","textPreview":"AUG 2026","textChars":8,"textLines":1,"bbox":[72,161,154,20]}
+{"kind":"textbox","id":"sh/m9c3e1kn","slide":15,"name":"Rectangle 8","text":"Review 1","textPreview":"Review 1","textChars":8,"textLines":1,"bbox":[50,206,198,34]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"name":"Rectangle 9","text":"Gap + objectives\nArchitecture + simulation","textPreview":"Gap + objectives | Architecture + simulation","textChars":42,"textLines":2,"bbox":[44,246,210,66]}
+{"kind":"shape","id":"sh/hsvat0fa","slide":15,"name":"Oval 10","bbox":[352,312,70,70]}
+{"kind":"shape","id":"sh/upkrilwj","slide":15,"name":"Oval 11","bbox":[372,332,30,30]}
+{"kind":"shape","id":"sh/vqdsrqx4","slide":15,"name":"Rounded Rectangle 12","bbox":[302,468,170,30]}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":15,"name":"Rectangle 13","text":"OCT 2026","textPreview":"OCT 2026","textChars":8,"textLines":1,"bbox":[310,473,154,20]}
+{"kind":"textbox","id":"sh/5wvax0f6","slide":15,"name":"Rectangle 14","text":"Review 2","textPreview":"Review 2","textChars":8,"textLines":1,"bbox":[288,518,198,34]}
+{"kind":"textbox","id":"sh/it4rm5wv","slide":15,"name":"Rectangle 15","text":"Frozen methodology\nPilot sensing protocol","textPreview":"Frozen methodology | Pilot sensing protocol","textChars":41,"textLines":2,"bbox":[282,558,210,66]}
+{"kind":"shape","id":"sh/judsvqxg","slide":15,"name":"Oval 16","bbox":[590,312,70,70]}
+{"kind":"shape","id":"sh/0z29cbyh","slide":15,"name":"Oval 17","bbox":[610,332,30,30]}
+{"kind":"shape","id":"sh/l0bqlgf2","slide":15,"name":"Rounded Rectangle 18","bbox":[540,156,170,30]}
+{"kind":"textbox","id":"sh/1kjyt83e","slide":15,"name":"Rectangle 19","text":"JAN 2027","textPreview":"JAN 2027","textChars":8,"textLines":1,"bbox":[548,161,154,20]}
+{"kind":"textbox","id":"sh/gjax03m9","slide":15,"name":"Rectangle 20","text":"Campaign complete","textPreview":"Campaign complete","textChars":17,"textLines":1,"bbox":[526,206,198,34]}
+{"kind":"textbox","id":"sh/fi1grylo","slide":15,"name":"Rectangle 21","text":"Damage + sorptivity data","textPreview":"Damage + sorptivity data","textChars":24,"textLines":1,"bbox":[520,246,210,66]}
+{"kind":"shape","id":"sh/ehsfyt43","slide":15,"name":"Oval 22","bbox":[828,312,70,70]}
+{"kind":"shape","id":"sh/p8jyx83q","slide":15,"name":"Oval 23","bbox":[848,332,30,30]}
+{"kind":"shape","id":"sh/o7ah4nm5","slide":15,"name":"Rounded Rectangle 24","bbox":[778,468,170,30]}
+{"kind":"textbox","id":"sh/361gvilk","slide":15,"name":"Rectangle 25","text":"MAR 2027","textPreview":"MAR 2027","textChars":8,"textLines":1,"bbox":[786,473,154,20]}
+{"kind":"textbox","id":"sh/25sf2d4z","slide":15,"name":"Rectangle 26","text":"Integrated validation","textPreview":"Integrated validation","textChars":21,"textLines":1,"bbox":[764,518,198,34]}
+{"kind":"textbox","id":"sh/dc3y1s3m","slide":15,"name":"Rectangle 27","text":"Held-out M / N evaluation\nDecision checks","textPreview":"Held-out M / N evaluation | Decision checks","textChars":41,"textLines":2,"bbox":[758,558,210,66]}
+{"kind":"shape","id":"sh/cbuh8nmh","slide":15,"name":"Oval 28","bbox":[1066,312,70,70]}
+{"kind":"shape","id":"sh/uh4v2pkj","slide":15,"name":"Oval 29","bbox":[1086,332,30,30]}
+{"kind":"shape","id":"sh/vixcvu14","slide":15,"name":"Rounded Rectangle 30","bbox":[1016,156,170,30]}
+{"kind":"textbox","id":"sh/wj6d4z2p","slide":15,"name":"Rectangle 31","text":"APR 2027","textPreview":"APR 2027","textChars":8,"textLines":1,"bbox":[1024,161,154,20]}
+{"kind":"textbox","id":"sh/hkfexkja","slide":15,"name":"Rectangle 32","text":"Submission","textPreview":"Submission","textChars":10,"textLines":1,"bbox":[1002,206,198,34]}
+{"kind":"textbox","id":"sh/ilov6pkv","slide":15,"name":"Rectangle 33","text":"Report + code + data","textPreview":"Report + code + data","textChars":20,"textLines":1,"bbox":[996,246,210,66]}
+{"kind":"textbox","id":"sh/jmxwzu1g","slide":15,"name":"Rectangle 34","text":"The critical path is experimental—not slideware: freeze protocol → collect paired measurements → hold out validation → integrate decisions.","textPreview":"The critical path is experimental—not slideware: freeze protocol → collect paired measurements → hold out validation → integrate decisions.","textChars":139,"textLines":1,"bbox":[130,646,1020,28]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"Keep April 2027 as the fixed endpoint; the experimental campaign is the critical path.\n[Sources]\n- User-provided submission and Review 2 dates\n- User-provided team briefing document, Section 13\n[/Sources]"}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"References · APA style","textShapes":10}
+{"kind":"textbox","id":"sh/mpgj6t8j","slide":16,"name":"Rectangle 19","text":"References · APA style","textPreview":"References · APA style","textChars":22,"textLines":1,"bbox":[44,42,1192,58]}
+{"kind":"shape","id":"sh/8z2h8bq1","slide":16,"name":"Rectangle 1","bbox":[44,108,1192,2]}
+{"kind":"textbox","id":"sh/9kby1g7m","slide":16,"name":"Rectangle 2","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/ytkf2h8j","slide":16,"name":"Rounded Rectangle 3","bbox":[44,150,574,494]}
+{"kind":"shape","id":"sh/zutgvm94","slide":16,"name":"Rounded Rectangle 4","bbox":[638,150,598,494]}
+{"kind":"textbox","id":"sh/kv2h4rqp","slide":16,"name":"Rectangle 5","text":"Pirrò, M., Pereira, S., Gentile, C., Magalhães, F., & Cunha, Á. (2025). Damage detection under environmental and operational variability using the cointegration technique. Engineering Structures, 328, 119700. https://doi.org/10.1016/j.engstruct.2025.119700","textPreview":"Pirrò, M., Pereira, S., Gentile, C., Magalhães, F., & Cunha, Á. (2025). Damage detection under environmental and operational variability ...","textChars":256,"textLines":1,"bbox":[64,168,534,104]}
+{"kind":"shape","id":"sh/lwbyxwra","slide":16,"name":"Rectangle 6","bbox":[64,274,534,1]}
+{"kind":"textbox","id":"sh/ip4zel83","slide":16,"name":"Rectangle 7","text":"Giglioni, V., Venanzi, I., Poggioni, V., Milani, A., & Ubertini, F. (2023). Autoencoders for unsupervised real-time bridge health assessment. Computer-Aided Civil and Infrastructure Engineering, 38, 959–974. https://doi.org/10.1111/mice.12943","textPreview":"Giglioni, V., Venanzi, I., Poggioni, V., Milani, A., & Ubertini, F. (2023). Autoencoders for unsupervised real-time bridge health assessm...","textChars":242,"textLines":1,"bbox":[64,284,534,104]}
+{"kind":"shape","id":"sh/3qdg7qpo","slide":16,"name":"Rectangle 8","bbox":[64,390,534,1]}
+{"kind":"textbox","id":"sh/fm1gzq5o","slide":16,"name":"Rectangle 9","text":"Torzoni, M., Rosafalco, L., Manzoni, A., Mariani, S., & Corigliano, A. (2022). SHM under varying environmental conditions: An approach based on model order reduction and deep learning. Computers & Structures, 266, 106790. https://doi.org/10.1016/j.compstruc.2022.106790","textPreview":"Torzoni, M., Rosafalco, L., Manzoni, A., Mariani, S., & Corigliano, A. (2022). SHM under varying environmental conditions: An approach ba...","textChars":269,"textLines":1,"bbox":[64,400,534,104]}
+{"kind":"shape","id":"sh/e1sf65o3","slide":16,"name":"Rectangle 10","bbox":[64,506,534,1]}
+{"kind":"textbox","id":"sh/1ojy10ne","slide":16,"name":"Rectangle 11","text":"Torzoni, M., Manzoni, A., & Mariani, S. (2023). A multi-fidelity surrogate model for structural health monitoring exploiting model order reduction and artificial neural networks. Mechanical Systems and Signal Processing, 197, 110376. https://doi.org/10.1016/j.ymssp.2023.110376","textPreview":"Torzoni, M., Manzoni, A., & Mariani, S. (2023). A multi-fidelity surrogate model for structural health monitoring exploiting model order ...","textChars":277,"textLines":1,"bbox":[64,516,534,104]}
+{"kind":"textbox","id":"sh/gnax8v6t","slide":16,"name":"Rectangle 12","text":"Torzoni, M., Manzoni, A., & Mariani, S. (2022). Structural health monitoring of civil structures: A diagnostic framework powered by deep metric learning. Computers & Structures, 271, 106858. https://doi.org/10.1016/j.compstruc.2022.106858","textPreview":"Torzoni, M., Manzoni, A., & Mariani, S. (2022). Structural health monitoring of civil structures: A diagnostic framework powered by deep ...","textChars":238,"textLines":1,"bbox":[658,168,558,104]}
+{"kind":"shape","id":"sh/nqlg3a5k","slide":16,"name":"Rectangle 13","bbox":[658,274,558,1]}
+{"kind":"textbox","id":"sh/2pcfa5oz","slide":16,"name":"Rectangle 14","text":"Kamariotis, A., Chatzi, E., & Straub, D. (2022). Value of information from vibration-based structural health monitoring extracted via Bayesian model updating. Mechanical Systems and Signal Processing, 166, 108465. https://doi.org/10.1016/j.ymssp.2021.108465","textPreview":"Kamariotis, A., Chatzi, E., & Straub, D. (2022). Value of information from vibration-based structural health monitoring extracted via Bay...","textChars":257,"textLines":1,"bbox":[658,284,558,104]}
+{"kind":"shape","id":"sh/ps3y5knq","slide":16,"name":"Rectangle 15","bbox":[658,390,558,1]}
+{"kind":"textbox","id":"sh/oruhcf65","slide":16,"name":"Rectangle 16","text":"Arcieri, G., Hoelzl, C., Schwery, O., Straub, D., Papakonstantinou, K. G., & Chatzi, E. (2023). Bridging POMDPs and Bayesian decision making for robust maintenance planning under model uncertainty: An application to railway systems. Reliability Engineering & System Safety, 239, 109496. https://doi.org/10.1016/j.ress.2023.109496","textPreview":"Arcieri, G., Hoelzl, C., Schwery, O., Straub, D., Papakonstantinou, K. G., & Chatzi, E. (2023). Bridging POMDPs and Bayesian decision mak...","textChars":329,"textLines":1,"bbox":[658,400,558,104]}
+{"kind":"shape","id":"sh/bulg7u5g","slide":16,"name":"Rectangle 17","bbox":[658,506,558,1]}
+{"kind":"textbox","id":"sh/atczepob","slide":16,"name":"Rectangle 18","text":"Mengel, L., Krauss, H.-W., & Lowke, D. (2022). Water transport through cracked concrete structures—Effect of mixture proportion on separating crack geometry and permeability. Materials, 15, 5807. https://doi.org/10.3390/ma15175807","textPreview":"Mengel, L., Krauss, H.-W., & Lowke, D. (2022). Water transport through cracked concrete structures—Effect of mixture proportion on separa...","textChars":230,"textLines":1,"bbox":[658,516,558,104]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"[Sources]\n- Crossref metadata retrieved by DOI on 26 August 2026\n- DOI links printed on this slide\n[/Sources]"}

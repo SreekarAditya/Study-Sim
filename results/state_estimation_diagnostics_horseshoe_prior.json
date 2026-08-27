@@ -1,0 +1,18 @@
+{
+  "success": false,
+  "message": "outer horseshoe scales stabilised, but the final nonlinear state solve was unsuccessful: The maximum number of function evaluations is exceeded.",
+  "cost": 14.150499621585672,
+  "n_function_evaluations": 4126,
+  "horseshoe_iterations": 26,
+  "hyperprior": "local scales and global tau use half-Cauchy priors; source=illustrative",
+  "inferred_horseshoe_global_scale": 0.005005931056681616,
+  "median_inferred_local_scale": 1.327986276870363,
+  "covariance_scope": "full alpha covariance conditional on empirical-Bayes local/global scales",
+  "reference_formulation": "hierarchical local-global horseshoe alternative; implementation constants illustrative",
+  "prior": "hierarchical_horseshoe",
+  "information_condition_number": 753.8849154582291,
+  "separability_rule": "alpha_sd <= 0.17 AND max_abs_parameter_correlation <= 0.82",
+  "separable_members": 21,
+  "tradeoff_members": 0,
+  "source": "illustrative"
+}

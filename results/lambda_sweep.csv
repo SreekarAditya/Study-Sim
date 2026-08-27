@@ -1,0 +1,7 @@
+lambda,qubo_energy,interventions,geometry_acquisitions,feasible,source
+0.0,33.80653200135566,10,0,True,illustrative
+0.0005,32.420576504664496,10,0,True,illustrative
+0.001,34.38726306974422,10,2,True,illustrative
+0.002,38.377711978158914,10,0,True,illustrative
+0.005,57.58119043963961,12,2,True,illustrative
+0.01,60.36137161555234,11,2,True,illustrative

@@ -1,0 +1,10 @@
+{
+  "sensor_count": 6,
+  "member_count": 21,
+  "environment_abs_shift_p95_fraction": 0.019509665323965586,
+  "environment_abs_shift_max_fraction": 0.0231991040230573,
+  "single_member_mild_damage_alpha": 0.9,
+  "single_member_mild_damage_median_abs_frequency_shift": 0.0024002662873875424,
+  "environment_p95_to_mild_damage_median_ratio": 8.128125377788798,
+  "source": "illustrative"
+}

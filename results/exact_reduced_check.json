@@ -1,0 +1,27 @@
+{
+  "member_from_full_instance": 1,
+  "primary_assignments_enumerated": 256,
+  "feasible_assignments": 10,
+  "exact_optimum_energy": -14.740443219966437,
+  "annealed_energy": -14.740443219966437,
+  "annealer_reached_exact_optimum": true,
+  "exact_plan": [
+    {
+      "member_id": 0,
+      "member": "M01",
+      "period": 1,
+      "action": "combined",
+      "source": "illustrative"
+    }
+  ],
+  "annealed_plan": [
+    {
+      "member_id": 0,
+      "member": "M01",
+      "period": 1,
+      "action": "combined",
+      "source": "illustrative"
+    }
+  ],
+  "source": "illustrative"
+}

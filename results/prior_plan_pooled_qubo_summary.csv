@@ -1,0 +1,4 @@
+configuration,pooled_qubo_energy,jaccard_vs_milp_oracle,selected_intervention_pairs,source
+flat_prior,12.884433591272682,0.1111111111111111,10,illustrative
+sparse_prior,15.826832738821395,0.23529411764705882,11,illustrative
+ground_truth_oracle,-61.07893994287588,0.3333333333333333,10,illustrative

@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "demo-sim"
+version = "0.1.0"
+description = "Synthetic structural assessment and retrofit-planning plumbing demonstration"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=2.0",
+  "scipy>=1.13",
+  "pandas>=2.0",
+  "matplotlib>=3.8",
+  "seaborn>=0.13",
+]
+
+[project.scripts]
+demo-sim = "demo_sim.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+

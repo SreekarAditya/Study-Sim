@@ -1,0 +1,11 @@
+{
+  "reference_column": "jaccard_vs_milp_oracle",
+  "mann_whitney_u": 1255.0,
+  "mann_whitney_two_sided_p": 0.9751074783895369,
+  "cliffs_delta_flat_minus_sparse": 0.004,
+  "iqr_overlap_fraction_of_smaller_iqr": 1.0,
+  "substantial_iqr_overlap": true,
+  "distinguishable_under_declared_rule": false,
+  "decision_rule": "p <= 0.05 AND |Cliff delta| >= 0.33 AND IQR overlap fraction < 0.25",
+  "source": "illustrative"
+}

@@ -1,0 +1,18 @@
+{
+  "package_version": "0.1.0",
+  "random_seed": 4817,
+  "traced_member": "M03",
+  "claim_scope": "pipeline plumbing and uncertainty propagation only; no concrete validation",
+  "all_empirical_constants_illustrative": true,
+  "all_production_plans_independently_feasible": true,
+  "checker_rejected_penalty_1_negative_control": true,
+  "largest_exactly_verified_primary_bits": 20,
+  "full_size_primary_bits": 504,
+  "full_size_optimality_verified": true,
+  "full_size_exact_solver": "SciPy milp with open-source HiGHS backend",
+  "all_milp_plans_independently_feasible": true,
+  "prior_plan_diagnostic_seeds_per_configuration": 50,
+  "jaccard_distributions_distinguishable": false,
+  "horseshoe_triggered": true,
+  "source": "illustrative"
+}

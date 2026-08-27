@@ -1,0 +1,17 @@
+{
+  "restarts": 3,
+  "steps_per_restart": 7000,
+  "proposals": 21000,
+  "accepted": 1227,
+  "acceptance_rate": 0.05842857142857143,
+  "variable_count": 678,
+  "primary_variable_count": 504,
+  "quadratic_term_count": 30174,
+  "local_polish_improvements": 1,
+  "source": "illustrative",
+  "candidate_pooling_used": true,
+  "raw_20_seed_reference_best_energy": 38.377711978158914,
+  "pooled_feasible_start_energy": 19.31026367843151,
+  "pooled_candidate_count": 10,
+  "interpretation": "best-known feasible reference after cross-configuration candidate rescoring and final polish; not a proven optimum"
+}

@@ -1,0 +1,177 @@
+{
+  "main": {
+    "feasible": true,
+    "violations": []
+  },
+  "lambda_0": {
+    "feasible": true,
+    "violations": []
+  },
+  "lambda_0.0005": {
+    "feasible": true,
+    "violations": []
+  },
+  "lambda_0.001": {
+    "feasible": true,
+    "violations": []
+  },
+  "lambda_0.002": {
+    "feasible": true,
+    "violations": []
+  },
+  "lambda_0.005": {
+    "feasible": true,
+    "violations": []
+  },
+  "lambda_0.01": {
+    "feasible": true,
+    "violations": []
+  },
+  "point_estimate": {
+    "feasible": true,
+    "violations": []
+  },
+  "no_initial_geometry_acquisition_allowed": {
+    "feasible": true,
+    "violations": []
+  },
+  "no_interactions": {
+    "feasible": true,
+    "violations": []
+  },
+  "naive_severity": {
+    "feasible": true,
+    "violations": []
+  },
+  "ground_truth_oracle": {
+    "feasible": true,
+    "violations": []
+  },
+  "negative_control_penalty_1": {
+    "penalty_weight": 1.0,
+    "checker_rejected": true,
+    "feasible": false,
+    "violation_count": 85,
+    "violation_categories": [
+      "catalogue_uniqueness",
+      "cover_jacket_precedence",
+      "intervention_budget",
+      "out_of_service",
+      "slack_equality",
+      "untreated_y_recurrence"
+    ],
+    "violations": [
+      "period 0: intervention budget 12.0>10",
+      "period 1: intervention budget 11.0>10",
+      "period 1: out-of-service limit exceeded",
+      "period 2: intervention budget 12.0>10",
+      "period 3: out-of-service limit exceeded",
+      "member 1: combined mixed with separate action",
+      "member 1: jacket lacks earlier cover",
+      "member 2: combined mixed with separate action",
+      "member 6: jacket repeated",
+      "member 6: jacket lacks earlier cover",
+      "member 6: jacket lacks earlier cover",
+      "member 2 period 1: untreated auxiliary y=0, expected 1",
+      "member 2 period 2: untreated auxiliary y=0, expected 1",
+      "member 4 period 1: untreated auxiliary y=0, expected 1",
+      "member 4 period 2: untreated auxiliary y=0, expected 1",
+      "member 4 period 3: untreated auxiliary y=0, expected 1",
+      "member 4 period 4: untreated auxiliary y=0, expected 1",
+      "member 4 period 5: untreated auxiliary y=0, expected 1",
+      "member 7 period 1: untreated auxiliary y=0, expected 1",
+      "member 7 period 2: untreated auxiliary y=0, expected 1",
+      "member 7 period 3: untreated auxiliary y=0, expected 1",
+      "member 8 period 1: untreated auxiliary y=0, expected 1",
+      "member 8 period 2: untreated auxiliary y=0, expected 1",
+      "member 8 period 3: untreated auxiliary y=0, expected 1",
+      "member 8 period 4: untreated auxiliary y=0, expected 1",
+      "member 8 period 5: untreated auxiliary y=0, expected 1",
+      "member 9 period 1: untreated auxiliary y=0, expected 1",
+      "member 9 period 2: untreated auxiliary y=0, expected 1",
+      "member 9 period 3: untreated auxiliary y=0, expected 1",
+      "member 9 period 4: untreated auxiliary y=0, expected 1",
+      "member 9 period 5: untreated auxiliary y=0, expected 1",
+      "member 10 period 1: untreated auxiliary y=0, expected 1",
+      "member 10 period 2: untreated auxiliary y=0, expected 1",
+      "member 10 period 3: untreated auxiliary y=0, expected 1",
+      "member 10 period 4: untreated auxiliary y=0, expected 1",
+      "member 10 period 5: untreated auxiliary y=0, expected 1",
+      "member 11 period 1: untreated auxiliary y=0, expected 1",
+      "member 11 period 2: untreated auxiliary y=0, expected 1",
+      "member 11 period 3: untreated auxiliary y=0, expected 1",
+      "member 11 period 4: untreated auxiliary y=0, expected 1",
+      "member 11 period 5: untreated auxiliary y=0, expected 1",
+      "member 12 period 1: untreated auxiliary y=0, expected 1",
+      "member 12 period 2: untreated auxiliary y=0, expected 1",
+      "member 12 period 3: untreated auxiliary y=0, expected 1",
+      "member 12 period 4: untreated auxiliary y=0, expected 1",
+      "member 12 period 5: untreated auxiliary y=0, expected 1",
+      "member 13 period 1: untreated auxiliary y=0, expected 1",
+      "member 13 period 2: untreated auxiliary y=0, expected 1",
+      "member 13 period 3: untreated auxiliary y=0, expected 1",
+      "member 13 period 4: untreated auxiliary y=0, expected 1",
+      "member 13 period 5: untreated auxiliary y=0, expected 1",
+      "member 14 period 1: untreated auxiliary y=0, expected 1",
+      "member 14 period 2: untreated auxiliary y=0, expected 1",
+      "member 14 period 3: untreated auxiliary y=0, expected 1",
+      "member 14 period 4: untreated auxiliary y=0, expected 1",
+      "member 15 period 1: untreated auxiliary y=0, expected 1",
+      "member 15 period 2: untreated auxiliary y=0, expected 1",
+      "member 15 period 3: untreated auxiliary y=0, expected 1",
+      "member 15 period 4: untreated auxiliary y=0, expected 1",
+      "member 15 period 5: untreated auxiliary y=0, expected 1",
+      "member 16 period 1: untreated auxiliary y=0, expected 1",
+      "member 16 period 2: untreated auxiliary y=0, expected 1",
+      "member 16 period 3: untreated auxiliary y=0, expected 1",
+      "member 16 period 4: untreated auxiliary y=0, expected 1",
+      "member 16 period 5: untreated auxiliary y=0, expected 1",
+      "member 17 period 1: untreated auxiliary y=0, expected 1",
+      "member 17 period 2: untreated auxiliary y=0, expected 1",
+      "member 17 period 3: untreated auxiliary y=0, expected 1",
+      "member 17 period 4: untreated auxiliary y=0, expected 1",
+      "member 17 period 5: untreated auxiliary y=0, expected 1",
+      "member 19 period 1: untreated auxiliary y=0, expected 1",
+      "member 19 period 2: untreated auxiliary y=0, expected 1",
+      "member 19 period 3: untreated auxiliary y=0, expected 1",
+      "member 19 period 4: untreated auxiliary y=0, expected 1",
+      "member 19 period 5: untreated auxiliary y=0, expected 1",
+      "member 20 period 1: untreated auxiliary y=0, expected 1",
+      "member 20 period 2: untreated auxiliary y=0, expected 1",
+      "member 20 period 3: untreated auxiliary y=0, expected 1",
+      "member 20 period 4: untreated auxiliary y=0, expected 1",
+      "member 20 period 5: untreated auxiliary y=0, expected 1",
+      "period 0: intervention slack equality 12+0!=10",
+      "period 1: intervention slack equality 11+0!=10",
+      "period 1: outage slack equality 3+0!=2",
+      "period 2: intervention slack equality 12+0!=10",
+      "period 3: outage slack equality 3+0!=2"
+    ],
+    "weak_penalty_qubo_energy": -69.00368958168406,
+    "objective_only_energy": -143.00368958168454,
+    "correctly_penalised_energy": 402578.5402442203,
+    "reference_best_known_feasible_objective": 15.826832736962487,
+    "objective_delta_vs_reference": -158.830522318647,
+    "correctly_penalised_delta_vs_reference": 402562.71341148147,
+    "scores_better_on_objective_than_reference": true,
+    "conclusion": "checker rejected an infeasible weak-penalty solution",
+    "source": "illustrative"
+  },
+  "negative_control_penalty_10": {
+    "penalty_weight": 10.0,
+    "checker_rejected": false,
+    "feasible": true,
+    "violation_count": 0,
+    "violation_categories": [],
+    "violations": [],
+    "weak_penalty_qubo_energy": 15.826832736960569,
+    "objective_only_energy": 15.826832736962487,
+    "correctly_penalised_energy": 15.826832738821395,
+    "reference_best_known_feasible_objective": 15.826832736962487,
+    "objective_delta_vs_reference": 0.0,
+    "correctly_penalised_delta_vs_reference": 0.0,
+    "scores_better_on_objective_than_reference": false,
+    "conclusion": "no violation was induced at this penalty; this negative control is inconclusive, not a checker pass",
+    "source": "illustrative"
+  }
+}

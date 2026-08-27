@@ -1,0 +1,9 @@
+{
+  "method": "split conformal absolute-residual interval on a synthetic exchangeable calibration set",
+  "nominal_coverage": 0.9,
+  "achieved_heldout_coverage": 0.915,
+  "calibration_size": 240,
+  "heldout_size": 600,
+  "quantile": 0.1941380569050743,
+  "source": "illustrative"
+}

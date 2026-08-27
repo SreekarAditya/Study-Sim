@@ -1,0 +1,15 @@
+member_id,member,period,action,source
+0,M00,3,cover,illustrative
+1,M01,2,cover,illustrative
+3,M03,1,combined,illustrative
+5,M05,6,cover,illustrative
+6,M06,5,cover,illustrative
+6,M06,6,jacket,illustrative
+8,M08,1,cover,illustrative
+9,M09,4,combined,illustrative
+12,M12,3,acquire_geometry,illustrative
+12,M12,4,cover,illustrative
+12,M12,5,jacket,illustrative
+14,M14,1,acquire_geometry,illustrative
+14,M14,2,combined,illustrative
+16,M16,3,cover,illustrative

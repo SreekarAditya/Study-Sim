@@ -1,0 +1,4 @@
+primary_bits,total_qubo_variables,raw_assignment_count,feasible_assignments,exact_optimum_energy,annealer_hits,seed_count,annealer_hit_rate,best_annealed_energy,worst_annealed_energy,exact_plan,source
+12,39,4096,20,-24.44719149973389,14,20,0.7,-24.44719149973389,-15.334118679827952,"[{'member_id': 0, 'member': 'M01', 'period': 1, 'action': 'combined', 'source': 'illustrative'}]",illustrative
+16,52,65536,35,-33.22665035634418,11,20,0.55,-33.22665035634418,-24.123808658550843,"[{'member_id': 0, 'member': 'M01', 'period': 1, 'action': 'combined', 'source': 'illustrative'}]",illustrative
+20,65,1048576,56,-41.1746017140249,10,20,0.5,-41.1746017140249,-32.22185137384804,"[{'member_id': 0, 'member': 'M01', 'period': 1, 'action': 'combined', 'source': 'illustrative'}]",illustrative

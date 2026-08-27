@@ -1,0 +1,7 @@
+{
+  "triggered": true,
+  "laplace_minus_flat_damaged_member_mean_bias": 0.07909438216350857,
+  "material_bias_threshold": 0.05,
+  "reason": "material damaged-member shrinkage bias detected; horseshoe evaluated",
+  "source": "illustrative"
+}

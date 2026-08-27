@@ -1,0 +1,4 @@
+configuration,objective_value,reference_qubo_energy,qubo_cross_score_absolute_difference,solve_time_seconds,proven_optimal,mip_gap,mip_dual_bound,mip_node_count,primary_binary_count,binary_variable_count_including_y,product_variable_count,linear_constraint_count,independent_violation_count,solver,source
+flat_prior,-37.210741046052945,-37.21074104588479,1.681570438449853e-10,312.72723699999915,True,0.0,-37.21074104605294,504,504,630,24990,78864,0,SciPy milp with open-source HiGHS backend,illustrative
+sparse_prior,-24.298092155497123,-24.298092154203914,1.2932090953654551e-09,59.70714662500541,True,0.0,-24.298092155497123,19,504,630,10941,36711,0,SciPy milp with open-source HiGHS backend,illustrative
+ground_truth_oracle,-101.74677913535223,-101.74677913845517,3.1029401270643575e-09,51.291540541998984,True,0.0,-101.74677913535255,1,504,630,20268,64716,0,SciPy milp with open-source HiGHS backend,illustrative

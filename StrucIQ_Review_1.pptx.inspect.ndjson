@@ -1,0 +1,588 @@
+{"kind":"deck","id":"pr/gbm5oo","name":"Deck"}
+{"kind":"layout","layoutId":"03a9e91f-cb38-4550-84a3-d4b8d1ed45da","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"4ea86f45-c973-4420-8387-4d1084765ce6","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/fwetn8","slide":1,"title":"Department of Civil Engineering","textShapes":11}
+{"kind":"shape","id":"sh/lo3ap07m","slide":1,"bbox":[72,246,1136,2]}
+{"kind":"textbox","id":"sh/knu9gv61","slide":1,"text":"Department of Civil Engineering","textPreview":"Department of Civil Engineering","textChars":31,"textLines":1,"bbox":[120,266,1040,44]}
+{"kind":"textbox","id":"sh/7q5sraps","slide":1,"text":"A Vibration-Driven Structural Digital Twin for\nUncertainty-Aware Retrofit Decision Making","textPreview":"A Vibration-Driven Structural Digital Twin for | Uncertainty-Aware Retrofit Decision Making","textChars":89,"textLines":2,"bbox":[108,320,1064,104]}
+{"kind":"textbox","id":"sh/6pcri5o7","slide":1,"text":"Batch: ABR120","textPreview":"Batch: ABR120","textChars":13,"textLines":1,"bbox":[440,438,400,34]}
+{"kind":"textbox","id":"sh/tsnat07y","slide":1,"text":"Team Members","textPreview":"Team Members","textChars":12,"textLines":1,"bbox":[120,486,1040,28]}
+{"kind":"shape","id":"sh/8re9kf6d","slide":1,"bbox":[250,518,780,1]}
+{"kind":"textbox","id":"sh/nu1sf6po","slide":1,"text":"P. Sahasra Reddy","textPreview":"P. Sahasra Reddy","textChars":16,"textLines":1,"bbox":[278,526,400,28]}
+{"kind":"textbox","id":"sh/mtsr6183","slide":1,"text":"160123732015","textPreview":"160123732015","textChars":12,"textLines":1,"bbox":[714,526,288,28]}
+{"kind":"shape","id":"sh/gfed0v6t","slide":1,"bbox":[250,560,780,1]}
+{"kind":"textbox","id":"sh/hgnut0ne","slide":1,"text":"M. Bhagirath Reddy","textPreview":"M. Bhagirath Reddy","textChars":18,"textLines":1,"bbox":[278,568,400,28]}
+{"kind":"textbox","id":"sh/udwvylon","slide":1,"text":"160123732046","textPreview":"160123732046","textChars":12,"textLines":1,"bbox":[714,568,288,28]}
+{"kind":"shape","id":"sh/ve5crq58","slide":1,"bbox":[250,602,780,1]}
+{"kind":"textbox","id":"sh/4jed4f6p","slide":1,"text":"P. Sreekar Aditya Reddy","textPreview":"P. Sreekar Aditya Reddy","textChars":23,"textLines":1,"bbox":[278,610,400,28]}
+{"kind":"textbox","id":"sh/5k7ux0na","slide":1,"text":"160123732048","textPreview":"160123732048","textChars":12,"textLines":1,"bbox":[714,610,288,28]}
+{"kind":"shape","id":"sh/ihwv25oz","slide":1,"bbox":[250,644,780,1]}
+{"kind":"textbox","id":"sh/3i5cva54","slide":1,"text":"Project Guide: Dr. A. Balaji Rao, Associate Professor","textPreview":"Project Guide: Dr. A. Balaji Rao, Associate Professor","textChars":53,"textLines":1,"bbox":[220,660,840,28]}
+{"kind":"image","id":"im/vi18vuxo","slide":1,"name":"","alt":"Official CBIT institutional letterhead extracted from the project-summary document","bbox":[0,0,1280,237]}
+{"kind":"notes","id":"nt/fwetn8","slide":1,"text":"[Sources]\n- /Users/sreekaraditya/Downloads/Project_Summary_ABR120.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/r3jsio","slide":2,"title":"DEPARTMENT OF CIVIL ENGINEERING","textShapes":31}
+{"kind":"textbox","id":"sh/21wfapon","slide":2,"text":"DEPARTMENT OF CIVIL ENGINEERING","textPreview":"DEPARTMENT OF CIVIL ENGINEERING","textChars":31,"textLines":1,"bbox":[64,34,500,22]}
+{"kind":"textbox","id":"sh/p4nelkne","slide":2,"text":"Contents","textPreview":"Contents","textChars":8,"textLines":1,"bbox":[64,72,520,58]}
+{"kind":"shape","id":"sh/o3excf6t","slide":2,"bbox":[64,140,1152,2]}
+{"kind":"shape","id":"sh/b6pwnu54","slide":2,"bbox":[640,180,1,440]}
+{"kind":"textbox","id":"sh/a5wfepoz","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,180,48,34]}
+{"kind":"textbox","id":"sh/x87ep4na","slide":2,"text":"Introduction — The Two-Axis Problem","textPreview":"Introduction — The Two-Axis Problem","textChars":35,"textLines":1,"bbox":[138,180,486,38]}
+{"kind":"shape","id":"sh/c7yxgz6p","slide":2,"bbox":[138,227,472,1]}
+{"kind":"textbox","id":"sh/ralwbq50","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,244,48,34]}
+{"kind":"textbox","id":"sh/q9cv25of","slide":2,"text":"Literature Review — SHM and Digital Twins","textPreview":"Literature Review — SHM and Digital Twins","textChars":41,"textLines":1,"bbox":[138,244,486,38]}
+{"kind":"shape","id":"sh/kjax0byd","slide":2,"bbox":[138,291,472,1]}
+{"kind":"textbox","id":"sh/lkjy9gzy","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,308,48,34]}
+{"kind":"textbox","id":"sh/yxsfy1gn","slide":2,"text":"Literature Review — Decision and Transport","textPreview":"Literature Review — Decision and Transport","textChars":42,"textLines":1,"bbox":[138,308,486,38]}
+{"kind":"shape","id":"sh/zi1w76h8","slide":2,"bbox":[138,355,472,1]}
+{"kind":"textbox","id":"sh/8nax4byp","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,372,48,34]}
+{"kind":"textbox","id":"sh/9ojydgfa","slide":2,"text":"Research Gap","textPreview":"Research Gap","textChars":12,"textLines":1,"bbox":[138,372,486,38]}
+{"kind":"shape","id":"sh/mlsf21gj","slide":2,"bbox":[138,419,472,1]}
+{"kind":"textbox","id":"sh/7m1gb6x4","slide":2,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[82,436,48,34]}
+{"kind":"textbox","id":"sh/orqxsryl","slide":2,"text":"Aim & Objectives","textPreview":"Aim & Objectives","textChars":16,"textLines":1,"bbox":[138,436,486,38]}
+{"kind":"shape","id":"sh/psze1wzq","slide":2,"bbox":[138,483,472,1]}
+{"kind":"textbox","id":"sh/5oru58ru","slide":2,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[82,500,48,34]}
+{"kind":"textbox","id":"sh/4nidw3q9","slide":2,"text":"Architecture — The Chain","textPreview":"Architecture — The Chain","textChars":24,"textLines":1,"bbox":[138,500,486,38]}
+{"kind":"shape","id":"sh/3m9c3y9o","slide":2,"bbox":[138,547,472,1]}
+{"kind":"textbox","id":"sh/ilgvud83","slide":2,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[82,564,48,34]}
+{"kind":"textbox","id":"sh/dcre9srq","slide":2,"text":"Two-Tier State","textPreview":"Two-Tier State","textChars":14,"textLines":1,"bbox":[138,564,486,38]}
+{"kind":"shape","id":"sh/srid0nq5","slide":2,"bbox":[138,611,472,1]}
+{"kind":"textbox","id":"sh/rq9c7i9k","slide":2,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[678,180,48,34]}
+{"kind":"textbox","id":"sh/qp0vyd8f","slide":2,"text":"Decision Layer","textPreview":"Decision Layer","textChars":14,"textLines":1,"bbox":[734,180,486,38]}
+{"kind":"shape","id":"sh/1gbedsr2","slide":2,"bbox":[734,227,472,1]}
+{"kind":"textbox","id":"sh/0f2d4nqh","slide":2,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[678,244,48,34]}
+{"kind":"textbox","id":"sh/y1crypoz","slide":2,"text":"Experimental Campaign","textPreview":"Experimental Campaign","textChars":21,"textLines":1,"bbox":[734,244,486,38]}
+{"kind":"shape","id":"sh/jmls7upk","slide":2,"bbox":[734,291,472,1]}
+{"kind":"textbox","id":"sh/kne90z6p","slide":2,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[678,308,48,34]}
+{"kind":"textbox","id":"sh/lona947a","slide":2,"text":"Summary of What Was Learnt","textPreview":"Summary of What Was Learnt","textChars":26,"textLines":1,"bbox":[734,308,486,38]}
+{"kind":"shape","id":"sh/6pwb29ov","slide":2,"bbox":[734,355,472,1]}
+{"kind":"textbox","id":"sh/7q5sbepg","slide":2,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[678,372,48,34]}
+{"kind":"textbox","id":"sh/8ret4z61","slide":2,"text":"Work Done","textPreview":"Work Done","textChars":9,"textLines":1,"bbox":[734,372,486,38]}
+{"kind":"shape","id":"sh/tsnad47m","slide":2,"bbox":[734,419,472,1]}
+{"kind":"textbox","id":"sh/utwb69o7","slide":2,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[678,436,48,34]}
+{"kind":"textbox","id":"sh/vupsfepc","slide":2,"text":"Work to Be Done","textPreview":"Work to Be Done","textChars":15,"textLines":1,"bbox":[734,436,486,38]}
+{"kind":"shape","id":"sh/3y103adk","slide":2,"bbox":[734,483,472,1]}
+{"kind":"textbox","id":"sh/ixsju5cz","slide":2,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[678,500,48,34]}
+{"kind":"textbox","id":"sh/50ji5kva","slide":2,"text":"Roadmap & Timeline","textPreview":"Roadmap & Timeline","textChars":18,"textLines":1,"bbox":[734,500,486,38]}
+{"kind":"shape","id":"sh/4za1wfu5","slide":2,"bbox":[734,547,472,1]}
+{"kind":"textbox","id":"sh/r2107udg","slide":2,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[678,564,48,34]}
+{"kind":"textbox","id":"sh/q1sjypcv","slide":2,"text":"References","textPreview":"References","textChars":10,"textLines":1,"bbox":[734,564,486,38]}
+{"kind":"shape","id":"sh/d43294vm","slide":2,"bbox":[734,611,472,1]}
+{"kind":"textbox","id":"sh/s3u10zu1","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1168,674,48,18]}
+{"kind":"notes","id":"nt/r3jsio","slide":2,"text":"[Sources]\n- User-provided slide structure and the current presentation sequence\n[/Sources]"}
+{"kind":"slide","id":"sl/7eimh9","slide":3,"title":"STRUCIQ · REVIEW 1","textShapes":16}
+{"kind":"textbox","id":"sh/hoz69wfu","slide":3,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/ulone1g3","slide":3,"text":"Introduction · one structure, two deterioration axes","textPreview":"Introduction · one structure, two deterioration axes","textChars":52,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/fmxo76xo","slide":3,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/4bqpkbyl","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/pcz6dgf6","slide":3,"bbox":[44,138,214,30]}
+{"kind":"textbox","id":"sh/2987i1gf","slide":3,"text":"THE ENGINEERING PROBLEM","textPreview":"THE ENGINEERING PROBLEM","textChars":23,"textLines":1,"bbox":[52,143,198,20]}
+{"kind":"shape","id":"sh/3ahob6x0","slide":3,"bbox":[44,190,500,330]}
+{"kind":"shape","id":"sh/kfm587y1","slide":3,"bbox":[692,190,500,330]}
+{"kind":"shape","id":"sh/5gf61cfm","slide":3,"bbox":[76,222,54,54]}
+{"kind":"textbox","id":"sh/xgny10fe","slide":3,"text":"α","textPreview":"α","textChars":1,"textLines":1,"bbox":[76,232,54,32]}
+{"kind":"textbox","id":"sh/cfex8vet","slide":3,"text":"Mechanical state","textPreview":"Mechanical state","textChars":16,"textLines":1,"bbox":[150,220,330,38]}
+{"kind":"textbox","id":"sh/belgzqx8","slide":3,"text":"Stiffness and capacity loss","textPreview":"Stiffness and capacity loss","textChars":27,"textLines":1,"bbox":[76,296,404,32]}
+{"kind":"textbox","id":"sh/atcf6lwn","slide":3,"text":"Measured through vibration response, modal parameters and member-level stiffness ratios with uncertainty.","textPreview":"Measured through vibration response, modal parameters and member-level stiffness ratios with uncertainty.","textChars":105,"textLines":1,"bbox":[76,342,420,96]}
+{"kind":"shape","id":"sh/lkny50va","slide":3,"bbox":[76,454,208,30]}
+{"kind":"textbox","id":"sh/kjehcfep","slide":3,"text":"Capacity intervention","textPreview":"Capacity intervention","textChars":21,"textLines":1,"bbox":[84,459,192,20]}
+{"kind":"shape","id":"sh/zi5g3axk","slide":3,"bbox":[724,222,54,54]}
+{"kind":"textbox","id":"sh/yhwza5wz","slide":3,"text":"S","textPreview":"S","textChars":1,"textLines":1,"bbox":[724,232,54,32]}
+{"kind":"textbox","id":"sh/9o7y9kvm","slide":3,"text":"Cover condition","textPreview":"Cover condition","textChars":15,"textLines":1,"bbox":[798,220,330,38]}
+{"kind":"textbox","id":"sh/8nyhgfe1","slide":3,"text":"Water permeability / sorptivity","textPreview":"Water permeability / sorptivity","textChars":31,"textLines":1,"bbox":[724,296,424,32]}
+{"kind":"textbox","id":"sh/s369snq9","slide":3,"text":"Measured through crack geometry and ASTM C1585 water absorption on laboratory specimens.","textPreview":"Measured through crack geometry and ASTM C1585 water absorption on laboratory specimens.","textChars":88,"textLines":1,"bbox":[724,342,420,96]}
+{"kind":"shape","id":"sh/d4za1s7u","slide":3,"bbox":[724,454,218,30]}
+{"kind":"textbox","id":"sh/q1orqd8j","slide":3,"text":"Durability intervention","textPreview":"Durability intervention","textChars":23,"textLines":1,"bbox":[732,459,202,20]}
+{"kind":"shape","id":"sh/r2xszipo","slide":3,"bbox":[575,310,86,86]}
+{"kind":"textbox","id":"sh/07q9wnql","slide":3,"text":"≠","textPreview":"≠","textChars":1,"textLines":1,"bbox":[575,322,86,54]}
+{"kind":"shape","id":"sh/1sza5s76","slide":3,"bbox":[168,556,900,72]}
+{"kind":"textbox","id":"sh/e58rux8f","slide":3,"text":"A stiffness-only diagnosis can choose the wrong repair. The twin must distinguish strengthening from cover repair—and sequence both when required.","textPreview":"A stiffness-only diagnosis can choose the wrong repair. The twin must distinguish strengthening from cover repair—and sequence both when ...","textChars":146,"textLines":1,"bbox":[190,574,856,40]}
+{"kind":"notes","id":"nt/7eimh9","slide":3,"text":"Use the three-case intervention logic: poor mechanical/fine cover; fine mechanical/poor cover; both poor.\n[Sources]\n- /Users/sreekaraditya/Downloads/Project_Summary_ABR120.docx\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Sections 2 and 4\n[/Sources]"}
+{"kind":"slide","id":"sl/zdmjfo","slide":4,"title":"STRUCIQ · REVIEW 1","textShapes":35}
+{"kind":"textbox","id":"sh/wv6pwbi9","slide":4,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/vud8n6h4","slide":4,"text":"Literature review · SHM and digital twins","textPreview":"Literature review · SHM and digital twins","textChars":41,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/at47u10j","slide":4,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/50fqt0z6","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"textbox","id":"sh/kz690vil","slide":4,"text":"The first link is not merely damage detection—it is damage detection that remains usable under environment, noise and model cost.","textPreview":"The first link is not merely damage detection—it is damage detection that remains usable under environment, noise and model cost.","textChars":129,"textLines":1,"bbox":[44,130,1160,28]}
+{"kind":"shape","id":"sh/jyx8rqh0","slide":4,"bbox":[44,175,265,46]}
+{"kind":"textbox","id":"sh/ixo7yl0f","slide":4,"text":"Title","textPreview":"Title","textChars":5,"textLines":1,"bbox":[52,183,249,30]}
+{"kind":"shape","id":"sh/l4vqhwjm","slide":4,"bbox":[309,175,112,46]}
+{"kind":"textbox","id":"sh/032porih","slide":4,"text":"Author","textPreview":"Author","textChars":6,"textLines":1,"bbox":[317,183,96,30]}
+{"kind":"shape","id":"sh/ex8je5on","slide":4,"bbox":[421,175,72,46]}
+{"kind":"textbox","id":"sh/fyh0nap8","slide":4,"text":"Year","textPreview":"Year","textChars":4,"textLines":1,"bbox":[429,183,56,30]}
+{"kind":"shape","id":"sh/0za1gf6t","slide":4,"bbox":[493,175,165,46]}
+{"kind":"textbox","id":"sh/10jipk7e","slide":4,"text":"Journal · publisher","textPreview":"Journal · publisher","textChars":19,"textLines":1,"bbox":[501,183,149,30]}
+{"kind":"shape","id":"sh/21sjipoz","slide":4,"bbox":[658,175,285,46]}
+{"kind":"textbox","id":"sh/n210rupk","slide":4,"text":"Methodology · inputs → outputs","textPreview":"Methodology · inputs → outputs","textChars":30,"textLines":1,"bbox":[666,183,269,30]}
+{"kind":"shape","id":"sh/o3a1kz6p","slide":4,"bbox":[943,175,293,46]}
+{"kind":"textbox","id":"sh/p4jit47a","slide":4,"text":"Key finding","textPreview":"Key finding","textChars":11,"textLines":1,"bbox":[951,183,277,30]}
+{"kind":"shape","id":"sh/a5sjmpov","slide":4,"bbox":[44,221,265,105]}
+{"kind":"textbox","id":"sh/b610vupg","slide":4,"text":"Damage detection under environmental and operational variability using cointegration","textPreview":"Damage detection under environmental and operational variability using cointegration","textChars":84,"textLines":1,"bbox":[52,229,249,91]}
+{"kind":"shape","id":"sh/7al03ulo","slide":4,"bbox":[309,221,112,105]}
+{"kind":"textbox","id":"sh/m9cza943","slide":4,"text":"Pirrò et al.","textPreview":"Pirrò et al.","textChars":12,"textLines":1,"bbox":[317,229,96,91]}
+{"kind":"shape","id":"sh/9w3i543u","slide":4,"bbox":[421,221,72,105]}
+{"kind":"textbox","id":"sh/8vuhczm9","slide":4,"text":"2025","textPreview":"2025","textChars":4,"textLines":1,"bbox":[429,229,56,91]}
+{"kind":"shape","id":"sh/z610zulc","slide":4,"bbox":[493,221,165,105]}
+{"kind":"textbox","id":"sh/y5sz6p47","slide":4,"text":"Engineering Structures\nElsevier","textPreview":"Engineering Structures | Elsevier","textChars":31,"textLines":2,"bbox":[501,229,149,91]}
+{"kind":"shape","id":"sh/l83i143i","slide":4,"bbox":[658,221,285,105]}
+{"kind":"textbox","id":"sh/k7uh8zmx","slide":4,"text":"31,326 vibration datasets + temperature/water level + FE damage → EOV-normalised novelty indicators","textPreview":"31,326 vibration datasets + temperature/water level + FE damage → EOV-normalised novelty indicators","textChars":99,"textLines":1,"bbox":[666,229,269,91]}
+{"kind":"shape","id":"sh/b21gvalg","slide":4,"bbox":[943,221,293,105]}
+{"kind":"textbox","id":"sh/a1sz2p4v","slide":4,"text":"Cointegration separated environmental variation using about 6 months of training; PCA required about 12 months.","textPreview":"Cointegration separated environmental variation using about 6 months of training; PCA required about 12 months.","textChars":111,"textLines":1,"bbox":[951,229,277,91]}
+{"kind":"shape","id":"sh/07qxcb2t","slide":4,"bbox":[44,326,265,105]}
+{"kind":"textbox","id":"sh/18ze5gje","slide":4,"text":"Autoencoders for unsupervised real-time bridge health assessment","textPreview":"Autoencoders for unsupervised real-time bridge health assessment","textChars":64,"textLines":1,"bbox":[52,334,249,91]}
+{"kind":"shape","id":"sh/e5ofalkn","slide":4,"bbox":[309,326,112,105]}
+{"kind":"textbox","id":"sh/f6xw3q18","slide":4,"text":"Giglioni et al.","textPreview":"Giglioni et al.","textChars":15,"textLines":1,"bbox":[317,334,96,91]}
+{"kind":"shape","id":"sh/obqxgv2p","slide":4,"bbox":[421,326,72,105]}
+{"kind":"textbox","id":"sh/pcze90ja","slide":4,"text":"2023","textPreview":"2023","textChars":4,"textLines":1,"bbox":[429,334,56,91]}
+{"kind":"shape","id":"sh/298felkz","slide":4,"bbox":[493,326,165,105]}
+{"kind":"textbox","id":"sh/nahw7q14","slide":4,"text":"Computer-Aided Civil and Infrastructure Engineering\nWiley","textPreview":"Computer-Aided Civil and Infrastructure Engineering | Wiley","textChars":57,"textLines":2,"bbox":[501,334,149,91]}
+{"kind":"shape","id":"sh/4fmd4r2l","slide":4,"bbox":[658,326,285,105]}
+{"kind":"textbox","id":"sh/5gfexw36","slide":4,"text":"Healthy raw acceleration sequences → autoencoder reconstruction-loss damage indicators","textPreview":"Healthy raw acceleration sequences → autoencoder reconstruction-loss damage indicators","textChars":86,"textLines":1,"bbox":[666,334,269,91]}
+{"kind":"shape","id":"sh/xcr6dwja","slide":4,"bbox":[943,326,293,105]}
+{"kind":"textbox","id":"sh/wbyp4r2p","slide":4,"text":"Reported up to 96% accuracy and AUC 0.99; 10 s sequences processed in under 1 s.","textPreview":"Reported up to 96% accuracy and AUC 0.99; 10 s sequences processed in under 1 s.","textChars":80,"textLines":1,"bbox":[951,334,277,91]}
+{"kind":"shape","id":"sh/bapobm1k","slide":4,"bbox":[44,431,265,105]}
+{"kind":"textbox","id":"sh/a9gn21kz","slide":4,"text":"SHM under varying environmental conditions: model order reduction and deep learning","textPreview":"SHM under varying environmental conditions: model order reduction and deep learning","textChars":83,"textLines":1,"bbox":[52,439,249,91]}
+{"kind":"shape","id":"sh/98769wje","slide":4,"bbox":[309,431,112,105]}
+{"kind":"textbox","id":"sh/o7y50r2t","slide":4,"text":"Torzoni et al.","textPreview":"Torzoni et al.","textChars":14,"textLines":1,"bbox":[317,439,96,91]}
+{"kind":"shape","id":"sh/n6po7ml8","slide":4,"bbox":[421,431,72,105]}
+{"kind":"textbox","id":"sh/m5gnyhkn","slide":4,"text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[429,439,56,91]}
+{"kind":"shape","id":"sh/14765c32","slide":4,"bbox":[493,431,165,105]}
+{"kind":"textbox","id":"sh/03e5w72h","slide":4,"text":"Computers & Structures\nElsevier","textPreview":"Computers & Structures | Elsevier","textChars":31,"textLines":2,"bbox":[501,439,149,91]}
+{"kind":"shape","id":"sh/q9c36d0f","slide":4,"bbox":[658,431,285,105]}
+{"kind":"textbox","id":"sh/ral4fih0","slide":4,"text":"Simulated vibration + temperature/load + stiffness loss → damage class/location","textPreview":"Simulated vibration + temperature/load + stiffness loss → damage class/location","textChars":79,"textLines":1,"bbox":[666,439,269,91]}
+{"kind":"shape","id":"sh/sbul8nil","slide":4,"bbox":[943,431,293,105]}
+{"kind":"textbox","id":"sh/dc3mhsz6","slide":4,"text":"Physics-generated training data separated temperature effects from damage and located small stiffness reductions.","textPreview":"Physics-generated training data separated temperature effects from damage and located small stiffness reductions.","textChars":113,"textLines":1,"bbox":[951,439,277,91]}
+{"kind":"shape","id":"sh/ilc32d0j","slide":4,"bbox":[44,536,265,105]}
+{"kind":"textbox","id":"sh/3mlkbi14","slide":4,"text":"Multi-fidelity surrogate model for SHM using model reduction and neural networks","textPreview":"Multi-fidelity surrogate model for SHM using model reduction and neural networks","textChars":80,"textLines":1,"bbox":[52,544,249,91]}
+{"kind":"shape","id":"sh/47ul43i9","slide":4,"bbox":[309,536,112,105]}
+{"kind":"textbox","id":"sh/583md8ju","slide":4,"text":"Torzoni et al.","textPreview":"Torzoni et al.","textChars":14,"textLines":1,"bbox":[317,544,96,91]}
+{"kind":"shape","id":"sh/uhs3yt07","slide":4,"bbox":[421,536,72,105]}
+{"kind":"textbox","id":"sh/vi1k7y1s","slide":4,"text":"2023","textPreview":"2023","textChars":4,"textLines":1,"bbox":[429,544,56,91]}
+{"kind":"shape","id":"sh/jmh0zuhk","slide":4,"bbox":[493,536,165,105]}
+{"kind":"textbox","id":"sh/yloj6pgz","slide":4,"text":"Mechanical Systems and Signal Processing\nElsevier","textPreview":"Mechanical Systems and Signal Processing | Elsevier","textChars":49,"textLines":2,"bbox":[501,544,149,91]}
+{"kind":"shape","id":"sh/lozi14zq","slide":4,"bbox":[658,536,285,105]}
+{"kind":"textbox","id":"sh/knq18zy5","slide":4,"text":"High-fidelity FE + low-fidelity ROM + operational noise → sensor histories and Bayesian state","textPreview":"High-fidelity FE + low-fidelity ROM + operational noise → sensor histories and Bayesian state","textChars":93,"textLines":1,"bbox":[666,544,269,91]}
+{"kind":"shape","id":"sh/7qh03ehw","slide":4,"bbox":[943,536,293,105]}
+{"kind":"textbox","id":"sh/6p8ja9gb","slide":4,"text":"Multi-fidelity learning improved surrogate accuracy while reducing the cost of Bayesian updating.","textPreview":"Multi-fidelity learning improved surrogate accuracy while reducing the cost of Bayesian updating.","textChars":97,"textLines":1,"bbox":[951,544,277,91]}
+{"kind":"textbox","id":"sh/tszi54fm","slide":4,"text":"Eight recent journal articles selected for direct relevance to the project chain; chloride transport is intentionally excluded.","textPreview":"Eight recent journal articles selected for direct relevance to the project chain; chloride transport is intentionally excluded.","textChars":127,"textLines":1,"bbox":[44,654,1102,24]}
+{"kind":"notes","id":"nt/zdmjfo","slide":4,"text":"[Sources]\n- https://doi.org/10.1016/j.engstruct.2025.119700\n- https://doi.org/10.1111/mice.12943\n- https://doi.org/10.1016/j.compstruc.2022.106790\n- https://doi.org/10.1016/j.ymssp.2023.110376\n[/Sources]"}
+{"kind":"slide","id":"sl/n07prf","slide":5,"title":"STRUCIQ · REVIEW 1","textShapes":35}
+{"kind":"textbox","id":"sh/tgvadonu","slide":5,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/6d4r2t43","slide":5,"text":"Literature review · decision and transport","textPreview":"Literature review · decision and transport","textChars":42,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/7edsbe5o","slide":5,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/gj6t83m5","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"textbox","id":"sh/hkfah83q","slide":5,"text":"The second link asks whether state estimates change maintenance decisions—and anchors the durability axis in water transport, not chloride ingress.","textPreview":"The second link asks whether state estimates change maintenance decisions—and anchors the durability axis in water transport, not chlorid...","textChars":147,"textLines":1,"bbox":[44,130,1160,28]}
+{"kind":"shape","id":"sh/uh4r6t4f","slide":5,"bbox":[44,175,265,46]}
+{"kind":"textbox","id":"sh/fidsfylk","slide":5,"text":"Title","textPreview":"Title","textChars":5,"textLines":1,"bbox":[52,183,249,30]}
+{"kind":"shape","id":"sh/4n6tc3mh","slide":5,"bbox":[309,175,112,46]}
+{"kind":"textbox","id":"sh/p8fal832","slide":5,"text":"Author","textPreview":"Author","textChars":6,"textLines":1,"bbox":[317,183,96,30]}
+{"kind":"shape","id":"sh/1c32hsri","slide":5,"bbox":[421,175,72,46]}
+{"kind":"textbox","id":"sh/gbu1onqx","slide":5,"text":"Year","textPreview":"Year","textChars":4,"textLines":1,"bbox":[429,183,56,30]}
+{"kind":"shape","id":"sh/fql0fi9c","slide":5,"bbox":[493,175,165,46]}
+{"kind":"textbox","id":"sh/epcjmd87","slide":5,"text":"Journal · publisher","textPreview":"Journal · publisher","textChars":19,"textLines":1,"bbox":[501,183,149,30]}
+{"kind":"shape","id":"sh/pgn2lsru","slide":5,"bbox":[658,175,285,46]}
+{"kind":"textbox","id":"sh/ofu1snq9","slide":5,"text":"Methodology · inputs → outputs","textPreview":"Methodology · inputs → outputs","textChars":30,"textLines":1,"bbox":[666,183,269,30]}
+{"kind":"shape","id":"sh/3elkji9o","slide":5,"bbox":[943,175,293,46]}
+{"kind":"textbox","id":"sh/2dcjqd83","slide":5,"text":"Key finding","textPreview":"Key finding","textChars":11,"textLines":1,"bbox":[951,183,277,30]}
+{"kind":"shape","id":"sh/5kji9ora","slide":5,"bbox":[44,221,265,105]}
+{"kind":"textbox","id":"sh/kja1g3qp","slide":5,"text":"Structural health monitoring of civil structures powered by deep metric learning","textPreview":"Structural health monitoring of civil structures powered by deep metric learning","textChars":80,"textLines":1,"bbox":[52,229,249,91]}
+{"kind":"shape","id":"sh/wfytcn2x","slide":5,"bbox":[309,221,112,105]}
+{"kind":"textbox","id":"sh/hg7als3i","slide":5,"text":"Torzoni, Manzoni & Mariani","textPreview":"Torzoni, Manzoni & Mariani","textChars":26,"textLines":1,"bbox":[317,229,96,91]}
+{"kind":"shape","id":"sh/adwbaxkr","slide":5,"bbox":[421,221,72,105]}
+{"kind":"textbox","id":"sh/ve5sjilc","slide":5,"text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[429,229,56,91]}
+{"kind":"shape","id":"sh/43ytg729","slide":5,"bbox":[493,221,165,105]}
+{"kind":"textbox","id":"sh/547apc3e","slide":5,"text":"Computers & Structures\nElsevier","textPreview":"Computers & Structures | Elsevier","textChars":31,"textLines":2,"bbox":[501,229,149,91]}
+{"kind":"shape","id":"sh/ihgbexk3","slide":5,"bbox":[658,221,285,105]}
+{"kind":"textbox","id":"sh/j2psn2lo","slide":5,"text":"Physics-generated vibration under varied damage positions → low-dimensional metric features","textPreview":"Physics-generated vibration under varied damage positions → low-dimensional metric features","textChars":91,"textLines":1,"bbox":[666,229,269,91]}
+{"kind":"shape","id":"sh/s7itk725","slide":5,"bbox":[943,221,293,105]}
+{"kind":"textbox","id":"sh/t8ratc3q","slide":5,"text":"Damage localisation remained robust to operational variation, measurement noise and model inaccuracies.","textPreview":"Damage localisation remained robust to operational variation, measurement noise and model inaccuracies.","textChars":103,"textLines":1,"bbox":[951,229,277,91]}
+{"kind":"shape","id":"sh/32twj65s","slide":5,"bbox":[44,326,265,105]}
+{"kind":"textbox","id":"sh/21kval47","slide":5,"text":"Value of information from vibration-based SHM via Bayesian model updating","textPreview":"Value of information from vibration-based SHM via Bayesian model updating","textChars":73,"textLines":1,"bbox":[52,334,249,91]}
+{"kind":"shape","id":"sh/p4belgny","slide":5,"bbox":[309,326,112,105]}
+{"kind":"textbox","id":"sh/o32dcbmd","slide":5,"text":"Kamariotis, Chatzi & Straub","textPreview":"Kamariotis, Chatzi & Straub","textChars":27,"textLines":1,"bbox":[317,334,96,91]}
+{"kind":"shape","id":"sh/fytcf65w","slide":5,"bbox":[421,326,72,105]}
+{"kind":"textbox","id":"sh/ex0v614b","slide":5,"text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[429,334,56,91]}
+{"kind":"shape","id":"sh/10behgnm","slide":5,"bbox":[493,326,165,105]}
+{"kind":"textbox","id":"sh/gz2d8bmh","slide":5,"text":"Mechanical Systems and Signal Processing\nElsevier","textPreview":"Mechanical Systems and Signal Processing | Elsevier","textChars":49,"textLines":2,"bbox":[501,334,149,91]}
+{"kind":"shape","id":"sh/zudwrq50","slide":5,"bbox":[658,326,285,105]}
+{"kind":"textbox","id":"sh/yt4vi54f","slide":5,"text":"Accelerations + OMA modal data + deterioration/cost models → reliability, lifecycle cost and VoI","textPreview":"Accelerations + OMA modal data + deterioration/cost models → reliability, lifecycle cost and VoI","textChars":96,"textLines":1,"bbox":[666,334,269,91]}
+{"kind":"shape","id":"sh/mhkz6p0z","slide":5,"bbox":[943,326,293,105]}
+{"kind":"textbox","id":"sh/7itgfu14","slide":5,"text":"Shows how monitoring information can be valued by the maintenance decisions it changes.","textPreview":"Shows how monitoring information can be valued by the maintenance decisions it changes.","textChars":87,"textLines":1,"bbox":[951,334,277,91]}
+{"kind":"shape","id":"sh/8j2h8zip","slide":5,"bbox":[44,431,265,105]}
+{"kind":"textbox","id":"sh/94vih4ja","slide":5,"text":"Bridging POMDPs and Bayesian decision making for robust maintenance planning","textPreview":"Bridging POMDPs and Bayesian decision making for robust maintenance planning","textChars":76,"textLines":1,"bbox":[52,439,249,91]}
+{"kind":"shape","id":"sh/ydkz2p0n","slide":5,"bbox":[309,431,112,105]}
+{"kind":"textbox","id":"sh/zetgba18","slide":5,"text":"Arcieri et al.","textPreview":"Arcieri et al.","textChars":14,"textLines":1,"bbox":[317,439,96,91]}
+{"kind":"shape","id":"sh/kf2h4fit","slide":5,"bbox":[421,431,72,105]}
+{"kind":"textbox","id":"sh/lgbydkje","slide":5,"text":"2023","textPreview":"2023","textChars":4,"textLines":1,"bbox":[429,439,56,91]}
+{"kind":"shape","id":"sh/i94ze90r","slide":5,"bbox":[493,431,165,105]}
+{"kind":"textbox","id":"sh/jad0ne1c","slide":5,"text":"Reliability Engineering & System Safety\nElsevier","textPreview":"Reliability Engineering & System Safety | Elsevier","textChars":48,"textLines":2,"bbox":[501,439,149,91]}
+{"kind":"shape","id":"sh/d4z2d83u","slide":5,"bbox":[658,431,285,105]}
+{"kind":"textbox","id":"sh/s3q1k329","slide":5,"text":"Railway indicators + model uncertainty + actions → robust maintenance policy","textPreview":"Railway indicators + model uncertainty + actions → robust maintenance policy","textChars":76,"textLines":1,"bbox":[666,439,269,91]}
+{"kind":"shape","id":"sh/r2xkbylo","slide":5,"bbox":[943,431,293,105]}
+{"kind":"textbox","id":"sh/q1ojidk3","slide":5,"text":"Explicit model uncertainty prevents overconfident maintenance policies and supports sequential decisions.","textPreview":"Explicit model uncertainty prevents overconfident maintenance policies and supports sequential decisions.","textChars":105,"textLines":1,"bbox":[951,439,277,91]}
+{"kind":"shape","id":"sh/50f2983i","slide":5,"bbox":[44,536,265,105]}
+{"kind":"textbox","id":"sh/4z61g32x","slide":5,"text":"Water transport through cracked concrete structures","textPreview":"Water transport through cracked concrete structures","textChars":51,"textLines":1,"bbox":[52,544,249,91]}
+{"kind":"shape","id":"sh/jyxk7ylc","slide":5,"bbox":[309,536,112,105]}
+{"kind":"textbox","id":"sh/idojetk7","slide":5,"text":"Mengel, Krauss & Lowke","textPreview":"Mengel, Krauss & Lowke","textChars":22,"textLines":1,"bbox":[317,544,96,91]}
+{"kind":"shape","id":"sh/pwj2ls3m","slide":5,"bbox":[421,536,72,105]}
+{"kind":"textbox","id":"sh/ovalsn2h","slide":5,"text":"2022","textPreview":"2022","textChars":4,"textLines":1,"bbox":[429,544,56,91]}
+{"kind":"shape","id":"sh/8rid4vep","slide":5,"bbox":[493,536,165,105]}
+{"kind":"textbox","id":"sh/9cbed0fa","slide":5,"text":"Materials\nMDPI","textPreview":"Materials | MDPI","textChars":14,"textLines":2,"bbox":[501,544,149,91]}
+{"kind":"shape","id":"sh/mp0v2lwj","slide":5,"bbox":[658,536,285,105]}
+{"kind":"textbox","id":"sh/7q9wbqx4","slide":5,"text":"Mixture proportion + µCT crack geometry → tortuosity, internal width and water flow","textPreview":"Mixture proportion + µCT crack geometry → tortuosity, internal width and water flow","textChars":83,"textLines":1,"bbox":[666,544,269,91]}
+{"kind":"shape","id":"sh/knid0vet","slide":5,"bbox":[943,536,293,105]}
+{"kind":"textbox","id":"sh/loru9gfy","slide":5,"text":"Mixture-controlled crack geometry changes water transport; larger aggregate increased tortuosity and reduced flow.","textPreview":"Mixture-controlled crack geometry changes water transport; larger aggregate increased tortuosity and reduced flow.","textChars":114,"textLines":1,"bbox":[951,544,277,91]}
+{"kind":"textbox","id":"sh/yl0vylwn","slide":5,"text":"Eight recent journal articles selected for direct relevance to the project chain; chloride transport is intentionally excluded.","textPreview":"Eight recent journal articles selected for direct relevance to the project chain; chloride transport is intentionally excluded.","textChars":127,"textLines":1,"bbox":[44,654,1102,24]}
+{"kind":"notes","id":"nt/n07prf","slide":5,"text":"[Sources]\n- https://doi.org/10.1016/j.compstruc.2022.106858\n- https://doi.org/10.1016/j.ymssp.2021.108465\n- https://doi.org/10.1016/j.ress.2023.109496\n- https://doi.org/10.3390/ma15175807\n[/Sources]"}
+{"kind":"slide","id":"sl/frnmd9","slide":6,"title":"STRUCIQ · REVIEW 1","textShapes":20}
+{"kind":"textbox","id":"sh/sjm10nmp","slide":6,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/7id0ril4","slide":6,"text":"Research gap · the chain exists in pieces, not as one decision system","textPreview":"Research gap · the chain exists in pieces, not as one decision system","textChars":69,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/6h4jyd4j","slide":6,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/hofixs36","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/gn614nm1","slide":6,"bbox":[44,172,270,260]}
+{"kind":"shape","id":"sh/fmx0v2lg","slide":6,"bbox":[62,190,52,30]}
+{"kind":"textbox","id":"sh/uloj2x4v","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[70,195,36,20]}
+{"kind":"textbox","id":"sh/pczi1c3i","slide":6,"text":"SHM","textPreview":"SHM","textChars":3,"textLines":1,"bbox":[62,240,228,40]}
+{"kind":"textbox","id":"sh/4b6187mx","slide":6,"text":"Detects change, but often stops at a damage indicator.","textPreview":"Detects change, but often stops at a damage indicator.","textChars":54,"textLines":1,"bbox":[62,300,228,102]}
+{"kind":"textbox","id":"sh/m1c7qdkr","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[312,276,30,40]}
+{"kind":"shape","id":"sh/72l8zi1c","slide":6,"bbox":[342,172,270,260]}
+{"kind":"shape","id":"sh/83e9snih","slide":6,"bbox":[360,190,52,30]}
+{"kind":"textbox","id":"sh/9onq1sj2","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[368,195,36,20]}
+{"kind":"textbox","id":"sh/upwrud0n","slide":6,"text":"Digital twin","textPreview":"Digital twin","textChars":12,"textLines":1,"bbox":[360,240,228,40]}
+{"kind":"textbox","id":"sh/vq583i18","slide":6,"text":"Updates a model, but may not carry full posterior covariance.","textPreview":"Updates a model, but may not carry full posterior covariance.","textChars":61,"textLines":1,"bbox":[360,300,228,102]}
+{"kind":"textbox","id":"sh/wre9wnit","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[610,276,30,40]}
+{"kind":"shape","id":"sh/hsnq5sje","slide":6,"bbox":[640,172,270,260]}
+{"kind":"shape","id":"sh/qts7itkj","slide":6,"bbox":[658,190,52,30]}
+{"kind":"textbox","id":"sh/bu18ry14","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[666,195,36,20]}
+{"kind":"textbox","id":"sh/fyh4zuhw","slide":6,"text":"Durability","textPreview":"Durability","textChars":10,"textLines":1,"bbox":[658,240,228,40]}
+{"kind":"textbox","id":"sh/ed8nqp0b","slide":6,"text":"Crack–water studies rarely connect to vibration-inferred member states.","textPreview":"Crack–water studies rarely connect to vibration-inferred member states.","textChars":71,"textLines":1,"bbox":[658,300,228,102]}
+{"kind":"textbox","id":"sh/10z614zm","slide":6,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[908,276,30,40]}
+{"kind":"shape","id":"sh/gzq5szih","slide":6,"bbox":[938,172,270,260]}
+{"kind":"shape","id":"sh/rax4vahk","slide":6,"bbox":[956,190,52,30]}
+{"kind":"textbox","id":"sh/69onm50z","slide":6,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[964,195,36,20]}
+{"kind":"textbox","id":"sh/tcfmxkzq","slide":6,"text":"Maintenance","textPreview":"Maintenance","textChars":11,"textLines":1,"bbox":[956,240,228,40]}
+{"kind":"textbox","id":"sh/sb65ofi5","slide":6,"text":"Optimises actions, but is usually detached from experimentally earned structural states.","textPreview":"Optimises actions, but is usually detached from experimentally earned structural states.","textChars":88,"textLines":1,"bbox":[956,300,228,102]}
+{"kind":"shape","id":"sh/b61o7eh4","slide":6,"bbox":[114,474,1008,132]}
+{"kind":"textbox","id":"sh/q5sny9gj","slide":6,"text":"THE GAP","textPreview":"THE GAP","textChars":7,"textLines":1,"bbox":[140,492,150,24]}
+{"kind":"textbox","id":"sh/8b21sby1","slide":6,"text":"No reviewed study closes vibration → uncertainty-aware member state → present water-transport condition → code-referenced performance → constrained retrofit sequencing in one experimentally anchored chain.","textPreview":"No reviewed study closes vibration → uncertainty-aware member state → present water-transport condition → code-referenced performance → c...","textChars":205,"textLines":1,"bbox":[140,528,956,58]}
+{"kind":"notes","id":"nt/frnmd9","slide":6,"text":"Present the novelty as integration with experimentally earned interfaces—not a generic claim that SHM, twins, or optimisation are new.\n[Sources]\n- Eight-paper review on slides 4–5\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Sections 2, 5 and 7\n[/Sources]"}
+{"kind":"slide","id":"sl/f174t1","slide":7,"title":"STRUCIQ · REVIEW 1","textShapes":21}
+{"kind":"textbox","id":"sh/pof2xcny","slide":7,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/2lo32xo7","slide":7,"text":"Aim & objectives","textPreview":"Aim & objectives","textChars":16,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/nmxkv25s","slide":7,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/0zml0761","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/10f2tsnm","slide":7,"bbox":[44,148,1192,108]}
+{"kind":"textbox","id":"sh/ex4jyxov","slide":7,"text":"AIM","textPreview":"AIM","textChars":3,"textLines":1,"bbox":[70,168,88,28]}
+{"kind":"textbox","id":"sh/fydkr25g","slide":7,"text":"Develop and experimentally calibrate a vibration-driven structural digital twin that converts uncertain member states into defensible retrofit and inspection decisions.","textPreview":"Develop and experimentally calibrate a vibration-driven structural digital twin that converts uncertain member states into defensible ret...","textChars":168,"textLines":1,"bbox":[168,164,1030,66]}
+{"kind":"shape","id":"sh/kvqlcrml","slide":7,"bbox":[44,282,372,118]}
+{"kind":"shape","id":"sh/lgz25wnq","slide":7,"bbox":[62,300,34,34]}
+{"kind":"textbox","id":"sh/pwze583e","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[62,305,34,22]}
+{"kind":"textbox","id":"sh/ovqxc329","slide":7,"text":"Sense and identify","textPreview":"Sense and identify","textChars":18,"textLines":1,"bbox":[108,298,290,30]}
+{"kind":"textbox","id":"sh/3uhw3ilo","slide":7,"text":"Extract modal parameters while correcting environmental and operational variability.","textPreview":"Extract modal parameters while correcting environmental and operational variability.","textChars":84,"textLines":1,"bbox":[108,332,290,52]}
+{"kind":"shape","id":"sh/2t8fadk3","slide":7,"bbox":[432,282,372,118]}
+{"kind":"shape","id":"sh/1sze183i","slide":7,"bbox":[450,300,34,34]}
+{"kind":"textbox","id":"sh/grqx832x","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[450,305,34,22]}
+{"kind":"textbox","id":"sh/fqhwzylc","slide":7,"text":"Infer member state","textPreview":"Infer member state","textChars":18,"textLines":1,"bbox":[496,298,290,30]}
+{"kind":"textbox","id":"sh/epov6tkr","slide":7,"text":"Estimate per-member stiffness ratio α with full posterior covariance.","textPreview":"Estimate per-member stiffness ratio α with full posterior covariance.","textChars":69,"textLines":1,"bbox":[496,332,290,52]}
+{"kind":"shape","id":"sh/lojyds3m","slide":7,"bbox":[820,282,416,118]}
+{"kind":"shape","id":"sh/0naxkn21","slide":7,"bbox":[838,300,34,34]}
+{"kind":"textbox","id":"sh/krihgbad","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[838,305,34,22]}
+{"kind":"textbox","id":"sh/5sry9gry","slide":7,"text":"Calibrate transport","textPreview":"Calibrate transport","textChars":19,"textLines":1,"bbox":[884,298,334,30]}
+{"kind":"textbox","id":"sh/ip0ze1s7","slide":7,"text":"Relate α, crack width and orientation to ASTM C1585 sorptivity.","textPreview":"Relate α, crack width and orientation to ASTM C1585 sorptivity.","textChars":63,"textLines":1,"bbox":[884,332,334,52]}
+{"kind":"shape","id":"sh/jq9g769s","slide":7,"bbox":[44,422,372,118]}
+{"kind":"shape","id":"sh/w3ihcrah","slide":7,"bbox":[62,440,34,34]}
+{"kind":"textbox","id":"sh/x4ry5wb2","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[62,445,34,22]}
+{"kind":"textbox","id":"sh/a10zahsb","slide":7,"text":"Classify performance","textPreview":"Classify performance","textChars":20,"textLines":1,"bbox":[108,438,290,30]}
+{"kind":"textbox","id":"sh/v29g3mtw","slide":7,"text":"Map state to N-modified component acceptance and conformal performance levels.","textPreview":"Map state to N-modified component acceptance and conformal performance levels.","textChars":78,"textLines":1,"bbox":[108,472,290,52]}
+{"kind":"shape","id":"sh/ozyh8ra5","slide":7,"bbox":[432,422,804,118]}
+{"kind":"shape","id":"sh/907y1wbq","slide":7,"bbox":[450,440,34,34]}
+{"kind":"textbox","id":"sh/rup0rmds","slide":7,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[450,445,34,22]}
+{"kind":"textbox","id":"sh/qtwzihc7","slide":7,"text":"Optimise decisions","textPreview":"Optimise decisions","textChars":18,"textLines":1,"bbox":[496,438,722,30]}
+{"kind":"textbox","id":"sh/dw7itcvi","slide":7,"text":"Jointly select acquisition, repair, sequencing and scheduling under hard constraints.","textPreview":"Jointly select acquisition, repair, sequencing and scheduling under hard constraints.","textChars":85,"textLines":1,"bbox":[496,472,722,52]}
+{"kind":"shape","id":"sh/cvyhkrux","slide":7,"bbox":[44,578,1192,52]}
+{"kind":"textbox","id":"sh/zyp0vmdo","slide":7,"text":"Primary experimental readout: water sorptivity. Primary computational output: a feasible intervention schedule with quantified uncertainty.","textPreview":"Primary experimental readout: water sorptivity. Primary computational output: a feasible intervention schedule with quantified uncertainty.","textChars":139,"textLines":1,"bbox":[64,590,1152,28]}
+{"kind":"notes","id":"nt/f174t1","slide":7,"text":"State each objective as an input-output commitment; avoid calling unmeasured coefficients results.\n[Sources]\n- /Users/sreekaraditya/Downloads/Project_Summary_ABR120.docx\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Sections 5, 7 and 9\n[/Sources]"}
+{"kind":"slide","id":"sl/tjxfuf","slide":8,"title":"STRUCIQ · REVIEW 1","textShapes":4}
+{"kind":"textbox","id":"sh/rql8vqt0","slide":8,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/sru9ovu5","slide":8,"text":"Architecture · the chain from sensing to retrofit","textPreview":"Architecture · the chain from sensing to retrofit","textChars":49,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/ts3qx0bq","slide":8,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/i1crilc3","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/jml8rqto","slide":8,"bbox":[44,132,446,30]}
+{"kind":"textbox","id":"sh/4nu9kbu9","slide":8,"text":"DEFINED ARCHITECTURE · EXPERIMENTAL COEFFICIENTS PENDING","textPreview":"DEFINED ARCHITECTURE · EXPERIMENTAL COEFFICIENTS PENDING","textChars":56,"textLines":1,"bbox":[52,137,430,20]}
+{"kind":"shape","id":"sh/5o3qtgbu","slide":8,"bbox":[44,174,1192,474]}
+{"kind":"image","id":"im/jm5wryl0","slide":8,"name":"","alt":"StrucIQ end-to-end architecture diagram supplied by the user","bbox":[56,184,1168,452]}
+{"kind":"notes","id":"nt/tjxfuf","slide":8,"text":"Walk left to right: sensing, identification, environmental correction, inference, two-tier transport, classification, decision.\n[Sources]\n- /Users/sreekaraditya/Downloads/arch_light.svg (user-provided architecture asset)\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Section 5\n[/Sources]"}
+{"kind":"slide","id":"sl/x5ppsf","slide":9,"title":"STRUCIQ · REVIEW 1","textShapes":15}
+{"kind":"textbox","id":"sh/c72lovax","slide":9,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/b6tkfatc","slide":9,"text":"Two-tier state · use only the information that actually exists","textPreview":"Two-tier state · use only the information that actually exists","textChars":62,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/a5k3m5sr","slide":9,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/lcvmlkbe","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/kbmlsfat","slide":9,"bbox":[44,164,508,352]}
+{"kind":"shape","id":"sh/zad4jato","slide":9,"bbox":[68,186,176,30]}
+{"kind":"textbox","id":"sh/y9k3q5s3","slide":9,"text":"CONTINUOUS TIER","textPreview":"CONTINUOUS TIER","textChars":15,"textLines":1,"bbox":[76,191,160,20]}
+{"kind":"textbox","id":"sh/1gr29gba","slide":9,"text":"Vibration + environment","textPreview":"Vibration + environment","textChars":23,"textLines":1,"bbox":[68,240,420,38]}
+{"kind":"textbox","id":"sh/0filgbap","slide":9,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[252,284,92,40]}
+{"kind":"shape","id":"sh/qlsnyxkv","slide":9,"bbox":[102,330,392,96]}
+{"kind":"textbox","id":"sh/bm1o72lg","slide":9,"text":"α with covariance","textPreview":"α with covariance","textChars":17,"textLines":1,"bbox":[122,344,352,30]}
+{"kind":"textbox","id":"sh/cnu50721","slide":9,"text":"Reduced M(α) · deliberately wider uncertainty","textPreview":"Reduced M(α) · deliberately wider uncertainty","textChars":45,"textLines":1,"bbox":[122,382,352,28]}
+{"kind":"shape","id":"sh/xo369s3m","slide":9,"bbox":[684,164,508,352]}
+{"kind":"shape","id":"sh/ypcn2xk7","slide":9,"bbox":[708,186,170,30]}
+{"kind":"textbox","id":"sh/zqlob2ls","slide":9,"text":"INSPECTION TIER","textPreview":"INSPECTION TIER","textChars":15,"textLines":1,"bbox":[716,191,154,20]}
+{"kind":"textbox","id":"sh/kru5472x","slide":9,"text":"Directed crack survey","textPreview":"Directed crack survey","textChars":21,"textLines":1,"bbox":[708,240,420,38]}
+{"kind":"textbox","id":"sh/ls36dc3i","slide":9,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[892,284,92,40]}
+{"kind":"shape","id":"sh/mdcn6hk3","slide":9,"bbox":[742,330,392,96]}
+{"kind":"textbox","id":"sh/7e5ofmlo","slide":9,"text":"α + w + θ","textPreview":"α + w + θ","textChars":9,"textLines":1,"bbox":[762,344,352,30]}
+{"kind":"textbox","id":"sh/ji543mhw","slide":9,"text":"Full M(α,w,θ) · tighter experimental band","textPreview":"Full M(α,w,θ) · tighter experimental band","textChars":41,"textLines":1,"bbox":[762,382,352,28]}
+{"kind":"shape","id":"sh/ihwnuh0b","slide":9,"bbox":[578,286,80,80]}
+{"kind":"textbox","id":"sh/5knm5wz2","slide":9,"text":"GATE","textPreview":"GATE","textChars":4,"textLines":1,"bbox":[578,308,80,26]}
+{"kind":"shape","id":"sh/4je5wrih","slide":9,"bbox":[150,550,936,76]}
+{"kind":"textbox","id":"sh/vu54z2hk","slide":9,"text":"Geometry remains valid for k periods or until a new damage event. Acquisition is therefore a decision with cost and timing—not a permanent assumption.","textPreview":"Geometry remains valid for k periods or until a new damage event. Acquisition is therefore a decision with cost and timing—not a permanen...","textChars":150,"textLines":1,"bbox":[174,568,888,42]}
+{"kind":"notes","id":"nt/x5ppsf","slide":9,"text":"Emphasise that the full transport model is never used when crack geometry has not been measured.\n[Sources]\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Section 6\n- /Users/sreekaraditya/Downloads/StrucIQ_Session_Summary.md, Section 3\n[/Sources]"}
+{"kind":"slide","id":"sl/q5i2za","slide":10,"title":"STRUCIQ · REVIEW 1","textShapes":23}
+{"kind":"textbox","id":"sh/ixcvu1cj","slide":10,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/503e5gvu","slide":10,"text":"Decision layer · uncertainty becomes an action","textPreview":"Decision layer · uncertainty becomes an action","textChars":46,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/4zudwbu9","slide":10,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/r2lw76d0","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/q1cvy1cf","slide":10,"bbox":[44,170,260,160]}
+{"kind":"shape","id":"sh/d4ne9gv6","slide":10,"bbox":[62,188,100,30]}
+{"kind":"textbox","id":"sh/c3ed0bul","slide":10,"text":"STATE","textPreview":"STATE","textChars":5,"textLines":1,"bbox":[70,193,84,20]}
+{"kind":"textbox","id":"sh/761cvmdw","slide":10,"text":"α covariance\n+ cover condition","textPreview":"α covariance | + cover condition","textChars":30,"textLines":2,"bbox":[62,240,224,62]}
+{"kind":"textbox","id":"sh/65svmhcb","slide":10,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[302,220,40,44]}
+{"kind":"shape","id":"sh/gruxojm9","slide":10,"bbox":[342,170,260,160]}
+{"kind":"shape","id":"sh/hs3exo3u","slide":10,"bbox":[360,188,100,30]}
+{"kind":"textbox","id":"sh/u5cvmt43","slide":10,"text":"OPTIONS","textPreview":"OPTIONS","textChars":7,"textLines":1,"bbox":[368,193,84,20]}
+{"kind":"textbox","id":"sh/v6lwvelo","slide":10,"text":"Inspect · inject\n coat · jacket","textPreview":"Inspect · inject |  coat · jacket","textChars":31,"textLines":2,"bbox":[360,240,224,62]}
+{"kind":"textbox","id":"sh/4vexs3m5","slide":10,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[600,220,40,44]}
+{"kind":"shape","id":"sh/5wne183q","slide":10,"bbox":[640,170,260,160]}
+{"kind":"shape","id":"sh/itwfqt4z","slide":10,"bbox":[658,188,100,30]}
+{"kind":"textbox","id":"sh/3u5wzylk","slide":10,"text":"QUBO","textPreview":"QUBO","textChars":4,"textLines":1,"bbox":[666,193,84,20]}
+{"kind":"textbox","id":"sh/kzadgzm1","slide":10,"text":"Expected benefit\n− λ variance − cost","textPreview":"Expected benefit | − λ variance − cost","textChars":36,"textLines":2,"bbox":[658,240,224,62]}
+{"kind":"textbox","id":"sh/l0jep43m","slide":10,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[898,220,40,44]}
+{"kind":"shape","id":"sh/1kr2xwry","slide":10,"bbox":[938,170,260,160]}
+{"kind":"shape","id":"sh/0jil4bad","slide":10,"bbox":[956,188,100,30]}
+{"kind":"textbox","id":"sh/fi9kv698","slide":10,"text":"PLAN","textPreview":"PLAN","textChars":4,"textLines":1,"bbox":[964,193,84,20]}
+{"kind":"textbox","id":"sh/eh0321sn","slide":10,"text":"Who · what\n which period","textPreview":"Who · what |  which period","textChars":24,"textLines":2,"bbox":[956,240,224,62]}
+{"kind":"shape","id":"sh/pobm1gra","slide":10,"bbox":[44,374,568,92]}
+{"kind":"textbox","id":"sh/on2l8bap","slide":10,"text":"Separate budgets","textPreview":"Separate budgets","textChars":16,"textLines":1,"bbox":[64,390,180,26]}
+{"kind":"textbox","id":"sh/nmtkz694","slide":10,"text":"Inspection and intervention resources are not fungible.","textPreview":"Inspection and intervention resources are not fungible.","textChars":55,"textLines":1,"bbox":[254,388,334,54]}
+{"kind":"shape","id":"sh/2lk361sj","slide":10,"bbox":[640,374,568,92]}
+{"kind":"textbox","id":"sh/xcvm5gr6","slide":10,"text":"Hard precedence","textPreview":"Hard precedence","textChars":15,"textLines":1,"bbox":[660,390,180,26]}
+{"kind":"textbox","id":"sh/cb2lcval","slide":10,"text":"Cover repair must precede jacketing on the same member.","textPreview":"Cover repair must precede jacketing on the same member.","textChars":55,"textLines":1,"bbox":[850,388,334,54]}
+{"kind":"shape","id":"sh/uxwz6d83","slide":10,"bbox":[44,486,568,92]}
+{"kind":"textbox","id":"sh/vy50zipo","slide":10,"text":"Temporal separation","textPreview":"Temporal separation","textChars":19,"textLines":1,"bbox":[64,502,180,26]}
+{"kind":"textbox","id":"sh/gzeh8nq9","slide":10,"text":"Geometry at period t can inform intervention no earlier than t+1.","textPreview":"Geometry at period t can inform intervention no earlier than t+1.","textChars":65,"textLines":1,"bbox":[254,500,334,54]}
+{"kind":"shape","id":"sh/hkni1s7u","slide":10,"bbox":[640,486,568,92]}
+{"kind":"textbox","id":"sh/ilwjax8f","slide":10,"text":"Operational limit","textPreview":"Operational limit","textChars":17,"textLines":1,"bbox":[660,502,180,26]}
+{"kind":"textbox","id":"sh/3mp032pk","slide":10,"text":"Cap members simultaneously taken out of service.","textPreview":"Cap members simultaneously taken out of service.","textChars":48,"textLines":1,"bbox":[850,500,334,54]}
+{"kind":"textbox","id":"sh/4ny1c7q5","slide":10,"text":"Exact MILP provides the benchmark; QUBO provides the interaction-aware formulation and scaling study.","textPreview":"Exact MILP provides the benchmark; QUBO provides the interaction-aware formulation and scaling study.","textChars":101,"textLines":1,"bbox":[44,620,1120,26]}
+{"kind":"notes","id":"nt/q5i2za","slide":10,"text":"Do not claim quantum speedup. The contribution is the decision formulation and its exact classical benchmark.\n[Sources]\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Sections 9 and 12\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/milp_solver_summary.csv\n[/Sources]"}
+{"kind":"slide","id":"sl/77dc4m","slide":11,"title":"STRUCIQ · REVIEW 1","textShapes":23}
+{"kind":"textbox","id":"sh/ap8ryl4n","slide":11,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/xsza9gne","slide":11,"text":"Experimental campaign · cast, damage, measure, calibrate","textPreview":"Experimental campaign · cast, damage, measure, calibrate","textChars":56,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/crq90bmt","slide":11,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/n2h8365c","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/21oru14r","slide":11,"bbox":[44,136,274,30]}
+{"kind":"textbox","id":"sh/p4zq5gn2","slide":11,"text":"PLANNED · REVIEW 2 METHODOLOGY","textPreview":"PLANNED · REVIEW 2 METHODOLOGY","textChars":30,"textLines":1,"bbox":[52,141,258,20]}
+{"kind":"shape","id":"sh/o3q9wbmh","slide":11,"bbox":[114,198,72,72]}
+{"kind":"textbox","id":"sh/fyx8zm50","slide":11,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[114,218,72,28]}
+{"kind":"shape","id":"sh/exorq14f","slide":11,"bbox":[186,233,96,3]}
+{"kind":"textbox","id":"sh/cvah4bi5","slide":11,"text":"Cast","textPreview":"Cast","textChars":4,"textLines":1,"bbox":[54,294,192,34]}
+{"kind":"textbox","id":"sh/dwjyxgjq","slide":11,"text":"RC members with controlled geometry and sensor locations","textPreview":"RC members with controlled geometry and sensor locations","textChars":56,"textLines":1,"bbox":[46,340,208,112]}
+{"kind":"shape","id":"sh/qtsz210f","slide":11,"bbox":[352,198,72,72]}
+{"kind":"textbox","id":"sh/bu1gv61k","slide":11,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[352,218,72,28]}
+{"kind":"shape","id":"sh/orqh0ri9","slide":11,"bbox":[424,233,96,3]}
+{"kind":"textbox","id":"sh/pszytwju","slide":11,"text":"Baseline","textPreview":"Baseline","textChars":8,"textLines":1,"bbox":[292,294,192,34]}
+{"kind":"textbox","id":"sh/2p8fyh03","slide":11,"text":"Modal response + environment + intact reference","textPreview":"Modal response + environment + intact reference","textChars":47,"textLines":1,"bbox":[284,340,208,112]}
+{"kind":"shape","id":"sh/3qhgrm1o","slide":11,"bbox":[590,198,72,72]}
+{"kind":"textbox","id":"sh/8nuhcvid","slide":11,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[590,218,72,28]}
+{"kind":"shape","id":"sh/9o3y50jy","slide":11,"bbox":[662,233,96,3]}
+{"kind":"textbox","id":"sh/h4zypgb2","slide":11,"text":"Grade damage","textPreview":"Grade damage","textChars":12,"textLines":1,"bbox":[530,294,192,34]}
+{"kind":"textbox","id":"sh/w3qhwvah","slide":11,"text":"UTM displacement control in fixed shallow increments","textPreview":"UTM displacement control in fixed shallow increments","textChars":52,"textLines":1,"bbox":[522,340,208,112]}
+{"kind":"shape","id":"sh/vihgnqtw","slide":11,"bbox":[828,198,72,72]}
+{"kind":"textbox","id":"sh/uh8zulsr","slide":11,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[828,218,72,28]}
+{"kind":"shape","id":"sh/9gzylgb6","slide":11,"bbox":[900,233,96,3]}
+{"kind":"textbox","id":"sh/8f6xsbal","slide":11,"text":"Survey","textPreview":"Survey","textChars":6,"textLines":1,"bbox":[768,294,192,34]}
+{"kind":"textbox","id":"sh/7exgj6t0","slide":11,"text":"Crack width w and orientation θ with calibrated imaging","textPreview":"Crack width w and orientation θ with calibrated imaging","textChars":55,"textLines":1,"bbox":[760,340,208,112]}
+{"kind":"shape","id":"sh/mdofq1sf","slide":11,"bbox":[1066,198,72,72]}
+{"kind":"textbox","id":"sh/lcfyhwbu","slide":11,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1066,218,72,28]}
+{"kind":"textbox","id":"sh/kb6xoba9","slide":11,"text":"Transport","textPreview":"Transport","textChars":9,"textLines":1,"bbox":[1006,294,192,34]}
+{"kind":"textbox","id":"sh/ah4vix87","slide":11,"text":"Cut specimens and measure ASTM C1585 sorptivity","textPreview":"Cut specimens and measure ASTM C1585 sorptivity","textChars":47,"textLines":1,"bbox":[998,340,208,112]}
+{"kind":"shape","id":"sh/bidwr29s","slide":11,"bbox":[44,500,566,112]}
+{"kind":"textbox","id":"sh/cjmdk7qd","slide":11,"text":"Primary loading route","textPreview":"Primary loading route","textChars":21,"textLines":1,"bbox":[66,518,220,24]}
+{"kind":"textbox","id":"sh/xkvetcry","slide":11,"text":"UTM displacement control; shake-table loading remains an optional extension.","textPreview":"UTM displacement control; shake-table loading remains an optional extension.","textChars":76,"textLines":1,"bbox":[66,550,520,44]}
+{"kind":"shape","id":"sh/2dkvex8b","slide":11,"bbox":[630,500,606,112]}
+{"kind":"textbox","id":"sh/netwn29g","slide":11,"text":"Primary response","textPreview":"Primary response","textChars":16,"textLines":1,"bbox":[652,518,220,24]}
+{"kind":"textbox","id":"sh/of2dg7q1","slide":11,"text":"Water sorptivity—not chloride ingress—paired with α, w and θ for held-out model comparison.","textPreview":"Water sorptivity—not chloride ingress—paired with α, w and θ for held-out model comparison.","textChars":91,"textLines":1,"bbox":[652,550,560,44]}
+{"kind":"notes","id":"nt/77dc4m","slide":11,"text":"Methodology is included to demonstrate project readiness; no physical calibration result is claimed yet.\n[Sources]\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Sections 7–8\n- ASTM C1585/C1585M, Standard Test Method for Measurement of Rate of Absorption of Water by Hydraulic-Cement Concretes\n[/Sources]"}
+{"kind":"slide","id":"sl/j4ukk3","slide":12,"title":"STRUCIQ · REVIEW 1","textShapes":14}
+{"kind":"textbox","id":"sh/alojml0b","slide":12,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/xofih0zm","slide":12,"text":"What we have learned computationally","textPreview":"What we have learned computationally","textChars":36,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/wn61ovi1","slide":12,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/nyx0b6hk","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/mxozi10z","slide":12,"bbox":[44,164,372,320]}
+{"kind":"textbox","id":"sh/90fidgzq","slide":12,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[68,194,324,88]}
+{"kind":"textbox","id":"sh/8z6hkbi5","slide":12,"text":"SENSORS","textPreview":"SENSORS","textChars":7,"textLines":1,"bbox":[68,286,324,28]}
+{"kind":"shape","id":"sh/ruh0naho","slide":12,"bbox":[96,330,268,2]}
+{"kind":"textbox","id":"sh/6t8ju50j","slide":12,"text":"Mode shapes break the left/right symmetry; extra channels gave little precision gain in the 3-parameter portal study.","textPreview":"Mode shapes break the left/right symmetry; extra channels gave little precision gain in the 3-parameter portal study.","textChars":117,"textLines":1,"bbox":[78,354,304,104]}
+{"kind":"shape","id":"sh/k3itwzmd","slide":12,"bbox":[441,164,372,320]}
+{"kind":"textbox","id":"sh/5orap4ny","slide":12,"text":"19 / 21","textPreview":"19 / 21","textChars":7,"textLines":1,"bbox":[465,194,324,88]}
+{"kind":"textbox","id":"sh/i10bup47","slide":12,"text":"MEMBERS SEPARABLE","textPreview":"MEMBERS SEPARABLE","textChars":17,"textLines":1,"bbox":[465,286,324,28]}
+{"kind":"shape","id":"sh/j29snu5s","slide":12,"bbox":[493,330,268,2]}
+{"kind":"textbox","id":"sh/wzitsfm1","slide":12,"text":"A sparse prior reduced mean posterior SD from 0.164 to 0.096 in the illustrative 21-member case.","textPreview":"A sparse prior reduced mean posterior SD from 0.164 to 0.096 in the illustrative 21-member case.","textChars":96,"textLines":1,"bbox":[475,354,304,104]}
+{"kind":"shape","id":"sh/x0ralknm","slide":12,"bbox":[838,164,372,320]}
+{"kind":"textbox","id":"sh/axgbqp4b","slide":12,"text":"50","textPreview":"50","textChars":2,"textLines":1,"bbox":[862,194,324,88]}
+{"kind":"textbox","id":"sh/by9sja5g","slide":12,"text":"INDEPENDENT SEEDS","textPreview":"INDEPENDENT SEEDS","textChars":17,"textLines":1,"bbox":[862,286,324,28]}
+{"kind":"shape","id":"sh/ovy9ofm5","slide":12,"bbox":[890,330,268,2]}
+{"kind":"textbox","id":"sh/9w7ahknq","slide":12,"text":"Flat, sparse and oracle planning distributions were tested rather than judged from one annealing run.","textPreview":"Flat, sparse and oracle planning distributions were tested rather than judged from one annealing run.","textChars":101,"textLines":1,"bbox":[872,354,304,104]}
+{"kind":"shape","id":"sh/pszqlwfe","slide":12,"bbox":[92,530,1096,92]}
+{"kind":"textbox","id":"sh/orq9sbyt","slide":12,"text":"Design consequence","textPreview":"Design consequence","textChars":18,"textLines":1,"bbox":[116,548,190,24]}
+{"kind":"textbox","id":"sh/3qh8j6x8","slide":12,"text":"Measure better, parameterise by physical member, retain covariance, and report solver distributions—not a single favourable run.","textPreview":"Measure better, parameterise by physical member, retain covariance, and report solver distributions—not a single favourable run.","textChars":128,"textLines":1,"bbox":[304,545,856,48]}
+{"kind":"notes","id":"nt/j4ukk3","slide":12,"text":"All numbers on this slide are computational evidence, not physical validation.\n[Sources]\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/REPORT.md\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/prior_comparison_summary.csv\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/prior_plan_solver_50_seed_summary.csv\n[/Sources]"}
+{"kind":"slide","id":"sl/0ino2k","slide":13,"title":"STRUCIQ · REVIEW 1","textShapes":18}
+{"kind":"textbox","id":"sh/72xc3qd4","slide":13,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/836twvup","slide":13,"text":"Work done · executable evidence already produced","textPreview":"Work done · executable evidence already produced","textChars":48,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/94fu50va","slide":13,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/u5oby5cv","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/v6xc7qdg","slide":13,"bbox":[44,154,474,466]}
+{"kind":"shape","id":"sh/w76t0vu1","slide":13,"bbox":[66,180,26,26]}
+{"kind":"textbox","id":"sh/h8fu90v6","slide":13,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,182,26,18]}
+{"kind":"textbox","id":"sh/a9kbm1wr","slide":13,"text":"Portal-frame FE model and modal benchmark","textPreview":"Portal-frame FE model and modal benchmark","textChars":41,"textLines":1,"bbox":[106,178,382,34]}
+{"kind":"shape","id":"sh/badcv6dw","slide":13,"bbox":[66,238,26,26]}
+{"kind":"textbox","id":"sh/7mlwzi58","slide":13,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,240,26,18]}
+{"kind":"textbox","id":"sh/6lcv6don","slide":13,"text":"Fisher-information sensor and parameterisation study","textPreview":"Fisher-information sensor and parameterisation study","textChars":52,"textLines":1,"bbox":[106,236,382,34]}
+{"kind":"shape","id":"sh/tone1sny","slide":13,"bbox":[66,296,26,26]}
+{"kind":"textbox","id":"sh/8nud8n6t","slide":13,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,298,26,18]}
+{"kind":"textbox","id":"sh/jilwvi5w","slide":13,"text":"Sparse Bayesian member-state estimation with covariance","textPreview":"Sparse Bayesian member-state estimation with covariance","textChars":55,"textLines":1,"bbox":[106,294,382,34]}
+{"kind":"shape","id":"sh/yhcv2dob","slide":13,"bbox":[66,354,26,26]}
+{"kind":"textbox","id":"sh/lk3ex8n2","slide":13,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,356,26,18]}
+{"kind":"textbox","id":"sh/kjud4n6h","slide":13,"text":"21-member, 6-period decision instance: 504 primary / 678 total bits","textPreview":"21-member, 6-period decision instance: 504 primary / 678 total bits","textChars":67,"textLines":1,"bbox":[106,352,382,34]}
+{"kind":"shape","id":"sh/bu1wry50","slide":13,"bbox":[66,412,26,26]}
+{"kind":"textbox","id":"sh/atsvytof","slide":13,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,414,26,18]}
+{"kind":"textbox","id":"sh/epsfat87","slide":13,"text":"Independent feasibility checker and penalty negative control","textPreview":"Independent feasibility checker and penalty negative control","textChars":60,"textLines":1,"bbox":[106,410,382,34]}
+{"kind":"shape","id":"sh/fq1wjy9s","slide":13,"bbox":[66,470,26,26]}
+{"kind":"textbox","id":"sh/0raxc3qd","slide":13,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,472,26,18]}
+{"kind":"textbox","id":"sh/1sjel8ry","slide":13,"text":"Exact MILP benchmark + exact enumeration ladder","textPreview":"Exact MILP benchmark + exact enumeration ladder","textChars":47,"textLines":1,"bbox":[106,468,382,34]}
+{"kind":"shape","id":"sh/mtsfed8j","slide":13,"bbox":[66,528,26,26]}
+{"kind":"textbox","id":"sh/ne1wni94","slide":13,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[66,530,26,18]}
+{"kind":"textbox","id":"sh/ofaxg3q9","slide":13,"text":"50-seed prior/oracle planning diagnosis","textPreview":"50-seed prior/oracle planning diagnosis","textChars":39,"textLines":1,"bbox":[106,526,382,34]}
+{"kind":"shape","id":"sh/9gjyp87u","slide":13,"bbox":[544,154,692,228]}
+{"kind":"shape","id":"sh/bilgrip0","slide":13,"bbox":[544,400,692,220]}
+{"kind":"textbox","id":"sh/kny94bet","slide":13,"text":"Verification evidence: exact optimum is known only on reduced ladders; full-scale QUBO optimality is benchmarked against exact MILP.","textPreview":"Verification evidence: exact optimum is known only on reduced ladders; full-scale QUBO optimality is benchmarked against exact MILP.","textChars":132,"textLines":1,"bbox":[560,594,650,24]}
+{"kind":"image","id":"im/tw7apw36","slide":13,"name":"","alt":"50-seed prior-plan Jaccard distribution from the Demo-Sim results","bbox":[560,166,660,204]}
+{"kind":"image","id":"im/i1w76x0j","slide":13,"name":"","alt":"Twenty-seed solver reliability figure from the Demo-Sim results","bbox":[560,412,660,190]}
+{"kind":"notes","id":"nt/0ino2k","slide":13,"text":"Say simulation has been run over 50 independent seeds for the prior/oracle diagnosis; separately, the general reliability protocol uses 20 seeds per configuration.\n[Sources]\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/prior_plan_jaccard_50_seeds.csv\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/solver_reliability_seeds.csv\n- /Users/sreekaraditya/Desktop/Demo-Sim/results/milp_solver_summary.csv\n[/Sources]"}
+{"kind":"slide","id":"sl/o2r6ub","slide":14,"title":"STRUCIQ · REVIEW 1","textShapes":34}
+{"kind":"textbox","id":"sh/4vmpwfad","slide":14,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/3udo3a98","slide":14,"text":"Work to be done · experimental evidence","textPreview":"Work to be done · experimental evidence","textChars":39,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/2t47upsn","slide":14,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/hsv61kr2","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/grm5sfah","slide":14,"bbox":[44,158,372,436]}
+{"kind":"shape","id":"sh/fqdoza9w","slide":14,"bbox":[64,180,206,30]}
+{"kind":"textbox","id":"sh/u54nq5sb","slide":14,"text":"NOW → OCT 2026","textPreview":"NOW → OCT 2026","textChars":14,"textLines":1,"bbox":[72,185,190,20]}
+{"kind":"textbox","id":"sh/t4v6x0rq","slide":14,"text":"Freeze experiment","textPreview":"Freeze experiment","textChars":17,"textLines":1,"bbox":[64,238,332,44]}
+{"kind":"shape","id":"sh/s325oval","slide":14,"bbox":[66,313,20,20]}
+{"kind":"textbox","id":"sh/u94fu9kr","slide":14,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[66,315,20,14]}
+{"kind":"textbox","id":"sh/vadgne1c","slide":14,"text":"Specimen and damage-grade design","textPreview":"Specimen and damage-grade design","textChars":32,"textLines":1,"bbox":[100,310,286,34]}
+{"kind":"shape","id":"sh/gbmxwj2x","slide":14,"bbox":[66,375,20,20]}
+{"kind":"textbox","id":"sh/hcvypoji","slide":14,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[66,377,20,14]}
+{"kind":"textbox","id":"sh/65kfq9kv","slide":14,"text":"Sensor clock and OMA protocol","textPreview":"Sensor clock and OMA protocol","textChars":29,"textLines":1,"bbox":[100,372,286,34]}
+{"kind":"shape","id":"sh/76tgje1g","slide":14,"bbox":[66,437,20,20]}
+{"kind":"textbox","id":"sh/872xsj21","slide":14,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[66,439,20,14]}
+{"kind":"textbox","id":"sh/t8byl4j6","slide":14,"text":"Imaging calibration + uncertainty","textPreview":"Imaging calibration + uncertainty","textChars":33,"textLines":1,"bbox":[100,434,286,34]}
+{"kind":"shape","id":"sh/yhkfmpkj","slide":14,"bbox":[66,499,20,20]}
+{"kind":"textbox","id":"sh/j2twfu14","slide":14,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[66,501,20,14]}
+{"kind":"textbox","id":"sh/na5476d0","slide":14,"text":"Pre-register nested M models","textPreview":"Pre-register nested M models","textChars":28,"textLines":1,"bbox":[100,496,286,34]}
+{"kind":"shape","id":"sh/29w3y1wf","slide":14,"bbox":[441,158,372,436]}
+{"kind":"shape","id":"sh/pw7m9gvq","slide":14,"bbox":[461,180,206,30]}
+{"kind":"textbox","id":"sh/obel0be5","slide":14,"text":"NOV 2026 → JAN 2027","textPreview":"NOV 2026 → JAN 2027","textChars":19,"textLines":1,"bbox":[469,185,190,20]}
+{"kind":"textbox","id":"sh/byp4b6dw","slide":14,"text":"Run campaign","textPreview":"Run campaign","textChars":12,"textLines":1,"bbox":[461,238,332,44]}
+{"kind":"shape","id":"sh/axg321wb","slide":14,"bbox":[463,313,20,20]}
+{"kind":"textbox","id":"sh/x07mdgv2","slide":14,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[463,315,20,14]}
+{"kind":"textbox","id":"sh/czyl4beh","slide":14,"text":"Cast and cure specimens","textPreview":"Cast and cure specimens","textChars":23,"textLines":1,"bbox":[497,310,286,34]}
+{"kind":"shape","id":"sh/r2lkzmxs","slide":14,"bbox":[463,375,20,20]}
+{"kind":"textbox","id":"sh/61c3qhw7","slide":14,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[463,377,20,14]}
+{"kind":"textbox","id":"sh/w7a10nu5","slide":14,"text":"Baseline modal characterisation","textPreview":"Baseline modal characterisation","textChars":31,"textLines":1,"bbox":[497,372,286,34]}
+{"kind":"shape","id":"sh/h8ji9sba","slide":14,"bbox":[463,437,20,20]}
+{"kind":"textbox","id":"sh/ul8jydcz","slide":14,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[463,439,20,14]}
+{"kind":"textbox","id":"sh/vm107idk","slide":14,"text":"Controlled graded damage","textPreview":"Controlled graded damage","textChars":24,"textLines":1,"bbox":[497,434,286,34]}
+{"kind":"shape","id":"sh/8jq1w3ut","slide":14,"bbox":[463,499,20,20]}
+{"kind":"textbox","id":"sh/9kzi58ve","slide":14,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[463,501,20,14]}
+{"kind":"textbox","id":"sh/mh8zutcn","slide":14,"text":"Crack survey and sorptivity tests","textPreview":"Crack survey and sorptivity tests","textChars":33,"textLines":1,"bbox":[497,496,286,34]}
+{"kind":"shape","id":"sh/7ih03yd8","slide":14,"bbox":[838,158,372,436]}
+{"kind":"shape","id":"sh/sfu187ux","slide":14,"bbox":[858,180,206,30]}
+{"kind":"textbox","id":"sh/tg3i1cbi","slide":14,"text":"FEB → APR 2027","textPreview":"FEB → APR 2027","textChars":14,"textLines":1,"bbox":[866,185,190,20]}
+{"kind":"textbox","id":"sh/pkvyt4bu","slide":14,"text":"Validate and integrate","textPreview":"Validate and integrate","textChars":22,"textLines":1,"bbox":[858,238,332,44]}
+{"kind":"shape","id":"sh/ojmx0zap","slide":14,"bbox":[860,313,20,20]}
+{"kind":"textbox","id":"sh/nidgrut4","slide":14,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[860,315,20,14]}
+{"kind":"textbox","id":"sh/2h4fypsj","slide":14,"text":"Held-out comparison of M models","textPreview":"Held-out comparison of M models","textChars":31,"textLines":1,"bbox":[894,310,286,34]}
+{"kind":"shape","id":"sh/xofyx4b6","slide":14,"bbox":[860,375,20,20]}
+{"kind":"textbox","id":"sh/cn6x4zal","slide":14,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[860,377,20,14]}
+{"kind":"textbox","id":"sh/bmxgvut0","slide":14,"text":"Physical calibration of N","textPreview":"Physical calibration of N","textChars":25,"textLines":1,"bbox":[894,372,286,34]}
+{"kind":"shape","id":"sh/al4f29sf","slide":14,"bbox":[860,437,20,20]}
+{"kind":"textbox","id":"sh/lsfy1or2","slide":14,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[860,439,20,14]}
+{"kind":"textbox","id":"sh/kr6x8jax","slide":14,"text":"End-to-end decision case","textPreview":"End-to-end decision case","textChars":24,"textLines":1,"bbox":[894,434,286,34]}
+{"kind":"shape","id":"sh/ix0v2l8z","slide":14,"bbox":[860,499,20,20]}
+{"kind":"textbox","id":"sh/3y9cv69k","slide":14,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[860,501,20,14]}
+{"kind":"textbox","id":"sh/4zid4bq5","slide":14,"text":"Final report, code and defence","textPreview":"Final report, code and defence","textChars":30,"textLines":1,"bbox":[894,496,286,34]}
+{"kind":"shape","id":"sh/50ruxgrq","slide":14,"bbox":[156,622,924,44]}
+{"kind":"textbox","id":"sh/q10v6l8b","slide":14,"text":"Review 2 endpoint: methodology frozen and pilot measurements demonstrated—not a forced claim of full physical validation.","textPreview":"Review 2 endpoint: methodology frozen and pilot measurements demonstrated—not a forced claim of full physical validation.","textChars":121,"textLines":1,"bbox":[176,632,884,22]}
+{"kind":"notes","id":"nt/o2r6ub","slide":14,"text":"This separates current computational readiness from the physical evidence still to be earned.\n[Sources]\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Sections 8, 13 and 14\n- User-provided milestones: Review 2 by end-October 2026; submission April 2027\n[/Sources]"}
+{"kind":"slide","id":"sl/3nyuuw","slide":15,"title":"STRUCIQ · REVIEW 1","textShapes":19}
+{"kind":"textbox","id":"sh/b2lcrep8","slide":15,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/c3udkjqt","slide":15,"text":"Roadmap · Review 1 to April 2027 submission","textPreview":"Roadmap · Review 1 to April 2027 submission","textChars":43,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/d43ut47e","slide":15,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/y5cvm98z","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/z6lcvepk","slide":15,"bbox":[104,344,1072,6]}
+{"kind":"shape","id":"sh/k7udojq5","slide":15,"bbox":[114,312,70,70]}
+{"kind":"shape","id":"sh/l83exo7q","slide":15,"bbox":[134,332,30,30]}
+{"kind":"shape","id":"sh/m9wvqtob","slide":15,"bbox":[64,156,170,30]}
+{"kind":"textbox","id":"sh/7a5wzypg","slide":15,"text":"AUG 2026","textPreview":"AUG 2026","textChars":8,"textLines":1,"bbox":[72,161,154,20]}
+{"kind":"textbox","id":"sh/jml8n2dc","slide":15,"text":"Review 1","textPreview":"Review 1","textChars":8,"textLines":1,"bbox":[50,206,198,34]}
+{"kind":"textbox","id":"sh/ylc7exc7","slide":15,"text":"Problem · gap · objectives\nArchitecture + simulation evidence","textPreview":"Problem · gap · objectives | Architecture + simulation evidence","textChars":61,"textLines":2,"bbox":[44,246,210,66]}
+{"kind":"shape","id":"sh/l83qpcvi","slide":15,"bbox":[352,312,70,70]}
+{"kind":"shape","id":"sh/k7upg7ux","slide":15,"bbox":[372,332,30,30]}
+{"kind":"shape","id":"sh/bil8jidg","slide":15,"bbox":[302,468,170,30]}
+{"kind":"textbox","id":"sh/ahs7adcv","slide":15,"text":"OCT 2026","textPreview":"OCT 2026","textChars":8,"textLines":1,"bbox":[310,473,154,20]}
+{"kind":"textbox","id":"sh/xk3qlsvm","slide":15,"text":"Review 2","textPreview":"Review 2","textChars":8,"textLines":1,"bbox":[288,518,198,34]}
+{"kind":"textbox","id":"sh/wjupcnu1","slide":15,"text":"Frozen methodology\nPilot sensing and test protocol","textPreview":"Frozen methodology | Pilot sensing and test protocol","textChars":50,"textLines":2,"bbox":[282,558,210,66]}
+{"kind":"shape","id":"sh/ve58vmdk","slide":15,"bbox":[590,312,70,70]}
+{"kind":"shape","id":"sh/udw7mhcz","slide":15,"bbox":[610,332,30,30]}
+{"kind":"shape","id":"sh/q90belw7","slide":15,"bbox":[540,156,170,30]}
+{"kind":"textbox","id":"sh/ra9snqxs","slide":15,"text":"JAN 2027","textPreview":"JAN 2027","textChars":8,"textLines":1,"bbox":[548,161,154,20]}
+{"kind":"textbox","id":"sh/cbitgved","slide":15,"text":"Campaign complete","textPreview":"Campaign complete","textChars":17,"textLines":1,"bbox":[526,206,198,34]}
+{"kind":"textbox","id":"sh/dcrap0fy","slide":15,"text":"Graded damage, imaging\nand sorptivity dataset","textPreview":"Graded damage, imaging | and sorptivity dataset","textChars":45,"textLines":2,"bbox":[520,246,210,66]}
+{"kind":"shape","id":"sh/ex0bilwj","slide":15,"bbox":[828,312,70,70]}
+{"kind":"shape","id":"sh/zy9srqx4","slide":15,"bbox":[848,332,30,30]}
+{"kind":"shape","id":"sh/0zitkvep","slide":15,"bbox":[778,468,170,30]}
+{"kind":"textbox","id":"sh/10bat0fu","slide":15,"text":"MAR 2027","textPreview":"MAR 2027","textChars":8,"textLines":1,"bbox":[786,473,154,20]}
+{"kind":"textbox","id":"sh/u1gr61wf","slide":15,"text":"Integrated validation","textPreview":"Integrated validation","textChars":21,"textLines":1,"bbox":[764,518,198,34]}
+{"kind":"textbox","id":"sh/v2psf6xk","slide":15,"text":"Held-out M / N evaluation\nDecision study and exact checks","textPreview":"Held-out M / N evaluation | Decision study and exact checks","textChars":57,"textLines":2,"bbox":[758,558,210,66]}
+{"kind":"shape","id":"sh/xwvel4z2","slide":15,"bbox":[1066,312,70,70]}
+{"kind":"shape","id":"sh/wvmdszyx","slide":15,"bbox":[1086,332,30,30]}
+{"kind":"shape","id":"sh/budwjuhc","slide":15,"bbox":[1016,156,170,30]}
+{"kind":"textbox","id":"sh/at4vqpgr","slide":15,"text":"APR 2027","textPreview":"APR 2027","textChars":8,"textLines":1,"bbox":[1024,161,154,20]}
+{"kind":"textbox","id":"sh/l0fep4ze","slide":15,"text":"Submission","textPreview":"Submission","textChars":10,"textLines":1,"bbox":[1002,206,198,34]}
+{"kind":"textbox","id":"sh/kz6dwjyt","slide":15,"text":"Final report · code · data\nPresentation and viva","textPreview":"Final report · code · data | Presentation and viva","textChars":48,"textLines":2,"bbox":[996,246,210,66]}
+{"kind":"textbox","id":"sh/jydwneh8","slide":15,"text":"The critical path is experimental—not slideware: freeze protocol → collect paired measurements → hold out validation → integrate decisions.","textPreview":"The critical path is experimental—not slideware: freeze protocol → collect paired measurements → hold out validation → integrate decisions.","textChars":139,"textLines":1,"bbox":[130,646,1020,28]}
+{"kind":"notes","id":"nt/3nyuuw","slide":15,"text":"Keep April 2027 as the fixed endpoint; the experimental campaign is the critical path.\n[Sources]\n- User-provided submission and Review 2 dates\n- /Users/sreekaraditya/Downloads/StrucIQ_Team_Briefing.docx, Section 13\n[/Sources]"}
+{"kind":"slide","id":"sl/nyagzp","slide":16,"title":"STRUCIQ · REVIEW 1","textShapes":11}
+{"kind":"textbox","id":"sh/32lg7el8","slide":16,"text":"STRUCIQ · REVIEW 1","textPreview":"STRUCIQ · REVIEW 1","textChars":18,"textLines":1,"bbox":[44,26,420,20]}
+{"kind":"textbox","id":"sh/43uhgjmt","slide":16,"text":"References · APA style","textPreview":"References · APA style","textChars":22,"textLines":1,"bbox":[44,55,1192,58]}
+{"kind":"shape","id":"sh/54ny9o3e","slide":16,"bbox":[44,118,1192,2]}
+{"kind":"textbox","id":"sh/q5wzi94z","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1184,674,52,20]}
+{"kind":"shape","id":"sh/r65gbelk","slide":16,"bbox":[44,150,574,494]}
+{"kind":"shape","id":"sh/c7ehkjmp","slide":16,"bbox":[638,150,598,494]}
+{"kind":"textbox","id":"sh/d8nydo3a","slide":16,"text":"Pirrò, M., Pereira, S., Gentile, C., Magalhães, F., & Cunha, Á. (2025). Damage detection under environmental and operational variability using the cointegration technique. Engineering Structures, 328, 119700. https://doi.org/10.1016/j.engstruct.2025.119700","textPreview":"Pirrò, M., Pereira, S., Gentile, C., Magalhães, F., & Cunha, Á. (2025). Damage detection under environmental and operational variability ...","textChars":256,"textLines":1,"bbox":[64,168,534,104]}
+{"kind":"shape","id":"sh/e9wzmt4v","slide":16,"bbox":[64,274,534,1]}
+{"kind":"textbox","id":"sh/za50fylg","slide":16,"text":"Giglioni, V., Venanzi, I., Poggioni, V., Milani, A., & Ubertini, F. (2023). Autoencoders for unsupervised real-time bridge health assessment. Computer-Aided Civil and Infrastructure Engineering, 38, 959–974. https://doi.org/10.1111/mice.12943","textPreview":"Giglioni, V., Venanzi, I., Poggioni, V., Milani, A., & Ubertini, F. (2023). Autoencoders for unsupervised real-time bridge health assessm...","textChars":242,"textLines":1,"bbox":[64,284,534,104]}
+{"kind":"shape","id":"sh/bydwfy9c","slide":16,"bbox":[64,390,534,1]}
+{"kind":"textbox","id":"sh/qxkv6t8r","slide":16,"text":"Torzoni, M., Rosafalco, L., Manzoni, A., Mariani, S., & Corigliano, A. (2022). SHM under varying environmental conditions: An approach based on model order reduction and deep learning. Computers & Structures, 266, 106790. https://doi.org/10.1016/j.compstruc.2022.106790","textPreview":"Torzoni, M., Rosafalco, L., Manzoni, A., Mariani, S., & Corigliano, A. (2022). SHM under varying environmental conditions: An approach ba...","textChars":269,"textLines":1,"bbox":[64,400,534,104]}
+{"kind":"shape","id":"sh/x0ve18ri","slide":16,"bbox":[64,506,534,1]}
+{"kind":"textbox","id":"sh/czmd83qx","slide":16,"text":"Torzoni, M., Manzoni, A., & Mariani, S. (2023). A multi-fidelity surrogate model for structural health monitoring exploiting model order reduction and artificial neural networks. Mechanical Systems and Signal Processing, 197, 110376. https://doi.org/10.1016/j.ymssp.2023.110376","textPreview":"Torzoni, M., Manzoni, A., & Mariani, S. (2023). A multi-fidelity surrogate model for structural health monitoring exploiting model order ...","textChars":277,"textLines":1,"bbox":[64,516,534,104]}
+{"kind":"textbox","id":"sh/3utwby90","slide":16,"text":"Torzoni, M., Manzoni, A., & Mariani, S. (2022). Structural health monitoring of civil structures: A diagnostic framework powered by deep metric learning. Computers & Structures, 271, 106858. https://doi.org/10.1016/j.compstruc.2022.106858","textPreview":"Torzoni, M., Manzoni, A., & Mariani, S. (2022). Structural health monitoring of civil structures: A diagnostic framework powered by deep ...","textChars":238,"textLines":1,"bbox":[658,168,558,104]}
+{"kind":"shape","id":"sh/2tkv2tsv","slide":16,"bbox":[658,274,558,1]}
+{"kind":"textbox","id":"sh/pwbed8r6","slide":16,"text":"Kamariotis, A., Chatzi, E., & Straub, D. (2022). Value of information from vibration-based structural health monitoring extracted via Bayesian model updating. Mechanical Systems and Signal Processing, 166, 108465. https://doi.org/10.1016/j.ymssp.2021.108465","textPreview":"Kamariotis, A., Chatzi, E., & Straub, D. (2022). Value of information from vibration-based structural health monitoring extracted via Bay...","textChars":257,"textLines":1,"bbox":[658,284,558,104]}
+{"kind":"shape","id":"sh/ov2d43al","slide":16,"bbox":[658,390,558,1]}
+{"kind":"textbox","id":"sh/7qxw7i9k","slide":16,"text":"Arcieri, G., Hoelzl, C., Schwery, O., Straub, D., Papakonstantinou, K. G., & Chatzi, E. (2023). Bridging POMDPs and Bayesian decision making for robust maintenance planning under model uncertainty: An application to railway systems. Reliability Engineering & System Safety, 239, 109496. https://doi.org/10.1016/j.ress.2023.109496","textPreview":"Arcieri, G., Hoelzl, C., Schwery, O., Straub, D., Papakonstantinou, K. G., & Chatzi, E. (2023). Bridging POMDPs and Bayesian decision mak...","textChars":329,"textLines":1,"bbox":[658,400,558,104]}
+{"kind":"shape","id":"sh/mp4fed8z","slide":16,"bbox":[658,506,558,1]}
+{"kind":"textbox","id":"sh/il8z6hs7","slide":16,"text":"Mengel, L., Krauss, H.-W., & Lowke, D. (2022). Water transport through cracked concrete structures—Effect of mixture proportion on separating crack geometry and permeability. Materials, 15, 5807. https://doi.org/10.3390/ma15175807","textPreview":"Mengel, L., Krauss, H.-W., & Lowke, D. (2022). Water transport through cracked concrete structures—Effect of mixture proportion on separa...","textChars":230,"textLines":1,"bbox":[658,516,558,104]}
+{"kind":"notes","id":"nt/nyagzp","slide":16,"text":"[Sources]\n- Crossref metadata retrieved by DOI on 26 August 2026\n- DOI links printed on this slide\n[/Sources]"}

@@ -1,0 +1,5 @@
+scenario,native_qubo_energy,energy_when_scored_by_reference_objective,reference_objective_delta_vs_main,different_member_period_action_decisions,intervention_jaccard_similarity,geometry_acquisitions,feasible,source
+point_estimate,27.274699370842427,33.168155555729754,17.34132281690836,22,0.0,0,True,illustrative
+no_initial_geometry_acquisition_allowed,59.835973156034015,42.135025823139586,26.30819308431819,17,0.10526315789473684,0,True,illustrative
+no_interactions,16.20086391986115,19.31026367843151,3.483430939610116,3,0.75,2,True,illustrative
+naive_severity,64.62109683896415,64.62109683896415,48.794264100142755,18,0.0,0,True,illustrative

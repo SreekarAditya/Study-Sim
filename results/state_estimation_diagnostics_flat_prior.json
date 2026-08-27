@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "message": "`ftol` termination condition is satisfied.",
+  "cost": 8.207546321353211,
+  "n_function_evaluations": 14,
+  "prior": "weak_gaussian_flat",
+  "information_condition_number": 54.79705065630773,
+  "separability_rule": "alpha_sd <= 0.17 AND max_abs_parameter_correlation <= 0.82",
+  "separable_members": 9,
+  "tradeoff_members": 12,
+  "source": "illustrative"
+}

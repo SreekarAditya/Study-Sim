@@ -1,0 +1,4 @@
+configuration,seed_count,best_energy,median_energy,worst_energy,energy_spread,feasible_runs,runs_with_geometry_acquisition,geometry_acquisition_run_fraction,best_run_geometry_acquisitions,source
+flat_prior,50,36.33230484533124,78.99234822392464,123.80263092194218,87.47032607661095,50,38,0.76,1,illustrative
+sparse_prior,50,42.45509066211525,94.28433916985523,129.54195452918066,87.0868638670654,50,23,0.46,1,illustrative
+ground_truth_oracle,50,-36.50189383071847,33.43890819558874,104.31065203621984,140.8125458669383,50,0,0.0,0,illustrative

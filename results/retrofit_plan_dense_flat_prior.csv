@@ -1,0 +1,17 @@
+member_id,member,period,action,source
+0,M00,4,cover,illustrative
+1,M01,4,acquire_geometry,illustrative
+1,M01,5,combined,illustrative
+2,M02,1,acquire_geometry,illustrative
+2,M02,3,combined,illustrative
+3,M03,3,cover,illustrative
+5,M05,5,cover,illustrative
+6,M06,2,cover,illustrative
+6,M06,6,jacket,illustrative
+12,M12,1,combined,illustrative
+13,M13,1,acquire_geometry,illustrative
+13,M13,2,combined,illustrative
+14,M14,6,cover,illustrative
+17,M17,3,acquire_geometry,illustrative
+17,M17,4,combined,illustrative
+19,M19,1,cover,illustrative

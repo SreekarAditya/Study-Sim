@@ -1,0 +1,8 @@
+{
+  "unconstrained_objective_absolute_coefficient_bound": 5441.183026132451,
+  "base_penalty": 5442.183026132451,
+  "strong_domain_penalty": 27210.915130662255,
+  "derivation": "base = sum(abs(all unconstrained linear and quadratic coefficients)) + 1; any objective improvement is bounded by the sum",
+  "tuned_downward": false,
+  "source": "illustrative"
+}

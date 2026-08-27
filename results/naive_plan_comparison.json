@@ -1,0 +1,8 @@
+{
+  "different_member_period_action_decisions": 18,
+  "intervention_jaccard_similarity": 0.0,
+  "qubo_reference_objective_naive": 64.62109683896415,
+  "qubo_reference_objective_main": 15.826832738821395,
+  "naive_objective_disadvantage": 48.794264100142755,
+  "source": "illustrative"
+}
